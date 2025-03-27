@@ -140,16 +140,22 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 | [![Monster](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-8Iz8KB1pJNil.jpg)](https://anilist.co/anime/19) | [![Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx141534-Tmnlz4mvYhaU.jpg)](https://anilist.co/anime/141534) | [![One-Punch Man OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21416-IwCJBh54K3iw.jpg)](https://anilist.co/anime/21416) | [![One-Punch Man Season 2 OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108945-snH9n5sN1vrb.png)](https://anilist.co/anime/108945) |
 | Attack on Titan... High | Uzumaki | Bakemonogatari | The Daily Life ... King |
 | [![Attack on Titan: Junior High](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg)](https://anilist.co/anime/21281) | [![Uzumaki](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111314-wcXR5AyJmkiQ.jpg)](https://anilist.co/anime/111314) | [![Bakemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-WNUrgxsHoE4V.jpg)](https://anilist.co/anime/5081) | [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) |
-| From the New World | SAKAMOTO DAYS Part 2 | Ave Mujica - Th...ast - |
-| [![From the New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png)](https://anilist.co/anime/13125) | [![SAKAMOTO DAYS Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184237-UUYVRjFZTw1e.jpg)](https://anilist.co/anime/184237) | [![Ave Mujica - The Die is Cast -](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg)](https://anilist.co/anime/169295) |
+| From the New World | SAKAMOTO DAYS Part 2 | Ave Mujica - Th...ast - | Rascal Does Not...enpai |
+| [![From the New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-NdLjbmyHmoAD.png)](https://anilist.co/anime/13125) | [![SAKAMOTO DAYS Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184237-UUYVRjFZTw1e.jpg)](https://anilist.co/anime/184237) | [![Ave Mujica - The Die is Cast -](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg)](https://anilist.co/anime/169295) | [![Rascal Does Not Dream of Bunny Girl Senpai](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101291-L71WpAkZPtgm.jpg)](https://anilist.co/anime/101291) |
+| Ranking of Kings | Shangri-La Frontier | MASHLE: MAGIC A...SCLES | Black Clover |
+| [![Ranking of Kings](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113717-fkqTxEqqga61.jpg)](https://anilist.co/anime/113717) | [![Shangri-La Frontier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151970-ld9HtIKiv7xo.jpg)](https://anilist.co/anime/151970) | [![MASHLE: MAGIC AND MUSCLES](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151801-wYg28dEaJAw3.png)](https://anilist.co/anime/151801) | [![Black Clover](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-O2LWFOG8bK1u.jpg)](https://anilist.co/anime/97940) |
+| Spirited Away |
+| [![Spirited Away](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199-ilRRfrty7HrJ.jpg)](https://anilist.co/anime/199) |
 
 </details>
 
 <details><summary>Paused</summary>
 
-| Akame ga Kill! | KINMOZA! | The Apothecary ...aries | Tokyo Revengers...art 2 |
+| Akame ga Kill! | KINMOZA! | The Apothecary ...aries | Frieren: Beyond...s End |
 | :---: | :---: | :---: | :---: |
-| [![Akame ga Kill!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20613-4VGGPacciJBL.jpg)](https://anilist.co/anime/20613) | [![KINMOZA!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16732-dQXm6lnmbWZ4.png)](https://anilist.co/anime/16732) | [![The Apothecary Diaries](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg)](https://anilist.co/anime/161645) | [![Tokyo Revengers Season 2 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163329-lGJRnYV9dcjc.jpg)](https://anilist.co/anime/163329) |
+| [![Akame ga Kill!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20613-4VGGPacciJBL.jpg)](https://anilist.co/anime/20613) | [![KINMOZA!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16732-dQXm6lnmbWZ4.png)](https://anilist.co/anime/16732) | [![The Apothecary Diaries](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg)](https://anilist.co/anime/161645) | [![Frieren: Beyond Journey’s End](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-gHSraOSa0nBG.jpg)](https://anilist.co/anime/154587) |
+| Tokyo Revengers...art 2 | TSUKIMICHI -Moo...tasy- |
+| [![Tokyo Revengers Season 2 Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163329-lGJRnYV9dcjc.jpg)](https://anilist.co/anime/163329) | [![TSUKIMICHI -Moonlit Fantasy-](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125206-O2MsOWdW1lVi.jpg)](https://anilist.co/anime/125206) |
 
 </details>
 
@@ -209,13 +215,13 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 
 <details><summary>Dropped</summary>
 
-| Cyberpunk: Edge...nners | Elfen Lied | KONOSUBA -God's...ld! 2 | Frieren: Beyond...s End |
+| Cyberpunk: Edge...nners | Elfen Lied | KONOSUBA -God's...ld! 2 | Tekken: Bloodline |
 | :---: | :---: | :---: | :---: |
-| [![Cyberpunk: Edgerunners](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120377-GdoVPT4ZVxJn.jpg)](https://anilist.co/anime/120377) | [![Elfen Lied](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx226-vqteB2impeYH.png)](https://anilist.co/anime/226) | [![KONOSUBA -God's blessing on this wonderful world! 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21699-Fkbnkl9ZC6fW.png)](https://anilist.co/anime/21699) | [![Frieren: Beyond Journey’s End](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-gHSraOSa0nBG.jpg)](https://anilist.co/anime/154587) |
-| Tekken: Bloodline | TRIGUN STAMPEDE | TSUKIMICHI -Moo...tasy- | BLUE LOCK Season 2 |
-| [![Tekken: Bloodline](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153906-FGzh9vn1bCCw.jpg)](https://anilist.co/anime/153906) | [![TRIGUN STAMPEDE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151040-zQEvp8bCA987.png)](https://anilist.co/anime/151040) | [![TSUKIMICHI -Moonlit Fantasy-](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125206-O2MsOWdW1lVi.jpg)](https://anilist.co/anime/125206) | [![BLUE LOCK Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163146-f2vYhmiGn6dM.png)](https://anilist.co/anime/163146) |
-| Re:ZERO -Starti...son 3 | The Seven Deadl...lypse | The Seven Deadl...son 2 | The Eminence in...hadow |
-| [![Re:ZERO -Starting Life in Another World- Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-Y0r8AGBeVlCi.jpg)](https://anilist.co/anime/163134) | [![The Seven Deadly Sins: Four Knights of the Apocalypse](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148862-ctw1sn45I4ZX.png)](https://anilist.co/anime/148862) | [![The Seven Deadly Sins: Four Knights of the Apocalypse Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176292-meJTWM8zQjjp.jpg)](https://anilist.co/anime/176292) | [![The Eminence in Shadow](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-O7nR1Wrav2dH.jpg)](https://anilist.co/anime/130298) |
+| [![Cyberpunk: Edgerunners](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120377-GdoVPT4ZVxJn.jpg)](https://anilist.co/anime/120377) | [![Elfen Lied](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx226-vqteB2impeYH.png)](https://anilist.co/anime/226) | [![KONOSUBA -God's blessing on this wonderful world! 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21699-Fkbnkl9ZC6fW.png)](https://anilist.co/anime/21699) | [![Tekken: Bloodline](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153906-FGzh9vn1bCCw.jpg)](https://anilist.co/anime/153906) |
+| TRIGUN STAMPEDE | BLUE LOCK Season 2 | Re:ZERO -Starti...son 3 | The Seven Deadl...lypse |
+| [![TRIGUN STAMPEDE](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151040-zQEvp8bCA987.png)](https://anilist.co/anime/151040) | [![BLUE LOCK Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163146-f2vYhmiGn6dM.png)](https://anilist.co/anime/163146) | [![Re:ZERO -Starting Life in Another World- Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-Y0r8AGBeVlCi.jpg)](https://anilist.co/anime/163134) | [![The Seven Deadly Sins: Four Knights of the Apocalypse](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148862-ctw1sn45I4ZX.png)](https://anilist.co/anime/148862) |
+| The Seven Deadl...son 2 | The Eminence in...hadow |
+| [![The Seven Deadly Sins: Four Knights of the Apocalypse Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176292-meJTWM8zQjjp.jpg)](https://anilist.co/anime/176292) | [![The Eminence in Shadow](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-O7nR1Wrav2dH.jpg)](https://anilist.co/anime/130298) |
 
 </details>
 
@@ -317,7 +323,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--26_00:59:42_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--03--27_00:59:19_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
