@@ -140,12 +140,14 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 | [![One-Punch Man OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21416-IwCJBh54K3iw.jpg)](https://anilist.co/anime/21416) | [![One-Punch Man Season 2 OVA](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108945-snH9n5sN1vrb.png)](https://anilist.co/anime/108945) | [![Attack on Titan: Junior High](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg)](https://anilist.co/anime/21281) | [![Uzumaki](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx111314-ui2D6cvpNumy.jpg)](https://anilist.co/anime/111314) |
 | Bakemonogatari | The Daily Life ... King | From the New World | SAKAMOTO DAYS Part 2 |
 | [![Bakemonogatari](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-9GocceQ5Z865.jpg)](https://anilist.co/anime/5081) | [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) | [![From the New World](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13125-2EDZb8ahshQc.png)](https://anilist.co/anime/13125) | [![SAKAMOTO DAYS Part 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184237-UUYVRjFZTw1e.jpg)](https://anilist.co/anime/184237) |
-| Ave Mujica - Th...ast - | Rascal Does Not...enpai | Ranking of Kings | Shangri-La Frontier |
-| [![Ave Mujica - The Die is Cast -](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg)](https://anilist.co/anime/169295) | [![Rascal Does Not Dream of Bunny Girl Senpai](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101291-wfEdgPqtfU0l.jpg)](https://anilist.co/anime/101291) | [![Ranking of Kings](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113717-9sNnN8WRgK15.jpg)](https://anilist.co/anime/113717) | [![Shangri-La Frontier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151970-xtIx3VqEk02X.jpg)](https://anilist.co/anime/151970) |
-| MASHLE: MAGIC A...SCLES | Black Clover | Spirited Away | SK8 the Infinity |
-| [![MASHLE: MAGIC AND MUSCLES](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151801-XxVf22Le6C8o.png)](https://anilist.co/anime/151801) | [![Black Clover](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png)](https://anilist.co/anime/97940) | [![Spirited Away](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199-sWefXJvXkDOb.jpg)](https://anilist.co/anime/199) | [![SK8 the Infinity](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124153-uEBI764OSavB.png)](https://anilist.co/anime/124153) |
-| Kemono Jihen | Summer Ghost | A Sign of Affection | The Executioner... Life |
-| [![Kemono Jihen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114085-2w5rYZTOa7ER.jpg)](https://anilist.co/anime/114085) | [![Summer Ghost](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130050-rXTPVJ9UGN8Y.jpg)](https://anilist.co/anime/130050) | [![A Sign of Affection](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166794-1MAXFMgND6qS.jpg)](https://anilist.co/anime/166794) | [![The Executioner and Her Way of Life](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129193-pT3W5PpiMAUB.png)](https://anilist.co/anime/129193) |
+| Ave Mujica - Th...ast - | Ranking of Kings | Shangri-La Frontier | MASHLE: MAGIC A...SCLES |
+| [![Ave Mujica - The Die is Cast -](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169295-WxoGTeMbje4T.jpg)](https://anilist.co/anime/169295) | [![Ranking of Kings](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113717-9sNnN8WRgK15.jpg)](https://anilist.co/anime/113717) | [![Shangri-La Frontier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151970-xtIx3VqEk02X.jpg)](https://anilist.co/anime/151970) | [![MASHLE: MAGIC AND MUSCLES](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151801-XxVf22Le6C8o.png)](https://anilist.co/anime/151801) |
+| Black Clover | Spirited Away | SK8 the Infinity | Kemono Jihen |
+| [![Black Clover](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97940-fyh8o7gNbha0.png)](https://anilist.co/anime/97940) | [![Spirited Away](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199-sWefXJvXkDOb.jpg)](https://anilist.co/anime/199) | [![SK8 the Infinity](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124153-uEBI764OSavB.png)](https://anilist.co/anime/124153) | [![Kemono Jihen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114085-2w5rYZTOa7ER.jpg)](https://anilist.co/anime/114085) |
+| Summer Ghost | A Sign of Affection | The Executioner... Life | The 100 Girlfri...e You |
+| [![Summer Ghost](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130050-rXTPVJ9UGN8Y.jpg)](https://anilist.co/anime/130050) | [![A Sign of Affection](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166794-1MAXFMgND6qS.jpg)](https://anilist.co/anime/166794) | [![The Executioner and Her Way of Life](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129193-pT3W5PpiMAUB.png)](https://anilist.co/anime/129193) | [![The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162694-QFBei5pbjSh8.png)](https://anilist.co/anime/162694) |
+| BOCCHI THE ROCK! |
+| [![BOCCHI THE ROCK!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png)](https://anilist.co/anime/130003) |
 
 </details>
 
@@ -212,6 +214,8 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 | [![Tokyo Ghoul](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg)](https://anilist.co/anime/20605) | [![Tokyo Ghoul √A](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-glDf9EMKeCwe.jpg)](https://anilist.co/anime/20850) | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) | [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png)](https://anilist.co/anime/21827) |
 | Your Name. | Mob Psycho 100 | SAKAMOTO DAYS | Mob Psycho 100 II |
 | [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png)](https://anilist.co/anime/21519) | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-6YUSbh2m0N1p.jpg)](https://anilist.co/anime/21507) | [![SAKAMOTO DAYS](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png)](https://anilist.co/anime/177709) | [![Mob Psycho 100 II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg)](https://anilist.co/anime/101338) |
+| Mob Psycho 100 III |
+| [![Mob Psycho 100 III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg)](https://anilist.co/anime/140439) |
 
 </details>
 
@@ -229,9 +233,9 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 
 <details><summary>Current</summary>
 
-| Kaguya-sama: Lo...s War | Oshi No Ko | Delicious in Dungeon |
-| :---: | :---: | :---: |
-| [![Kaguya-sama: Love is War](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-ufrjLzhSz7L1.jpg)](https://anilist.co/anime/101921) | [![Oshi No Ko](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-WqmmwZ4nMzAy.png)](https://anilist.co/anime/150672) | [![Delicious in Dungeon](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153518-IVXPDY5ph3kO.jpg)](https://anilist.co/anime/153518) |
+| Kaguya-sama: Lo...s War | Oshi No Ko | Rascal Does Not...enpai | Delicious in Dungeon |
+| :---: | :---: | :---: | :---: |
+| [![Kaguya-sama: Love is War](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-ufrjLzhSz7L1.jpg)](https://anilist.co/anime/101921) | [![Oshi No Ko](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-WqmmwZ4nMzAy.png)](https://anilist.co/anime/150672) | [![Rascal Does Not Dream of Bunny Girl Senpai](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101291-wfEdgPqtfU0l.jpg)](https://anilist.co/anime/101291) | [![Delicious in Dungeon](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153518-IVXPDY5ph3kO.jpg)](https://anilist.co/anime/153518) |
 
 </details>
 
@@ -325,7 +329,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--04_00:59:38_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--05_00:59:01_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
