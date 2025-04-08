@@ -146,6 +146,8 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 | [![Spirited Away](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199-sWefXJvXkDOb.jpg)](https://anilist.co/anime/199) | [![SK8 the Infinity](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124153-uEBI764OSavB.png)](https://anilist.co/anime/124153) | [![Kemono Jihen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114085-2w5rYZTOa7ER.jpg)](https://anilist.co/anime/114085) | [![Summer Ghost](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130050-rXTPVJ9UGN8Y.jpg)](https://anilist.co/anime/130050) |
 | A Sign of Affection | The Executioner... Life | The 100 Girlfri...e You | BOCCHI THE ROCK! |
 | [![A Sign of Affection](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166794-1MAXFMgND6qS.jpg)](https://anilist.co/anime/166794) | [![The Executioner and Her Way of Life](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129193-pT3W5PpiMAUB.png)](https://anilist.co/anime/129193) | [![The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162694-QFBei5pbjSh8.png)](https://anilist.co/anime/162694) | [![BOCCHI THE ROCK!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png)](https://anilist.co/anime/130003) |
+| Gurren Lagann |
+| [![Gurren Lagann](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-XwRnjzGeFWRQ.png)](https://anilist.co/anime/2001) |
 
 </details>
 
@@ -329,7 +331,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--07_01:02:11_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--08_01:00:11_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
