@@ -1,7 +1,10 @@
-import requests
-import json
 import re
+import json
 import datetime
+
+import requests
+
+from parser import parse
 
 
 class GitHubAPI:
@@ -21,7 +24,7 @@ class ABDGHMD:
     def __init__(self):
         self.md = ""
 
-    def write(self, text, centered=True, summary="", sep='\n\n'):
+    def write(self, text, centered=True, summary="", sep="\n\n"):
         if centered:
             self.md += '<div align="center">\n\n'
         if summary:
@@ -98,7 +101,6 @@ class ABDGHMD:
         with open(path, "w", encoding="utf-8") as f:
             f.write(self.md.strip())
 
-import requests
 
 def fetch_anilist(username):
     md = ABDGHMD()
@@ -127,40 +129,36 @@ def fetch_anilist(username):
     variables = {"username": username}
     response = requests.post(url, json={"query": query, "variables": variables}).json()
 
-    if 'data' not in response or not response['data'] or 'MediaListCollection' not in response['data']:
+    if "data" not in response or not response["data"] or "MediaListCollection" not in response["data"]:
         return "Error: Unable to fetch data from AniList. Please check the username or try again later."
 
-    lists = response['data']['MediaListCollection']['lists']
+    lists = response["data"]["MediaListCollection"]["lists"]
     if not lists:
         return "No anime lists found for this user."
 
     for lst in lists:
         animes = []
-        for entry in lst['entries']:
-            media = entry['media']
-            title = media['title']['english'] or media['title']['romaji']
-            animes.append({
-                "Title": ABDGHMD._start_end(title, max=20),
-                "poster": f"[![{title}]({media['coverImage']['large']})]({media['siteUrl']})",
-            })
+        for entry in lst["entries"]:
+            media = entry["media"]
+            title = media["title"]["english"] or media["title"]["romaji"]
+            animes.append(
+                {
+                    "Title": ABDGHMD._start_end(title, max=20),
+                    "poster": f"[![{title}]({media['coverImage']['large']})]({media['siteUrl']})",
+                }
+            )
 
         # Group anime by status
-        status = entry['status'].replace("_", " ").title()
+        status = entry["status"].replace("_", " ").title()
         temp_tables = ABDGHMD()
         max_len = 4
         for i in range(0, len(animes), max_len):
-            temp_tables.write(
-                ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), 
-                centered=True, 
-                header=True if i == 0 else False
-            ), 
-            centered=False, 
-            sep="\n"
-        )
+            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), centered=True, header=True if i == 0 else False), centered=False, sep="\n")
         md.write(str(temp_tables), centered=False, summary=status)
 
     return str(md)
-    
+
+
 def get_anime(username):
     md = ABDGHMD()
     r = requests.get("https://hianime-to-myanimelist.vercel.app/get_json_list", params={"username": username, "offset_inc": 1000}).json()
@@ -234,27 +232,27 @@ def get_projects(username):
 
     def snake_to_title(s: str) -> str:
         s = s.replace("-", " ").replace("_", " ")
-        return ' '.join(word[0].upper() + word[1:] if word else '' for word in s.split(' '))
-
+        return " ".join(word[0].upper() + word[1:] if word else "" for word in s.split(" "))
 
     def camel_to_title(s: str) -> str:
         if "LaTeX" in s:
             return s
-        return re.sub(r'([a-z])([A-Z])', r'\1 \2', s)
+        return re.sub(r"([a-z])([A-Z])", r"\1 \2", s)
 
-    suffix = ":add"
     projects = []
     repos = GitHubAPI.get_repos(username)
     for repo in repos:
-        if repo["description"] and repo["description"].strip().endswith(suffix):
-            projects.append(
-                {
-                    "Project": f"**[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**",
-                    "Description": repo["description"].rstrip(suffix).strip(),
-                    "Created": repo["created_at"].split("T")[0][:4],
-                }
-            )
-    projects.sort(key=lambda x: x["Created"], reverse=True)
+        if repo["description"]:
+            parsed = parse(repo["description"])
+            if parsed["is_parsable"]:
+                priority = parsed.get("p", 999)
+
+                projects.append({"Project": f"**[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**", "Description": parsed["description"].strip(), "Created": repo["created_at"].split("T")[0][:4], "_priority": priority})
+
+    projects.sort(key=lambda x: (x["_priority"], -int(x["Created"])))
+    for project in projects:
+        del project["_priority"]
+
     return projects
 
 
@@ -268,16 +266,16 @@ def make_markdown():
     # md.write(open("assets/md/certifications.md", encoding="utf-8").read(), centered=False)
     # md.write(ABDGHMD.heading("GitHub Stats"))
     md.write(ABDGHMD.heading("Languages & Tools"))
-    md.write("Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *\"I’ll Google it real quick.\"* 👀")
+    md.write('Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google it real quick."* 👀')
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("assets/json/langs_tools.json")))))
     md.write(ABDGHMD.heading("Projects & Repositories"))
-    md.write("Here lives my ideas, my chaos, and my *\"I’ll finish this later\"* promises. 💡")
+    md.write('Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. 💡')
     md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(get_projects("abdxdev"))))
     md.write(ABDGHMD.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("Anime List"))
-    md.write("I’m starting to think my *\"Planning to watch\"* list and my *\"Issues\"* tab are the same thing. 😐")
+    md.write('I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐')
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
     md.write(fetch_anilist("abdxdev"), centered=False)
     md.write(ABDGHMD.heading("Game List"))
