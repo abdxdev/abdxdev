@@ -65,7 +65,6 @@ Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. �
 
 | Project | Description | Created |
 | --- | --- | --- |
-| **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** | Odoo Lens is a modern web application built to provide enhanced analytics, searching and management capabilities for Odoo ERP systems. | 2025 |
 | **[AMOS Sem Proj](https://github.com/abdxdev/AMOS-Sem-Proj)** | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. | 2024 |
 | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025 |
@@ -330,7 +329,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--26_02:54:35_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--27_03:02:59_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
