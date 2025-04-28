@@ -257,11 +257,17 @@ def get_projects(username):
                     priority = 0
                 if parsed.get("a"):
                     prefix += "📦"
-                    
-                if homepage := repo.get("homepage"):
-                    prefix += f"[🔗]({homepage})"
 
-                projects.append({"Project": f"{prefix} **[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**", "Description": parsed["description"].strip(), "Created": repo["created_at"].split("T")[0][:4], "_priority": priority})
+                link = f"[🌐]({repo.get('homepage')})" if repo.get("homepage") else ""
+
+                projects.append(
+                    {
+                        "Project": f"{prefix} **[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**",
+                        "Description": parsed["description"].strip() + r" \| " + link,
+                        "Created": repo["created_at"].split("T")[0][:4],
+                        "_priority": priority,
+                    },
+                )
 
     projects.sort(key=lambda x: (x["_priority"], -int(x["Created"])))
     for project in projects:
