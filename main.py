@@ -246,8 +246,18 @@ def get_projects(username):
             parsed = parse(repo["description"])
             if parsed["is_parsable"]:
                 priority = parsed.get("p", 999)
+                prefix = ""
+                if priority == 0:
+                    prefix += "📌"
+                if parsed.get("m"):
+                    prefix += "🎓"
+                if parsed.get("w"):
+                    prefix += "🛠️"
+                    priority = 0
+                if parsed.get("a"):
+                    prefix += "📦"
 
-                projects.append({"Project": f"**[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**", "Description": parsed["description"].strip(), "Created": repo["created_at"].split("T")[0][:4], "_priority": priority})
+                projects.append({"Project": f"{prefix} **[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**", "Description": parsed["description"].strip(), "Created": repo["created_at"].split("T")[0][:4], "_priority": priority})
 
     projects.sort(key=lambda x: (x["_priority"], -int(x["Created"])))
     for project in projects:
