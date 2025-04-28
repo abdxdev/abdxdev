@@ -70,6 +70,7 @@ Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. �
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. | 2025 |
 | **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio | 2024 |
+| **[Automated Index Recommender](https://github.com/abdxdev/automated-index-recommender)** | A tool that analyzes MongoDB query performance and automatically recommends optimal indexes. | 2025 |
 | **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | A tool for solving recurrence relations | 2025 |
 | **[Sorting Algorithm Performance Visualization](https://github.com/abdxdev/Sorting-Algorithm-Performance-Visualization)** | A tool to visualize the performance of various sorting algorithms across different input sizes and dataset variations | 2024 |
 | **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate a markdown badge for your README.md/Username.md file. | 2023 |
@@ -329,7 +330,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--27_03:02:59_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--28_03:04:25_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
