@@ -249,6 +249,7 @@ def get_projects(username):
                 prefix = ""
                 if priority == 0:
                     prefix += "📌"
+
                 if parsed.get("m"):
                     prefix += "🎓"
                 if parsed.get("w"):
@@ -256,6 +257,9 @@ def get_projects(username):
                     priority = 0
                 if parsed.get("a"):
                     prefix += "📦"
+                    
+                if homepage := repo.get("homepage"):
+                    prefix += f"[🔗]({homepage})"
 
                 projects.append({"Project": f"{prefix} **[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**", "Description": parsed["description"].strip(), "Created": repo["created_at"].split("T")[0][:4], "_priority": priority})
 
@@ -299,8 +303,8 @@ def make_markdown():
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
     request = requests.Request("GET", "https://abd-utils-server.vercel.app/service/trigger-workflow/", params={"owner": "abdxdev", "repo": "abdxdev", "event": "update-readme", "redirect_uri": "https://github.com/abdxdev"}).prepare().url
     md.write(f"[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}_UTC-ffffff?style=for-the-badge&color=080808)]({request})")
-    md.write(open("assets/md/footer.md", encoding="utf-8").read())
     md.write("_This README is auto-generated. If you want to update it, click the button above._")
+    md.write(open("assets/md/footer.md", encoding="utf-8").read())
 
     md.save("README.md")
 
