@@ -258,12 +258,12 @@ def get_projects(username):
                 if parsed.get("a"):
                     prefix += "📦"
 
-                link = f"[🌐]({repo.get('homepage')})" if repo.get("homepage") else ""
+                link = rf" \| [🌐]({repo.get('homepage')})" if repo.get("homepage") else ""
 
                 projects.append(
                     {
                         "Project": f"{prefix} **[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**",
-                        "Description": parsed["description"].strip() + r" \| " + link,
+                        "Description": parsed["description"].strip() + link,
                         "Created": repo["created_at"].split("T")[0][:4],
                         "_priority": priority,
                     },
