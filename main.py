@@ -159,6 +159,16 @@ def fetch_anilist(username):
     return str(md)
 
 
+def new_project_display(projects):
+    md = ABDGHMD()
+    for project in projects:
+        if project["Project"] == "":
+            continue
+        md.write(f"- {project['Project']}: {project['Description']} \\| `{project['Created']}`", centered=False)
+        # md.write(f"- {project['Project']}: {project['Description']} \\| ![{project['Created']}](https://img.shields.io/badge/{project['Created']}-ffffff?style=for-the-badge&color=080808)\n", centered=False)
+    return str(md)
+
+
 def get_anime(username):
     md = ABDGHMD()
     r = requests.get("https://hianime-to-myanimelist.vercel.app/get_json_list", params={"username": username, "offset_inc": 1000}).json()
@@ -286,23 +296,24 @@ def make_markdown():
     # md.write(open("assets/md/certifications.md", encoding="utf-8").read(), centered=False)
     # md.write(ABDGHMD.heading("GitHub Stats"))
     md.write(ABDGHMD.heading("Languages & Tools"))
-    md.write('Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google it real quick."* 👀')
+    md.write('Whether it\'s `Python`, `C`, or `JavaScript`, I\'m fluent in *"I\'ll Google it real quick."* 👀')
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("assets/json/langs_tools.json")))))
     md.write(ABDGHMD.heading("Projects & Repositories"))
-    md.write('Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. 💡')
-    md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(get_projects("abdxdev"))))
+    md.write('Here lives my ideas, my chaos, and my *"I\'ll finish this later"* promises. 💡')
+    # md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(get_projects("abdxdev"))))
+    md.write(new_project_display(get_projects("abdxdev")), centered=False)
     md.write(ABDGHMD.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
     md.write(ABDGHMD.heading("Anime List"))
-    md.write('I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐')
+    md.write('I\'m starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐')
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
     md.write(fetch_anilist("abdxdev"), centered=False)
     md.write(ABDGHMD.heading("Game List"))
-    md.write("I’m not a pro gamer, I’m a *professional respawner*. 💀")
+    md.write("I'm not a pro gamer, I'm a *professional respawner*. 💀")
     md.write(get_games("abdxdev"), centered=False)
     md.write(ABDGHMD.heading("Meet my Code Buddies!"))
-    md.write("From clean code to genius ideas, they’re the real MVPs of the dev world. 😎")
+    md.write("From clean code to genius ideas, they\'re the real MVPs of the dev world. 😎")
     md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
     # md.write(ABDGHMD.heading("Connect with Me"))
     md.write(ABDGHMD.heading("Support Me"))

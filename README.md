@@ -19,7 +19,7 @@ See my portfolio to know more about me: [abd-dev.studio](https://abd-dev.studio)
 
 <div align="center">
 
-Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google it real quick."* 👀
+Whether it's `Python`, `C`, or `JavaScript`, I'm fluent in *"I'll Google it real quick."* 👀
 
 </div>
 
@@ -57,32 +57,41 @@ Whether it’s `Python`, `C`, or `JavaScript`, I’m fluent in *"I’ll Google i
 
 <div align="center">
 
-Here lives my ideas, my chaos, and my *"I’ll finish this later"* promises. 💡
+Here lives my ideas, my chaos, and my *"I'll finish this later"* promises. 💡
 
 </div>
 
-<div align="center">
+- 📌🎓 **[AMOS](https://github.com/abdxdev/AMOS)**: Innovative restaurant ordering and management system for customers, managers, and admins. \| `2024`
 
-| Project | Description | Created |
-| --- | --- | --- |
-| 📌🎓 **[AMOS](https://github.com/abdxdev/AMOS)** | Experience seamless restaurant operations with our innovative ordering and management system. Designed for customers, managers, and admins. \| [🌐](https://abd.mintlify.app/) | 2024 |
-| 📌 **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** | This software manages context menu plugins to extend functionality in various directories. It allows dynamic addition and removal of context menu items using Python scripts. | 2024 |
-|  **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | The 10x Pretender is a VS Code extension that makes you look like a coding genius by simulating realistic typing from your clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender) | 2025 |
-|  **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | The AI LaTeX Helper is a VS Code extension that turns plain English descriptions of math into LaTeX equations using Google Generative AI. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper) | 2025 |
-|  **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio \| [🌐](https://abd-dev.studio) | 2024 |
-| 🎓 **[Automated Index Recommender](https://github.com/abdxdev/automated-index-recommender)** | A tool that analyzes MongoDB query performance and automatically recommends optimal indexes. \| [🌐](https://automated-index-recommender.streamlit.app/) | 2025 |
-| 🎓 **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | A tool for solving recurrence relations \| [🌐](https://recurrence-relation-solver.streamlit.app/) | 2025 |
-| 🎓 **[Sorting Algorithm Performance Visualization](https://github.com/abdxdev/Sorting-Algorithm-Performance-Visualization)** | A tool to visualize the performance of various sorting algorithms across different input sizes and dataset variations \| [🌐](https://sorting-algorithm-performance-visualization.streamlit.app/) | 2024 |
-|  **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate a markdown badge for your README.md/Username.md file. \| [🌐](https://markdown-badge-generator.streamlit.app/) | 2023 |
-|  **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | A web app to automate the process of transferring the anime list from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app) | 2024 |
-| 🎓 **[Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor)** | A high-performance terminal-based rich text editor designed for speed and functionality. It supports autosuggestions, undo/redo, and customizable shortcuts. | 2024 |
-|  **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | This project is for CS50P final week as well as my first project in python. | 2023 |
-|  **[Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder)** | Desktop application designed to streamline the management and tracking of prize bonds. | 2023 |
-|  **[Console Utility](https://github.com/abdxdev/Console-Utility)** | This library provides a variety of utilities for working with the console, including ANSI escape sequences for text formatting, cursor movement, and custom text and table formatting. | 2024 |
-|  **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. \| [🌐](https://google-classroom-api.vercel.app) | 2024 |
-|  **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | A Django-based API that processes messages, runs plugin commands, interacts with WhatsApp, and supports OpenAI's GPT for chat responses. \| [🌐](https://whatsapp-api-backend.vercel.app) | 2024 |
+- 📌 **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)**: Manage context menu plugins to extend functionality in various directories using Python scripts. \| `2024`
 
-</div>
+-  **[10x Pretender](https://github.com/abdxdev/10x-Pretender)**: VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender) \| `2025`
+
+-  **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)**: VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper) \| `2025`
+
+-  **[Portfolio](https://github.com/abdxdev/portfolio)**: Next.js personal portfolio website. \| [🌐](https://abd-dev.studio) \| `2024`
+
+- 🎓 **[Automated Index Recommender](https://github.com/abdxdev/automated-index-recommender)**: Tool for analyzing MongoDB query performance and recommending optimal indexes. \| [🌐](https://automated-index-recommender.streamlit.app/) \| `2025`
+
+- 🎓 **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)**: Tool for solving mathematical recurrence relations. \| [🌐](https://recurrence-relation-solver.streamlit.app/) \| `2025`
+
+- 🎓 **[Sorting Algorithm Performance Visualization](https://github.com/abdxdev/Sorting-Algorithm-Performance-Visualization)**: Visualize sorting algorithm performance across different inputs and dataset variations. \| [🌐](https://sorting-algorithm-performance-visualization.streamlit.app/) \| `2024`
+
+-  **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)**: Web-app to generate markdown badges for README files. \| [🌐](https://markdown-badge-generator.streamlit.app/) \| `2023`
+
+-  **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)**: Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app) \| `2024`
+
+- 🎓 **[Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor)**: High-performance terminal editor with autosuggestions, undo/redo, and customizable shortcuts. \| `2024`
+
+-  **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)**: Python project for mapping Minecraft hotkeys. \| `2023`
+
+-  **[Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder)**: Desktop application for managing and tracking prize bonds. \| `2023`
+
+-  **[Console Utility](https://github.com/abdxdev/Console-Utility)**: Library providing utilities for console text formatting and cursor movement. \| `2024`
+
+-  **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)**: Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app) \| `2024`
+
+-  **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)**: Django-based API for WhatsApp messaging with plugin support and GPT integration. \| [🌐](https://whatsapp-api-backend.vercel.app) \| `2024`
 
 <div align="center">
 
@@ -100,7 +109,7 @@ I spend too much time feeling sad over anime characters, getting mad at games I 
 
 <div align="center">
 
-I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐
+I'm starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐
 
 </div>
 
@@ -248,7 +257,7 @@ I’m starting to think my *"Planning to watch"* list and my *"Issues"* tab are 
 
 <div align="center">
 
-I’m not a pro gamer, I’m a *professional respawner*. 💀
+I'm not a pro gamer, I'm a *professional respawner*. 💀
 
 </div>
 
@@ -300,7 +309,7 @@ I’m not a pro gamer, I’m a *professional respawner*. 💀
 
 <div align="center">
 
-From clean code to genius ideas, they’re the real MVPs of the dev world. 😎
+From clean code to genius ideas, they're the real MVPs of the dev world. 😎
 
 </div>
 
@@ -330,7 +339,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--28_22:20:01_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--04--28_23:26:52_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
