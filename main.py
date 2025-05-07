@@ -1,26 +1,59 @@
-import re
-import json
 import datetime
+from urllib.parse import quote
 
 import requests
 
-from parser import parse
+
+PORTFOLIO_API = "https://abd-dev.studio/api/portfolio"
 
 
-class GitHubAPI:
+class Helper:
+    @staticmethod
+    def list_dict_to_list_list(data):
+        """
+        Converts a list of dictionaries into a list of lists where the first list contains the keys,
+        and subsequent lists contain the corresponding values.
+        If a value is a list, it joins the elements with a space.
+        For example:
+        [{"a": 1, "b": 2}, {"a": 3, "b": 4}] becomes [["a", "b"], [1, 2], [3, 4]].
+        """
+        if not data:
+            return []
 
-    GH_API_ENDPOINT = "https://api.github.com/"
+        headers = list(data[0].keys())
+
+        def format_value(value):
+            if isinstance(value, list):
+                return " ".join(map(str, value))
+            return str(value)
+
+        values = [[format_value(value) for value in item.values()] for item in data]
+        return [headers] + values
 
     @staticmethod
-    def get_user(username):
-        return requests.get(GitHubAPI.GH_API_ENDPOINT + f"users/{username}").json()
+    def list_dict_to_transformed_list(data):
+        """
+        Transforms a list of dictionaries into a list of lists where each inner list
+        contains the values corresponding to the same key across all dictionaries.
+        For example:
+        [{"a": 1, "b": 2}, {"a": 3, "b": 4}] becomes [[1, 3], [2, 4]].
+        """
+        if not data:
+            return []
+        grouped_dict = {key: [] for key in data[0]}
+        for item in data:
+            for key, value in item.items():
+                grouped_dict[key].append(str(value))
+        return [grouped_dict[key] for key in grouped_dict]
 
     @staticmethod
-    def get_repos(username):
-        return requests.get(GitHubAPI.GH_API_ENDPOINT + f"users/{username}/repos").json()
+    def short_string(text, max=20):
+        if len(text) > max:
+            return text[: max - 5] + "..." + text[-5:]
+        return text
 
 
-class ABDGHMD:
+class GHMarkdown:
     def __init__(self):
         self.md = ""
 
@@ -40,44 +73,17 @@ class ABDGHMD:
         return open("assets/md/heading_template.md").read().strip().replace(r"{heading}", text)
 
     @staticmethod
-    def _list_dict_to_list_list(data):
-        """
-        Converts a list of dictionaries into a list of lists where the first list contains the keys,
-        and subsequent lists contain the corresponding values.
-        If a value is a list, it joins the elements with a space.
-        """
-        if not data:
-            return []
-
-        headers = list(data[0].keys())
-
-        def format_value(value):
-            if isinstance(value, list):
-                return " ".join(map(str, value))
-            return str(value)
-
-        values = [[format_value(value) for value in item.values()] for item in data]
-        return [headers] + values
-
-    @staticmethod
-    def _list_dict_to_transformed_list(data):
-        """
-        Transforms a list of dictionaries into a list of lists where each inner list
-        contains the values corresponding to the same key across all dictionaries.
-        """
-        if not data:
-            return []
-        grouped_dict = {key: [] for key in data[0]}
-        for item in data:
-            for key, value in item.items():
-                grouped_dict[key].append(str(value))
-        return [grouped_dict[key] for key in grouped_dict]
-
-    @staticmethod
     def table(data, centered=False, header=True):
         """
         Creates a Markdown table from a list of lists.
         The first inner list is treated as the header.
+        For example:
+        [["Header1", "Header2"], ["Row1Col1", "Row1Col2"], ["Row2Col1", "Row2Col2"]]
+        becomes:
+        | Header1 | Header2 |
+        | --- | --- |
+        | Row1Col1 | Row1Col2 |
+        | Row2Col1 | Row2Col2 |
         """
         if not data:
             return ""
@@ -89,10 +95,26 @@ class ABDGHMD:
         return head + rows
 
     @staticmethod
-    def _start_end(text, max=20):
-        if len(text) > max:
-            return text[: max - 5] + "..." + text[-5:]
-        return text
+    def get_gallery_view(dict_item: list[dict[str, str]], columns: int):
+        """
+        Generates a Markdown gallery view from a list of dictionaries.
+        For example, each dictionary could represent an item with its title and poster.
+        """
+        chunks = []
+        for i in range(0, len(dict_item), columns):
+            sl = slice(i, i + columns)
+            for key in dict_item[i].keys():
+                chunks.append([item[key] for item in dict_item[sl]])
+        return GHMarkdown.table(chunks, centered=True)
+
+
+    @staticmethod
+    def image(alt, src):
+        return f"![{alt}](<{src}>)"
+
+    @staticmethod
+    def link(text, url):
+        return f"[{text}]({url})"
 
     def __str__(self):
         return self.md.strip()
@@ -102,65 +124,54 @@ class ABDGHMD:
             f.write(self.md.strip())
 
 
-def fetch_anilist(username):
-    md = ABDGHMD()
-    url = "https://graphql.anilist.co"
-    query = """
-    query ($username: String) {
-      MediaListCollection(userName: $username, type: ANIME) {
-        lists {
-          entries {
-            media {
-              title {
-                romaji
-                english
-              }
-              siteUrl
-              coverImage {
-                large
-              }
-            }
-            status
-          }
+def get_anime(animelist):
+    formatted_animes = {}
+
+    for anime in animelist:
+        status = anime["status"]
+        if status not in formatted_animes:
+            formatted_animes[status] = []
+
+        formatted_anime = {
+            "Title": Helper.short_string(anime["title"], max=20),
+            "Poster": f"[![{anime['title']}]({anime['cover_image']})]({anime['site_url']})",
         }
-      }
-    }
-    """
-    variables = {"username": username}
-    response = requests.post(url, json={"query": query, "variables": variables}).json()
+        formatted_animes[status].append(formatted_anime)
 
-    if "data" not in response or not response["data"] or "MediaListCollection" not in response["data"]:
-        return "Error: Unable to fetch data from AniList. Please check the username or try again later."
+    md = GHMarkdown()
 
-    lists = response["data"]["MediaListCollection"]["lists"]
-    if not lists:
-        return "No anime lists found for this user."
+    for category, dict_item in formatted_animes.items():
+        table = GHMarkdown.get_gallery_view(dict_item, 3)
+        md.write(table, centered=False, summary=category.replace("_", " ").title())
 
-    for lst in lists:
-        animes = []
-        for entry in lst["entries"]:
-            media = entry["media"]
-            title = media["title"]["english"] or media["title"]["romaji"]
-            animes.append(
-                {
-                    "Title": ABDGHMD._start_end(title, max=20),
-                    "poster": f"[![{title}]({media['coverImage']['large']})]({media['siteUrl']})",
-                }
-            )
+    return str(md)
 
-        # Group anime by status
-        status = entry["status"].replace("_", " ").title()
-        temp_tables = ABDGHMD()
-        max_len = 4
-        for i in range(0, len(animes), max_len):
-            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), centered=True, header=True if i == 0 else False), centered=False, sep="\n")
-        md.write(str(temp_tables), centered=False, summary=status)
+
+def get_games(games):
+    formatted_games = {}
+
+    for game in games:
+        status = game["status"]
+        if status not in formatted_games:
+            formatted_games[status] = []
+
+        formatted_game = {
+            "Title": Helper.short_string(game["name"], max=20),
+            "Poster": f"[![{game['name']}]({game['background_image_cropped']})]({game['rawg_link']})",
+        }
+        formatted_games[status].append(formatted_game)
+
+    md = GHMarkdown()
+
+    for category, dict_item in formatted_games.items():
+        table = GHMarkdown.get_gallery_view(dict_item, 3)
+        md.write(table, centered=False, summary=category.replace("_", " ").title())
 
     return str(md)
 
 
 def new_project_display(projects):
-    md = ABDGHMD()
+    md = GHMarkdown()
     for project in projects:
         if project["Project"] == "":
             continue
@@ -169,125 +180,72 @@ def new_project_display(projects):
     return str(md)
 
 
-def get_anime(username):
-    md = ABDGHMD()
-    r = requests.get("https://hianime-to-myanimelist.vercel.app/get_json_list", params={"username": username, "offset_inc": 1000}).json()
-    for cat, raw_animes in r.items():
-        animes = []
-        for anime in raw_animes:
-            animes.append(
-                {
-                    "Title": ABDGHMD._start_end(anime["title"], max=20),
-                    "poster": f"[![{anime['title']}]({anime['main_picture']['medium']})](https://myanimelist.net/anime/{anime['id']})",
-                }
-            )
-        temp_tables = ABDGHMD()
-        max_len = 4
-        for i in range(0, len(animes), max_len):
-            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(animes[i : i + max_len]), centered=True, header=True if i == 0 else False), centered=False, sep="\n")
-        md.write(str(temp_tables), centered=False, summary=cat.replace("_", " ").title())
-    return str(md)
+def get_friends(friends):
+    formatted_friends = []
+    for friend in friends:
+        formatted_friend = {
+            "Name": GHMarkdown.link(friend["github_name"], friend["github_url"]),
+            "Avatar": GHMarkdown.link(GHMarkdown.image(friend["github_name"], friend["github_avatar"]), friend["github_url"]),
+        }
+        formatted_friends.append(formatted_friend)
+
+    return GHMarkdown.get_gallery_view(formatted_friends, 3)
 
 
-def get_games(username):
-    md = ABDGHMD()
-    statuses = [
-        "beaten",
-        "playing",
-        "yet",
-        "toplay",
-        "dropped",
-        "owned",
-    ]
-    for status in statuses:
-        games = []
-        i = 1
-        while True:
-            r = requests.get(f"https://api.rawg.io/api/users/{username}/games", params={"page": i, "statuses": status, "page_size": 100, "ordering": "-released"}).json()
-            for game in r["results"]:
-                games.append(
-                    {
-                        "Title": ABDGHMD._start_end(game["name"], max=20),
-                        "Poster": f"![{game['name']}]({'https://media.rawg.io/media/crop/600/400/'+ '/'.join(game['background_image'].split("/")[-3:])})",
-                    }
-                )
-            if r.get("next") is None:
-                break
-            i += 1
-        if not games:
-            continue
-        temp_tables = ABDGHMD()
-        max_len = 3
-        for i in range(0, len(games), max_len):
-            temp_tables.write(ABDGHMD.table(ABDGHMD._list_dict_to_transformed_list(games[i : i + max_len]), centered=True, header=True if i == 0 else False), centered=False, sep="\n")
-        md.write(str(temp_tables), centered=False, summary=status.title())
-    return str(md)
+def get_projects(projects):
+    ret_projects = []
 
+    for project in projects:
+        priority = project["priority"]
+        if not priority:
+            priority = float("inf")
 
-def get_code_buddies(code_buddies):
-    buddies = []
-    for buddy in code_buddies:
-        r = GitHubAPI.get_user(buddy)
-        buddies.append(
+        prefix = ""
+        if priority == 0:
+            prefix += "📌"
+
+        if project["is_university_project"]:
+            prefix += "🎓"
+        if project["working_on"]:
+            prefix += "🛠️"
+            priority = 0
+
+        link = rf' \| [🌐]({project["homepage"]}) ' if project["homepage"] else ""
+
+        ret_projects.append(
             {
-                "Name": r["name"],
-                "Avatar": f"[![@{r['login']}](https://github.com/{r['login']}.png?size=150)]({r['html_url']})",
-                "GitHub": f"[@{r['login']}]({r['html_url']})",
+                "Project": f"{prefix} **[{project['title']}]({project['html_url']})**",
+                "Description": project["description"].strip() + link,
+                "Created": project["created_at"].split("T")[0][:4],
+            },
+        )
+
+    return ret_projects
+
+
+def get_skills(skills):
+    filtered_skills = []
+
+    for category_data in skills:
+        filtered_skills.append(
+            {
+                "Category": category_data["category"],
+                "Tools": [
+                    GHMarkdown.image(
+                        skill["name"],
+                        f"https://img.shields.io/badge/{quote(skill['name'])}-ffffff?logo={skill['slug']}&style=for-the-badge&color=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
+                    )
+                    for skill in category_data["skills"]
+                ],
             }
         )
-    return ABDGHMD._list_dict_to_transformed_list(buddies)
 
-
-def get_projects(username):
-
-    def snake_to_title(s: str) -> str:
-        s = s.replace("-", " ").replace("_", " ")
-        return " ".join(word[0].upper() + word[1:] if word else "" for word in s.split(" "))
-
-    def camel_to_title(s: str) -> str:
-        if "LaTeX" in s:
-            return s
-        return re.sub(r"([a-z])([A-Z])", r"\1 \2", s)
-
-    projects = []
-    repos = GitHubAPI.get_repos(username)
-    for repo in repos:
-        if repo["description"]:
-            parsed = parse(repo["description"])
-            if parsed["is_parsable"]:
-                priority = parsed.get("p", 999)
-                prefix = ""
-                if priority == 0:
-                    prefix += "📌"
-
-                if parsed.get("m"):
-                    prefix += "🎓"
-                if parsed.get("w"):
-                    prefix += "🛠️"
-                    priority = 0
-                if parsed.get("a"):
-                    prefix += "📦"
-
-                link = rf" \| [🌐]({repo.get('homepage')})" if repo.get("homepage") else ""
-
-                projects.append(
-                    {
-                        "Project": f"{prefix} **[{camel_to_title(snake_to_title(repo['name']))}]({repo['html_url']})**",
-                        "Description": parsed["description"].strip() + link,
-                        "Created": repo["created_at"].split("T")[0][:4],
-                        "_priority": priority,
-                    },
-                )
-
-    projects.sort(key=lambda x: (x["_priority"], -int(x["Created"])))
-    for project in projects:
-        del project["_priority"]
-
-    return projects
+    return Helper.list_dict_to_list_list(filtered_skills)
 
 
 def make_markdown():
-    md = ABDGHMD()
+    md = GHMarkdown()
+    portfolio = requests.get(PORTFOLIO_API).json()
 
     md.write(open("assets/md/header.md", encoding="utf-8").read())
     md.write(open("assets/md/description.md", encoding="utf-8").read())
@@ -295,28 +253,30 @@ def make_markdown():
     # md.write(open("assets/md/education.md", encoding="utf-8").read(), centered=False)
     # md.write(open("assets/md/certifications.md", encoding="utf-8").read(), centered=False)
     # md.write(ABDGHMD.heading("GitHub Stats"))
-    md.write(ABDGHMD.heading("Languages & Tools"))
-    md.write('Whether it\'s `Python`, `C`, or `JavaScript`, I\'m fluent in *"I\'ll Google it real quick."* 👀')
+    md.write(GHMarkdown.heading("Languages & Tools"))
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
-    md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(json.load(open("assets/json/langs_tools.json")))))
-    md.write(ABDGHMD.heading("Projects & Repositories"))
-    md.write('Here lives my ideas, my chaos, and my *"I\'ll finish this later"* promises. 💡')
-    md.write(ABDGHMD.table(ABDGHMD._list_dict_to_list_list(get_projects("abdxdev"))))
-    # md.write(new_project_display(get_projects("abdxdev")), centered=False)
-    md.write(ABDGHMD.heading("Hobbies & Interests"))
+    md.write(GHMarkdown.table(get_skills(portfolio["skills"])))
+
+    md.write(GHMarkdown.heading("Projects & Repositories"))
+    md.write(GHMarkdown.table(Helper.list_dict_to_list_list(get_projects(portfolio["projects"]))))
+
+    md.write(GHMarkdown.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
-    md.write(ABDGHMD.heading("Anime List"))
-    md.write('I\'m starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐')
+
+    md.write(GHMarkdown.heading("Anime List"))
+    md.write('*"Planning to watch" list == "Issues" tab*')
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
-    md.write(fetch_anilist("abdxdev"), centered=False)
-    md.write(ABDGHMD.heading("Game List"))
-    md.write("I'm not a pro gamer, I'm a *professional respawner*. 💀")
-    md.write(get_games("abdxdev"), centered=False)
-    md.write(ABDGHMD.heading("Meet my Code Buddies!"))
-    md.write("From clean code to genius ideas, they\'re the real MVPs of the dev world. 😎")
-    md.write(ABDGHMD.table(get_code_buddies(json.load(open("assets/json/code_buddies.json"))), centered=True))
-    # md.write(ABDGHMD.heading("Connect with Me"))
-    md.write(ABDGHMD.heading("Support Me"))
+    md.write(get_anime(portfolio["anime"]), centered=False)
+
+    md.write(GHMarkdown.heading("Game List"))
+    md.write("*a professional respawner*")
+    md.write(get_games(portfolio["games"]), centered=False)
+
+    md.write(GHMarkdown.heading("Meet my Code Buddies!"))
+    md.write("*From clean code to genius ideas, they're the real MVPs of the dev world. 😎*")
+    md.write(get_friends(portfolio["friends"]))
+
+    md.write(GHMarkdown.heading("Support Me"))
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
     request = requests.Request("GET", "https://abd-utils-server.vercel.app/service/trigger-workflow/", params={"owner": "abdxdev", "repo": "abdxdev", "event": "update-readme", "redirect_uri": "https://github.com/abdxdev"}).prepare().url
     md.write(f"[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}_UTC-ffffff?style=for-the-badge&color=080808)]({request})")
