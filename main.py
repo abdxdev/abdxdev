@@ -141,7 +141,7 @@ def get_anime(animelist):
     md = GHMarkdown()
 
     for category, dict_item in formatted_animes.items():
-        table = GHMarkdown.get_gallery_view(dict_item, 3)
+        table = GHMarkdown.get_gallery_view(dict_item, 4)
         md.write(table, centered=False, summary=category.replace("_", " ").title())
 
     return str(md)
@@ -184,8 +184,9 @@ def get_friends(friends):
     formatted_friends = []
     for friend in friends:
         formatted_friend = {
-            "Name": GHMarkdown.link(friend["github_name"], friend["github_url"]),
+            "Name": friend["github_name"],
             "Avatar": GHMarkdown.link(GHMarkdown.image(friend["github_name"], friend["github_avatar"]), friend["github_url"]),
+            "Link": GHMarkdown.link('@'+friend["github_username"], friend["github_url"]),
         }
         formatted_friends.append(formatted_friend)
 
@@ -197,7 +198,7 @@ def get_projects(projects):
 
     for project in projects:
         priority = project["priority"]
-        if not priority:
+        if priority is None:
             priority = float("inf")
 
         prefix = ""

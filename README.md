@@ -19,12 +19,6 @@ See my portfolio to know more about me: [abd-dev.studio](https://abd-dev.studio)
 
 <div align="center">
 
-Whether it's `Python`, `C`, or `JavaScript`, I'm fluent in *"I'll Google it real quick."* 👀
-
-</div>
-
-<div align="center">
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
 ![Top Langs](assets/gen/metrics-languages.svg)
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
@@ -35,17 +29,17 @@ Whether it's `Python`, `C`, or `JavaScript`, I'm fluent in *"I'll Google it real
 
 | Category | Tools |
 | --- | --- |
-| Programming Languages | ![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=000000&logoColor=3776AB) ![C/C++](https://img.shields.io/badge/C/C++-ffffff?logo=c%2B%2B&style=for-the-badge&color=000000&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-ffffff?logo=c-sharp&style=for-the-badge&color=000000&logoColor=239120) ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&style=for-the-badge&color=000000&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-ffffff?logo=sql&style=for-the-badge&color=000000&logoColor=003B57) |
-| Markup  Languages | ![HTML](https://img.shields.io/badge/HTML-ffffff?logo=html5&style=for-the-badge&color=000000&logoColor=E34F26) ![XML](https://img.shields.io/badge/XML-ffffff?logo=xml&style=for-the-badge&color=000000&logoColor=FFA500) ![Markdown](https://img.shields.io/badge/Markdown-ffffff?logo=markdown&style=for-the-badge&color=000000&logoColor=ffffff) ![LaTeX](https://img.shields.io/badge/LaTeX-ffffff?logo=latex&style=for-the-badge&color=000000&logoColor=008080) |
-| Style Sheet Languages | ![CSS](https://img.shields.io/badge/CSS-ffffff?logo=css3&style=for-the-badge&color=000000&logoColor=1572B6) |
-| IDEs | ![VS Code](https://img.shields.io/badge/VS%20Code-ffffff?logo=visual-studio-code&style=for-the-badge&color=000000&logoColor=007ACC) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-ffffff?logo=visual-studio&style=for-the-badge&color=000000&logoColor=5C2D91) ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=jupyter&style=for-the-badge&color=000000&logoColor=F37626) |
-| Version Control | ![Git](https://img.shields.io/badge/Git-ffffff?logo=git&style=for-the-badge&color=000000&logoColor=F05032) ![Github](https://img.shields.io/badge/Github-ffffff?logo=github&style=for-the-badge&color=000000&logoColor=ffffff) ![GitLab](https://img.shields.io/badge/GitLab-ffffff?logo=gitlab&style=for-the-badge&color=000000&logoColor=FCA121) |
-| Frameworks & Libraries | ![Django](https://img.shields.io/badge/Django-ffffff?logo=django&style=for-the-badge&color=000000&logoColor=092E20) ![Flask](https://img.shields.io/badge/Flask-ffffff?logo=flask&style=for-the-badge&color=000000&logoColor=ffffff) ![Streamlit](https://img.shields.io/badge/Streamlit-ffffff?logo=streamlit&style=for-the-badge&color=000000&logoColor=ff4f4f) ![Tkinter](https://img.shields.io/badge/Tkinter-ffffff?logo=tkinter&style=for-the-badge&color=000000&logoColor=ff4f4f) ![Flet](https://img.shields.io/badge/Flet-ffffff?logo=flet&style=for-the-badge&color=000000&logoColor=ff4f4f) ![Reflex](https://img.shields.io/badge/Reflex-ffffff?logo=reflex&style=for-the-badge&color=000000&logoColor=02569B) ![.NET](https://img.shields.io/badge/.NET-ffffff?logo=.net&style=for-the-badge&color=000000&logoColor=512BD4) ![Win UI 3](https://img.shields.io/badge/Win%20UI%203-ffffff?logo=winui&style=for-the-badge&color=000000&logoColor=5C2D91) |
-| DevOps & CI/CD | ![Docker](https://img.shields.io/badge/Docker-ffffff?logo=docker&style=for-the-badge&color=000000&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-ffffff?logo=vercel&style=for-the-badge&color=000000&logoColor=ffffff) ![Render](https://img.shields.io/badge/Render-ffffff?logo=render&style=for-the-badge&color=000000&logoColor=ffffff) ![Azure](https://img.shields.io/badge/Azure-ffffff?logo=azure&style=for-the-badge&color=000000&logoColor=0089D6) |
-| Databases | ![MySQL](https://img.shields.io/badge/MySQL-ffffff?logo=mysql&style=for-the-badge&color=000000&logoColor=4479A1) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?logo=postgresql&style=for-the-badge&color=000000&logoColor=336791) ![SQLite](https://img.shields.io/badge/SQLite-ffffff?logo=sqlite&style=for-the-badge&color=000000&logoColor=003B57) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-ffffff?logo=microsoft-sql-server&style=for-the-badge&color=000000&logoColor=CC2927) ![Access](https://img.shields.io/badge/Access-ffffff?logo=access&style=for-the-badge&color=000000&logoColor=A4373A) |
-| APIs & Integrations | ![OpenAI](https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=000000&logoColor=FF0084) ![Discord](https://img.shields.io/badge/Discord-ffffff?logo=discord&style=for-the-badge&color=000000&logoColor=5865F2) ![WhatsApp](https://img.shields.io/badge/WhatsApp-ffffff?logo=whatsapp&style=for-the-badge&color=000000&logoColor=25D366) ![Google](https://img.shields.io/badge/Google-ffffff?logo=google&style=for-the-badge&color=000000&logoColor=4285F4) ![Github](https://img.shields.io/badge/Github-ffffff?logo=github&style=for-the-badge&color=000000&logoColor=ffffff) |
-| Graphics & Design | ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-ffffff?logo=adobe-illustrator&style=for-the-badge&color=000000&logoColor=FF9A00) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-ffffff?logo=adobe-photoshop&style=for-the-badge&color=000000&logoColor=31A8FF) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-ffffff?logo=adobe-premiere-pro&style=for-the-badge&color=000000&logoColor=9999FF) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-ffffff?logo=adobe-after-effects&style=for-the-badge&color=000000&logoColor=9999FF) ![Figma](https://img.shields.io/badge/Figma-ffffff?logo=figma&style=for-the-badge&color=000000&logoColor=F24E1E) ![Spline](https://img.shields.io/badge/Spline-ffffff?logo=spline&style=for-the-badge&color=000000&logoColor=FF4F4F) ![Blender](https://img.shields.io/badge/Blender-ffffff?logo=blender&style=for-the-badge&color=000000&logoColor=F5792A) |
-| Platforms & Operating Systems | ![Windows](https://img.shields.io/badge/Windows-ffffff?logo=windows&style=for-the-badge&color=000000&logoColor=0078D6) ![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=000000&logoColor=FCC624) ![Android](https://img.shields.io/badge/Android-ffffff?logo=android&style=for-the-badge&color=000000&logoColor=3DDC84) |
+| Programming Languages | ![Python](<https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=000000&logoColor=3776AB>) ![C](<https://img.shields.io/badge/C-ffffff?logo=c&style=for-the-badge&color=000000&logoColor=A8B9CC>) ![C++](<https://img.shields.io/badge/C%2B%2B-ffffff?logo=cplusplus&style=for-the-badge&color=000000&logoColor=00599C>) ![C#](<https://img.shields.io/badge/C%23-ffffff?logo=c&style=for-the-badge&color=000000&logoColor=ffffff>) ![JavaScript](<https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&style=for-the-badge&color=000000&logoColor=F7DF1E>) ![TypeScript](<https://img.shields.io/badge/TypeScript-ffffff?logo=typescript&style=for-the-badge&color=000000&logoColor=3178C6>) |
+| Markup Languages | ![HTML5](<https://img.shields.io/badge/HTML5-ffffff?logo=html5&style=for-the-badge&color=000000&logoColor=E34F26>) ![XML](<https://img.shields.io/badge/XML-ffffff?logo=xml&style=for-the-badge&color=000000&logoColor=005FAD>) ![Markdown](<https://img.shields.io/badge/Markdown-ffffff?logo=markdown&style=for-the-badge&color=000000&logoColor=ffffff>) ![LaTeX](<https://img.shields.io/badge/LaTeX-ffffff?logo=latex&style=for-the-badge&color=000000&logoColor=008080>) |
+| Style Sheet Languages | ![CSS](<https://img.shields.io/badge/CSS-ffffff?logo=css&style=for-the-badge&color=000000&logoColor=663399>) ![Tailwind CSS](<https://img.shields.io/badge/Tailwind%20CSS-ffffff?logo=tailwindcss&style=for-the-badge&color=000000&logoColor=06B6D4>) |
+| IDEs | ![VS Code](<https://img.shields.io/badge/VS%20Code-ffffff?logo=vscode&style=for-the-badge&color=000000&logoColor=ffffff>) ![Visual Studio](<https://img.shields.io/badge/Visual%20Studio-ffffff?logo=visualstudio&style=for-the-badge&color=000000&logoColor=ffffff>) |
+| Version Control | ![Git](<https://img.shields.io/badge/Git-ffffff?logo=git&style=for-the-badge&color=000000&logoColor=F05032>) ![GitHub](<https://img.shields.io/badge/GitHub-ffffff?logo=github&style=for-the-badge&color=000000&logoColor=181717>) |
+| Frameworks & Libraries | ![Django](<https://img.shields.io/badge/Django-ffffff?logo=django&style=for-the-badge&color=000000&logoColor=092E20>) ![Flask](<https://img.shields.io/badge/Flask-ffffff?logo=flask&style=for-the-badge&color=000000&logoColor=ffffff>) ![Streamlit](<https://img.shields.io/badge/Streamlit-ffffff?logo=streamlit&style=for-the-badge&color=000000&logoColor=FF4B4B>) ![Tkinter](<https://img.shields.io/badge/Tkinter-ffffff?logo=tkinter&style=for-the-badge&color=000000&logoColor=ffffff>) ![Flet](<https://img.shields.io/badge/Flet-ffffff?logo=flet&style=for-the-badge&color=000000&logoColor=ffffff>) ![Reflex](<https://img.shields.io/badge/Reflex-ffffff?logo=reflex&style=for-the-badge&color=000000&logoColor=ffffff>) ![Next.js](<https://img.shields.io/badge/Next.js-ffffff?logo=nextdotjs&style=for-the-badge&color=000000&logoColor=ffffff>) ![Win UI 3](<https://img.shields.io/badge/Win%20UI%203-ffffff?logo=winui3&style=for-the-badge&color=000000&logoColor=ffffff>) |
+| DevOps & CI/CD | ![Docker](<https://img.shields.io/badge/Docker-ffffff?logo=docker&style=for-the-badge&color=000000&logoColor=2496ED>) ![Vercel](<https://img.shields.io/badge/Vercel-ffffff?logo=vercel&style=for-the-badge&color=000000&logoColor=ffffff>) ![Render](<https://img.shields.io/badge/Render-ffffff?logo=render&style=for-the-badge&color=000000&logoColor=ffffff>) ![Azure](<https://img.shields.io/badge/Azure-ffffff?logo=azure&style=for-the-badge&color=000000&logoColor=ffffff>) |
+| Databases | ![MySQL](<https://img.shields.io/badge/MySQL-ffffff?logo=mysql&style=for-the-badge&color=000000&logoColor=4479A1>) ![PostgreSQL](<https://img.shields.io/badge/PostgreSQL-ffffff?logo=postgresql&style=for-the-badge&color=000000&logoColor=4169E1>) ![SQLite](<https://img.shields.io/badge/SQLite-ffffff?logo=sqlite&style=for-the-badge&color=000000&logoColor=003B57>) ![Microsoft SQL Server](<https://img.shields.io/badge/Microsoft%20SQL%20Server-ffffff?logo=microsoftsqlserver&style=for-the-badge&color=000000&logoColor=ffffff>) ![Access](<https://img.shields.io/badge/Access-ffffff?logo=access&style=for-the-badge&color=000000&logoColor=ffffff>) |
+| APIs & Integrations | ![OpenAI](<https://img.shields.io/badge/OpenAI-ffffff?logo=openai&style=for-the-badge&color=000000&logoColor=412991>) ![Discord](<https://img.shields.io/badge/Discord-ffffff?logo=discord&style=for-the-badge&color=000000&logoColor=5865F2>) ![WhatsApp](<https://img.shields.io/badge/WhatsApp-ffffff?logo=whatsapp&style=for-the-badge&color=000000&logoColor=25D366>) ![Google](<https://img.shields.io/badge/Google-ffffff?logo=google&style=for-the-badge&color=000000&logoColor=4285F4>) ![GitHub](<https://img.shields.io/badge/GitHub-ffffff?logo=github&style=for-the-badge&color=000000&logoColor=181717>) |
+| Graphics & Design | ![Adobe Illustrator](<https://img.shields.io/badge/Adobe%20Illustrator-ffffff?logo=adobeillustrator&style=for-the-badge&color=000000&logoColor=ffffff>) ![Adobe Photoshop](<https://img.shields.io/badge/Adobe%20Photoshop-ffffff?logo=adobephotoshop&style=for-the-badge&color=000000&logoColor=ffffff>) ![Adobe Premiere Pro](<https://img.shields.io/badge/Adobe%20Premiere%20Pro-ffffff?logo=adobepremierepro&style=for-the-badge&color=000000&logoColor=ffffff>) ![Adobe After Effects](<https://img.shields.io/badge/Adobe%20After%20Effects-ffffff?logo=adobeaftereffects&style=for-the-badge&color=000000&logoColor=ffffff>) ![Figma](<https://img.shields.io/badge/Figma-ffffff?logo=figma&style=for-the-badge&color=000000&logoColor=F24E1E>) ![Spline](<https://img.shields.io/badge/Spline-ffffff?logo=spline&style=for-the-badge&color=000000&logoColor=ffffff>) ![Blender](<https://img.shields.io/badge/Blender-ffffff?logo=blender&style=for-the-badge&color=000000&logoColor=E87D0D>) |
+| Platforms & Operating Systems | ![Windows](<https://img.shields.io/badge/Windows-ffffff?logo=windows&style=for-the-badge&color=000000&logoColor=ffffff>) ![Linux](<https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=000000&logoColor=FCC624>) ![Android](<https://img.shields.io/badge/Android-ffffff?logo=android&style=for-the-badge&color=000000&logoColor=3DDC84>) |
 
 </div>
 
@@ -57,32 +51,26 @@ Whether it's `Python`, `C`, or `JavaScript`, I'm fluent in *"I'll Google it real
 
 <div align="center">
 
-Here lives my ideas, my chaos, and my *"I'll finish this later"* promises. 💡
-
-</div>
-
-<div align="center">
-
 | Project | Description | Created |
 | --- | --- | --- |
-| 📌🎓 **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. \| [🌐](https://odoo-lens.abd-dev.studio/) | 2025 |
+| 📌🎓 **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. \| [🌐](https://odoo-lens.abd-dev.studio/)  | 2025 |
 | 📌🎓 **[AMOS](https://github.com/abdxdev/AMOS)** | Innovative restaurant ordering and management system for customers, managers, and admins. | 2024 |
 | 📌 **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** | Manage context menu plugins to extend functionality in various directories using Python scripts. | 2024 |
-|  **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender) | 2025 |
-|  **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper) | 2025 |
-|  **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. \| [🌐](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search) | 2025 |
-|  **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio website. \| [🌐](https://abd-dev.studio) | 2024 |
-| 🎓 **[Automated Index Recommender](https://github.com/abdxdev/automated-index-recommender)** | Tool for analyzing MongoDB query performance and recommending optimal indexes. \| [🌐](https://automated-index-recommender.streamlit.app/) | 2025 |
-| 🎓 **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | Tool for solving mathematical recurrence relations. \| [🌐](https://recurrence-relation-solver.streamlit.app/) | 2025 |
-| 🎓 **[Sorting Algorithm Performance Visualization](https://github.com/abdxdev/Sorting-Algorithm-Performance-Visualization)** | Visualize sorting algorithm performance across different inputs and dataset variations. \| [🌐](https://sorting-algorithm-performance-visualization.streamlit.app/) | 2024 |
-|  **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate markdown badges for README files. \| [🌐](https://markdown-badge-generator.streamlit.app/) | 2023 |
-|  **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app) | 2024 |
+|  **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. \| [🌐](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | 2025 |
+|  **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | 2025 |
+|  **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | 2025 |
+|  **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio website. \| [🌐](https://abd-dev.studio)  | 2024 |
+| 🎓 **[Automated Index Recommender](https://github.com/abdxdev/automated-index-recommender)** | Tool for analyzing MongoDB query performance and recommending optimal indexes. \| [🌐](https://automated-index-recommender.streamlit.app/)  | 2025 |
+| 🎓 **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | Tool for solving mathematical recurrence relations. \| [🌐](https://recurrence-relation-solver.streamlit.app/)  | 2025 |
+| 🎓 **[Sorting Algorithm Performance Visualization](https://github.com/abdxdev/Sorting-Algorithm-Performance-Visualization)** | Visualize sorting algorithm performance across different inputs and dataset variations. \| [🌐](https://sorting-algorithm-performance-visualization.streamlit.app/)  | 2024 |
+|  **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate markdown badges for README files. \| [🌐](https://markdown-badge-generator.streamlit.app/)  | 2023 |
 | 🎓 **[Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor)** | High-performance terminal editor with autosuggestions, undo/redo, and customizable shortcuts. | 2024 |
-|  **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | 2023 |
+|  **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app)  | 2024 |
 |  **[Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder)** | Desktop application for managing and tracking prize bonds. | 2023 |
+|  **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | 2023 |
 |  **[Console Utility](https://github.com/abdxdev/Console-Utility)** | Library providing utilities for console text formatting and cursor movement. | 2024 |
-|  **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app) | 2024 |
-|  **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | Django-based API for WhatsApp messaging with plugin support and GPT integration. \| [🌐](https://whatsapp-api-backend.vercel.app) | 2024 |
+|  **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app)  | 2024 |
+|  **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | Django-based API for WhatsApp messaging with plugin support and GPT integration. \| [🌐](https://whatsapp-api-backend.vercel.app)  | 2024 |
 
 </div>
 
@@ -102,7 +90,7 @@ I spend too much time feeling sad over anime characters, getting mad at games I 
 
 <div align="center">
 
-I'm starting to think my *"Planning to watch"* list and my *"Issues"* tab are the same thing. 😐
+*"Planning to watch" list == "Issues" tab*
 
 </div>
 
@@ -248,7 +236,7 @@ I'm starting to think my *"Planning to watch"* list and my *"Issues"* tab are th
 
 <div align="center">
 
-I'm not a pro gamer, I'm a *professional respawner*. 💀
+*a professional respawner*
 
 </div>
 
@@ -256,29 +244,29 @@ I'm not a pro gamer, I'm a *professional respawner*. 💀
 
 | Nine Sols | Planet of Lana | Stray |
 | :---: | :---: | :---: |
-| ![Nine Sols](https://media.rawg.io/media/crop/600/400/games/cee/cee02d983e2e1e457caa562420f532fb.jpg) | ![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg) | ![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg) |
+| [![Nine Sols](https://media.rawg.io/media/crop/600/400/games/cee/cee02d983e2e1e457caa562420f532fb.jpg)](https://rawg.io/games/nine-sols) | [![Planet of Lana](https://media.rawg.io/media/crop/600/400/games/c61/c61a8959e0cb3cdcb2bd52a2f3aa0c2c.jpg)](https://rawg.io/games/planet-of-lana) | [![Stray](https://media.rawg.io/media/crop/600/400/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg)](https://rawg.io/games/stray-2) |
 | Hoa | Little Nightmares II | Ori and the Wil...Wisps |
-| ![Hoa](https://media.rawg.io/media/crop/600/400/games/9e7/9e78f4baf60cb4eafdb73ff70b896fd2.jpg) | ![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg) | ![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg) |
+| [![Hoa](https://media.rawg.io/media/crop/600/400/games/9e7/9e78f4baf60cb4eafdb73ff70b896fd2.jpg)](https://rawg.io/games/hoa) | [![Little Nightmares II](https://media.rawg.io/media/crop/600/400/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg)](https://rawg.io/games/little-nightmares-ii) | [![Ori and the Will of the Wisps](https://media.rawg.io/media/crop/600/400/games/718/71891d2484a592d871e91dc826707e1c.jpg)](https://rawg.io/games/ori-and-the-will-of-the-wisps) |
 | Gris | Among Us | Asphalt 9: Legends |
-| ![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg) | ![Among Us](https://media.rawg.io/media/crop/600/400/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg) | ![Asphalt 9: Legends](https://media.rawg.io/media/crop/600/400/games/e96/e96d3582bf1bd6dbe6edae5319dcdb83.jpg) |
+| [![Gris](https://media.rawg.io/media/crop/600/400/games/51c/51c430f1795c79b78f863a9f22dc422d.jpg)](https://rawg.io/games/gris) | [![Among Us](https://media.rawg.io/media/crop/600/400/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg)](https://rawg.io/games/among-us) | [![Asphalt 9: Legends](https://media.rawg.io/media/crop/600/400/games/e96/e96d3582bf1bd6dbe6edae5319dcdb83.jpg)](https://rawg.io/games/asphalt-9-legends) |
 | Celeste | Need for Speed ...yback | Minecraft: Stor...n Two |
-| ![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg) | ![Need for Speed Payback](https://media.rawg.io/media/crop/600/400/games/a57/a57e3c73ca46cbf55b526c828e3545c0.jpg) | ![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg) |
+| [![Celeste](https://media.rawg.io/media/crop/600/400/games/594/59487800889ebac294c7c2c070d02356.jpg)](https://rawg.io/games/celeste) | [![Need for Speed Payback](https://media.rawg.io/media/crop/600/400/games/a57/a57e3c73ca46cbf55b526c828e3545c0.jpg)](https://rawg.io/games/need-for-speed-payback) | [![Minecraft: Story Mode — Season Two](https://media.rawg.io/media/crop/600/400/games/5eb/5ebb2eff31f782b5ca986353dbfb8694.jpg)](https://rawg.io/games/minecraft-story-mode-s2) |
 | Little Nightmares | What Remains of...Finch | Hollow Knight |
-| ![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg) | ![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg) | ![Hollow Knight](https://media.rawg.io/media/crop/600/400/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg) |
+| [![Little Nightmares](https://media.rawg.io/media/crop/600/400/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg)](https://rawg.io/games/little-nightmares) | [![What Remains of Edith Finch](https://media.rawg.io/media/crop/600/400/games/34e/34e100b1f648de99f32d477065f04653.jpg)](https://rawg.io/games/what-remains-of-edith-finch) | [![Hollow Knight](https://media.rawg.io/media/crop/600/400/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg)](https://rawg.io/games/hollow-knight) |
 | INSIDE | Ori and the Bli...ition | Unravel |
-| ![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg) | ![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg) | ![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg) |
+| [![INSIDE](https://media.rawg.io/media/crop/600/400/games/d5a/d5a24f9f71315427fa6e966fdd98dfa6.jpg)](https://rawg.io/games/inside) | [![Ori and the Blind Forest: Definitive Edition](https://media.rawg.io/media/crop/600/400/games/04a/04a7e7e185fb51493bdcbe1693a8b3dc.jpg)](https://rawg.io/games/ori-and-the-blind-forest-definitive-edition) | [![Unravel](https://media.rawg.io/media/crop/600/400/games/cfe/cfe114c081281960bd79ace5209c0a4a.jpg)](https://rawg.io/games/unravel) |
 | Minecraft: Stor... Mode | TEKKEN 7 | Asphalt 8: Airborne |
-| ![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg) | ![TEKKEN 7](https://media.rawg.io/media/crop/600/400/games/62b/62b035add7205737540d66e082b85930.jpg) | ![Asphalt 8: Airborne](https://media.rawg.io/media/crop/600/400/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg) |
+| [![Minecraft: Story Mode](https://media.rawg.io/media/crop/600/400/games/a5e/a5e718412ecc9fc7008b59b2e2a29da1.jpg)](https://rawg.io/games/minecraft-story-mode-complete) | [![TEKKEN 7](https://media.rawg.io/media/crop/600/400/games/62b/62b035add7205737540d66e082b85930.jpg)](https://rawg.io/games/tekken-7) | [![Asphalt 8: Airborne](https://media.rawg.io/media/crop/600/400/screenshots/8a0/8a08bbf37f602041183946d0b029d218.jpg)](https://rawg.io/games/asphalt-8-airborne) |
 | The Swapper | Badland | Nihilumbra |
-| ![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg) | ![Badland](https://media.rawg.io/media/crop/600/400/games/f23/f23ef5fc03eb75a1790ca9cef27bdcf4.jpg) | ![Nihilumbra](https://media.rawg.io/media/crop/600/400/screenshots/dda/dda8007ccdcc71c467cacebba1c0035c.jpg) |
+| [![The Swapper](https://media.rawg.io/media/crop/600/400/games/6fc/6fcb1c529c764700d55f3bbc1b0fbb5b.jpg)](https://rawg.io/games/the-swapper) | [![Badland](https://media.rawg.io/media/crop/600/400/games/f23/f23ef5fc03eb75a1790ca9cef27bdcf4.jpg)](https://rawg.io/games/badland) | [![Nihilumbra](https://media.rawg.io/media/crop/600/400/screenshots/dda/dda8007ccdcc71c467cacebba1c0035c.jpg)](https://rawg.io/games/nihilumbra) |
 | FEZ | Portal 2 | Limbo |
-| ![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png) | ![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg) | ![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg) |
+| [![FEZ](https://media.rawg.io/media/crop/600/400/games/4cb/4cb855e8ef1578415a928e53c9f51867.png)](https://rawg.io/games/fez) | [![Portal 2](https://media.rawg.io/media/crop/600/400/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg)](https://rawg.io/games/portal-2) | [![Limbo](https://media.rawg.io/media/crop/600/400/games/942/9424d6bb763dc38d9378b488603c87fa.jpg)](https://rawg.io/games/limbo) |
 | Assassin's Creed II | Minecraft | Assassin's Creed |
-| ![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg) | ![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg) | ![Assassin's Creed](https://media.rawg.io/media/crop/600/400/games/0bc/0bcc108295a244b488d5c25f7d867220.jpg) |
+| [![Assassin's Creed II](https://media.rawg.io/media/crop/600/400/games/1be/1bed7fae69d1004c09dfe1101d5a3a94.jpg)](https://rawg.io/games/assassins-creed-ii) | [![Minecraft](https://media.rawg.io/media/crop/600/400/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg)](https://rawg.io/games/minecraft) | [![Assassin's Creed](https://media.rawg.io/media/crop/600/400/games/0bc/0bcc108295a244b488d5c25f7d867220.jpg)](https://rawg.io/games/assassins-creed) |
 | Portal | Need For Speed:...anted | Need for Speed:...und 2 |
-| ![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg) | ![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg) | ![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg) |
+| [![Portal](https://media.rawg.io/media/crop/600/400/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg)](https://rawg.io/games/portal) | [![Need For Speed: Most Wanted](https://media.rawg.io/media/crop/600/400/games/41b/41ba37b6a3e706dc1d27d49afbf0f72a.jpg)](https://rawg.io/games/need-for-speed-most-wanted) | [![Need for Speed: Underground 2](https://media.rawg.io/media/crop/600/400/games/dc6/dc68ca77e06ad993aade7faf645f5ec2.jpg)](https://rawg.io/games/need-for-speed-underground-2-2) |
 | Grand Theft Aut...dreas | Grand Theft Aut... City |
-| ![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg) | ![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg) |
+| [![Grand Theft Auto: San Andreas](https://media.rawg.io/media/crop/600/400/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg)](https://rawg.io/games/grand-theft-auto-san-andreas) | [![Grand Theft Auto: Vice City](https://media.rawg.io/media/crop/600/400/games/13a/13a528ac9cf48bbb6be5d35fe029336d.jpg)](https://rawg.io/games/grand-theft-auto-vice-city) |
 
 </details>
 
@@ -286,9 +274,9 @@ I'm not a pro gamer, I'm a *professional respawner*. 💀
 
 | Somerville | Valorant | Cuphead |
 | :---: | :---: | :---: |
-| ![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg) | ![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg) | ![Cuphead](https://media.rawg.io/media/crop/600/400/games/226/2262cea0b385db6cf399f4be831603b0.jpg) |
+| [![Somerville](https://media.rawg.io/media/crop/600/400/games/4fa/4fa26d7d2a9bd1deed199291668690a3.jpg)](https://rawg.io/games/somerville) | [![Valorant](https://media.rawg.io/media/crop/600/400/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg)](https://rawg.io/games/valorant) | [![Cuphead](https://media.rawg.io/media/crop/600/400/games/226/2262cea0b385db6cf399f4be831603b0.jpg)](https://rawg.io/games/cuphead) |
 | Don't Starve |
-| ![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg) |
+| [![Don't Starve](https://media.rawg.io/media/crop/600/400/games/f3e/f3eec35c6218dcfd93a537751e6bfa61.jpg)](https://rawg.io/games/dont-starve) |
 
 </details>
 
@@ -300,7 +288,7 @@ I'm not a pro gamer, I'm a *professional respawner*. 💀
 
 <div align="center">
 
-From clean code to genius ideas, they're the real MVPs of the dev world. 😎
+*From clean code to genius ideas, they're the real MVPs of the dev world. 😎*
 
 </div>
 
@@ -308,7 +296,7 @@ From clean code to genius ideas, they're the real MVPs of the dev world. 😎
 
 | abeehimr | Sohaib |
 | :---: | :---: |
-| [![@Abeehimr](https://github.com/Abeehimr.png?size=150)](https://github.com/Abeehimr) | [![@SSKnT](https://github.com/SSKnT.png?size=150)](https://github.com/SSKnT) |
+| [![abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![Sohaib](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
 | [@Abeehimr](https://github.com/Abeehimr) | [@SSKnT](https://github.com/SSKnT) |
 
 </div>
@@ -330,7 +318,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--07_03:04:06_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--07_21:10:12_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
