@@ -4,7 +4,7 @@ from urllib.parse import quote
 import requests
 
 
-PORTFOLIO_API = "https://abd-dev.studio/api/portfolio"
+PORTFOLIO_API = "https://abd-dev.studio/api/portfolio?fetch=true"
 
 
 class Helper:
@@ -234,7 +234,8 @@ def get_skills(skills):
                 "Tools": [
                     GHMarkdown.image(
                         skill["name"],
-                        f"https://img.shields.io/badge/{quote(skill['name'])}-ffffff?logo={skill['slug']}&style=for-the-badge&color=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
+                        f"https://img.shields.io/badge/{quote(skill['name'])}-{skill['hex'] or '000000'}?logo={skill['slug']}&style=for-the-badge&labelColor=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
+                        # f"https://img.shields.io/badge/{quote(skill['name'])}-ffffff?logo={skill['slug']}&style=for-the-badge&color=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
                     )
                     for skill in category_data["skills"]
                 ],
