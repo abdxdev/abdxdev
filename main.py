@@ -278,7 +278,7 @@ def get_featured_skills(skills_sets):
     for category_data in skills_sets:
         for skill in category_data["skills"]:
             if skill["portfolio"]:
-                badge = f"https://img.shields.io/badge/{quote(skill['name'])}-{skill['hex'] or '000000'}?logo={skill['slug']}&style=for-the-badge&labelColor=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}"
+                badge = f"https://img.shields.io/badge/{quote(skill['name'])}-{skill['hex'] or '000000'}?logo={skill['slug']}&style=for-the-badge&logoColor=ffffff"
                 formatted_skills.append(GHMarkdown.image(skill["name"], badge))
 
     return " ".join(formatted_skills)
