@@ -45,11 +45,20 @@ See my portfolio to know more about me: [abd-dev.studio](https://abd-dev.studio)
 
 <div align="center">
 
-## `Projects & Repositories`
+## `Featured Projects`
 
 </div>
 
 <div align="center">
+
+| <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
+| :---: | :---: | :---: |
+| **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  | **[AMOS](https://github.com/abdxdev/AMOS)** | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
+| Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
+
+</div>
+
+<details><summary>See more projects</summary>
 
 | Project | Description | Created |
 | --- | --- | --- |
@@ -72,7 +81,7 @@ See my portfolio to know more about me: [abd-dev.studio](https://abd-dev.studio)
 |  **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app)  | 2024 |
 |  **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | Django-based API for WhatsApp messaging with plugin support and GPT integration. \| [🌐](https://whatsapp-api-backend.vercel.app)  | 2024 |
 
-</div>
+</details>
 
 <div align="center">
 
@@ -135,6 +144,8 @@ I spend too much time feeling sad over anime characters, getting mad at games I 
 | [![SK8 the Infinity](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124153-uEBI764OSavB.png)](https://anilist.co/anime/124153) | [![Kemono Jihen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114085-2w5rYZTOa7ER.jpg)](https://anilist.co/anime/114085) | [![Summer Ghost](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130050-rXTPVJ9UGN8Y.jpg)](https://anilist.co/anime/130050) | [![A Sign of Affection](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166794-1MAXFMgND6qS.jpg)](https://anilist.co/anime/166794) |
 | The Executioner... Life | The 100 Girlfri...e You | BOCCHI THE ROCK! | Gurren Lagann |
 | [![The Executioner and Her Way of Life](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129193-pT3W5PpiMAUB.png)](https://anilist.co/anime/129193) | [![The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162694-QFBei5pbjSh8.png)](https://anilist.co/anime/162694) | [![BOCCHI THE ROCK!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png)](https://anilist.co/anime/130003) | [![Gurren Lagann](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-XwRnjzGeFWRQ.png)](https://anilist.co/anime/2001) |
+| Mission: Yozaku...amily |
+| [![Mission: Yozakura Family](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png)](https://anilist.co/anime/158898) |
 
 </details>
 
@@ -318,7 +329,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--08_03:05:27_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--08_22:15:38_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
