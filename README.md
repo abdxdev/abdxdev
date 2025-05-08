@@ -92,14 +92,6 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-## `Hobbies & Interests`
-
-</div>
-
-I spend too much time feeling sad over anime characters, getting mad at games I totally know how to play (blame lag, not me), bricking Android devices just to bring them back like some kind of tech wizard, fighting with Adobe while pretending I’m a designer, and writing code that only works when it wants to. Basically, my life is just chaos, and I’m fine with that. 🥲
-
-<div align="center">
-
 ## `Anime List`
 
 </div>
@@ -300,6 +292,14 @@ I spend too much time feeling sad over anime characters, getting mad at games I 
 
 <div align="center">
 
+## `Hobbies & Interests`
+
+</div>
+
+I spend too much time feeling sad over anime characters, getting mad at games I totally know how to play (blame lag, not me), bricking Android devices just to bring them back like some kind of tech wizard, fighting with Adobe while pretending I’m a designer, and writing code that only works when it wants to. Basically, my life is just chaos, and I’m fine with that. 🥲
+
+<div align="center">
+
 ## `Meet my Code Buddies!`
 
 </div>
@@ -336,7 +336,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--08_23:02:16_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--08_23:06:45_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 

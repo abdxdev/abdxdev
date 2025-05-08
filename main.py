@@ -300,9 +300,6 @@ def make_markdown():
     md.write(get_featured_projects(portfolio["projects"]))
     md.write(get_all_projects(portfolio["projects"]), centered=False, summary="See more projects")
 
-    md.write(GHMarkdown.heading("Hobbies & Interests"))
-    md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
-
     md.write(GHMarkdown.heading("Anime List"))
     md.write('*"Planning to watch" list == "Issues" tab*')
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
@@ -311,6 +308,9 @@ def make_markdown():
     md.write(GHMarkdown.heading("Game List"))
     md.write("*a professional respawner*")
     md.write(get_games(portfolio["games"]), centered=False)
+
+    md.write(GHMarkdown.heading("Hobbies & Interests"))
+    md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
 
     md.write(GHMarkdown.heading("Meet my Code Buddies!"))
     md.write("*From clean code to genius ideas, they're the real MVPs of the dev world. 😎*")
