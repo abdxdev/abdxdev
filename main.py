@@ -107,14 +107,21 @@ class GHMarkdown:
                 chunks.append([item[key] for item in dict_item[sl]])
         return GHMarkdown.table(chunks, centered=True)
 
-
     @staticmethod
     def image(alt, src):
         return f"![{alt}](<{src}>)"
 
     @staticmethod
+    def html_image(alt, src, width=20):
+        return f'<img src="{src}" alt="{alt}" width="{width}">'
+
+    @staticmethod
     def link(text, url):
         return f"[{text}]({url})"
+
+    @staticmethod
+    def html_link(text, url):
+        return f'<a href="{url}" target="_blank">{text}</a>'
 
     def __str__(self):
         return self.md.strip()
@@ -186,15 +193,15 @@ def get_friends(friends):
         formatted_friend = {
             "Name": friend["github_name"],
             "Avatar": GHMarkdown.link(GHMarkdown.image(friend["github_name"], friend["github_avatar"]), friend["github_url"]),
-            "Link": GHMarkdown.link('@'+friend["github_username"], friend["github_url"]),
+            "Link": GHMarkdown.link("@" + friend["github_username"], friend["github_url"]),
         }
         formatted_friends.append(formatted_friend)
 
     return GHMarkdown.get_gallery_view(formatted_friends, 3)
 
 
-def get_projects(projects):
-    ret_projects = []
+def get_all_projects(projects):
+    formatted_projects = []
 
     for project in projects:
         priority = project["priority"]
@@ -211,9 +218,9 @@ def get_projects(projects):
             prefix += "🛠️"
             priority = 0
 
-        link = rf' \| [🌐]({project["homepage"]}) ' if project["homepage"] else ""
+        link = rf" \| {GHMarkdown.link('🌐', project['homepage'])} " if project["homepage"] else ""
 
-        ret_projects.append(
+        formatted_projects.append(
             {
                 "Project": f"{prefix} **[{project['title']}]({project['html_url']})**",
                 "Description": project["description"].strip() + link,
@@ -221,7 +228,27 @@ def get_projects(projects):
             },
         )
 
-    return ret_projects
+    return GHMarkdown.table(Helper.list_dict_to_list_list(formatted_projects))
+
+
+def get_featured_projects(projects):
+    formatted_projects = []
+
+    for project in projects:
+        priority = project["priority"]
+        if priority is None:
+            priority = float("inf")
+
+        if priority == 0:
+            image = project["thumbnails"][0] if len(project["thumbnails"]) > 0 else project["default_image_url"]
+            formatted_project = {
+                "Thumbnail": GHMarkdown.html_link(GHMarkdown.html_image(project["title"], image, 300), project["html_url"]),
+                "Name": "**" + GHMarkdown.link(project["title"], project["html_url"]) + "**" + (rf' {GHMarkdown.link("🌐", project["homepage"])} ' if project["homepage"] else ""),
+                "Description": project["description"].strip(),
+            }
+            formatted_projects.append(formatted_project)
+
+    return GHMarkdown.get_gallery_view(formatted_projects, 3)
 
 
 def get_skills(skills):
@@ -251,16 +278,14 @@ def make_markdown():
 
     md.write(open("assets/md/header.md", encoding="utf-8").read())
     md.write(open("assets/md/description.md", encoding="utf-8").read())
-    # md.write(ABDGHMD.heading("Education & Certifications"))
-    # md.write(open("assets/md/education.md", encoding="utf-8").read(), centered=False)
-    # md.write(open("assets/md/certifications.md", encoding="utf-8").read(), centered=False)
-    # md.write(ABDGHMD.heading("GitHub Stats"))
+
     md.write(GHMarkdown.heading("Languages & Tools"))
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(GHMarkdown.table(get_skills(portfolio["skills"])))
 
-    md.write(GHMarkdown.heading("Projects & Repositories"))
-    md.write(GHMarkdown.table(Helper.list_dict_to_list_list(get_projects(portfolio["projects"]))))
+    md.write(GHMarkdown.heading("Featured Projects"))
+    md.write(get_featured_projects(portfolio["projects"]))
+    md.write(get_all_projects(portfolio["projects"]), centered=False, summary="See more projects")
 
     md.write(GHMarkdown.heading("Hobbies & Interests"))
     md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
