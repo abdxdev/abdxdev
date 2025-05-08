@@ -27,6 +27,12 @@ See my portfolio to know more about me: [abd-dev.studio](https://abd-dev.studio)
 
 <div align="center">
 
+![Python](<https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&labelColor=000000&logoColor=3776AB>) ![C](<https://img.shields.io/badge/C-A8B9CC?logo=c&style=for-the-badge&labelColor=000000&logoColor=A8B9CC>) ![C++](<https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge&labelColor=000000&logoColor=00599C>) ![C#](<https://img.shields.io/badge/C%23-000000?logo=c&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![JavaScript](<https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&labelColor=000000&logoColor=F7DF1E>) ![TypeScript](<https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&labelColor=000000&logoColor=3178C6>) ![LaTeX](<https://img.shields.io/badge/LaTeX-008080?logo=latex&style=for-the-badge&labelColor=000000&logoColor=008080>) ![Tailwind CSS](<https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&style=for-the-badge&labelColor=000000&logoColor=06B6D4>) ![Next.js](<https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![React](<https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&labelColor=000000&logoColor=61DAFB>) ![Django](<https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&labelColor=000000&logoColor=092E20>) ![Flask](<https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![Streamlit](<https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&style=for-the-badge&labelColor=000000&logoColor=FF4B4B>) ![Flet](<https://img.shields.io/badge/Flet-000000?logo=flet&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![WinUI 3](<https://img.shields.io/badge/WinUI%203-000000?logo=winui3&style=for-the-badge&labelColor=000000&logoColor=ffffff>)
+
+</div>
+
+<details><summary>See more skills</summary>
+
 | Category | Tools |
 | --- | --- |
 | Programming Languages | ![Python](<https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&labelColor=000000&logoColor=3776AB>) ![C](<https://img.shields.io/badge/C-A8B9CC?logo=c&style=for-the-badge&labelColor=000000&logoColor=A8B9CC>) ![C++](<https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge&labelColor=000000&logoColor=00599C>) ![C#](<https://img.shields.io/badge/C%23-000000?logo=c&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![JavaScript](<https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&labelColor=000000&logoColor=F7DF1E>) ![TypeScript](<https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&labelColor=000000&logoColor=3178C6>) |
@@ -41,7 +47,7 @@ See my portfolio to know more about me: [abd-dev.studio](https://abd-dev.studio)
 | Graphics & Design | ![Illustrator](<https://img.shields.io/badge/Illustrator-000000?logo=illustrator&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![Photoshop](<https://img.shields.io/badge/Photoshop-000000?logo=photoshop&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![Premiere](<https://img.shields.io/badge/Premiere-000000?logo=premiere&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![After Effects](<https://img.shields.io/badge/After%20Effects-000000?logo=aftereffects&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![Figma](<https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge&labelColor=000000&logoColor=F24E1E>) ![Spline](<https://img.shields.io/badge/Spline-000000?logo=spline&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![Blender](<https://img.shields.io/badge/Blender-E87D0D?logo=blender&style=for-the-badge&labelColor=000000&logoColor=E87D0D>) |
 | Platforms & Operating Systems | ![Windows](<https://img.shields.io/badge/Windows-000000?logo=windows&style=for-the-badge&labelColor=000000&logoColor=ffffff>) ![Linux](<https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&labelColor=000000&logoColor=FCC624>) ![Android](<https://img.shields.io/badge/Android-3DDC84?logo=android&style=for-the-badge&labelColor=000000&logoColor=3DDC84>) |
 
-</div>
+</details>
 
 <div align="center">
 
@@ -329,7 +335,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--08_22:15:38_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--08_22:28:51_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 

@@ -251,10 +251,10 @@ def get_featured_projects(projects):
     return GHMarkdown.get_gallery_view(formatted_projects, 3)
 
 
-def get_skills(skills):
+def get_all_skills(skills_sets):
     filtered_skills = []
 
-    for category_data in skills:
+    for category_data in skills_sets:
         filtered_skills.append(
             {
                 "Category": category_data["category"],
@@ -269,7 +269,19 @@ def get_skills(skills):
             }
         )
 
-    return Helper.list_dict_to_list_list(filtered_skills)
+    return GHMarkdown.table(Helper.list_dict_to_list_list(filtered_skills))
+
+
+def get_featured_skills(skills_sets):
+    formatted_skills = []
+
+    for category_data in skills_sets:
+        for skill in category_data["skills"]:
+            if skill["portfolio"]:
+                badge = f"https://img.shields.io/badge/{quote(skill['name'])}-{skill['hex'] or '000000'}?logo={skill['slug']}&style=for-the-badge&labelColor=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}"
+                formatted_skills.append(GHMarkdown.image(skill["name"], badge))
+
+    return " ".join(formatted_skills)
 
 
 def make_markdown():
@@ -281,7 +293,8 @@ def make_markdown():
 
     md.write(GHMarkdown.heading("Languages & Tools"))
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
-    md.write(GHMarkdown.table(get_skills(portfolio["skills"])))
+    md.write(get_featured_skills(portfolio["skills"]))
+    md.write(get_all_skills(portfolio["skills"]), centered=False, summary="See more skills")
 
     md.write(GHMarkdown.heading("Featured Projects"))
     md.write(get_featured_projects(portfolio["projects"]))
