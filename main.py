@@ -320,7 +320,7 @@ def make_markdown():
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
     request = requests.Request("GET", "https://abd-utils-server.vercel.app/service/trigger-workflow/", params={"owner": "abdxdev", "repo": "abdxdev", "event": "update-readme", "redirect_uri": "https://github.com/abdxdev"}).prepare().url
     md.write(f"[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}_UTC-ffffff?style=for-the-badge&color=080808)]({request})")
-    md.write("_This README is auto-generated. If you want to update it, click the button above._")
+    md.write("> _This README is auto-generated. If you want to update it, click the button above._")
     md.write(open("assets/md/footer.md", encoding="utf-8").read())
 
     md.save("README.md")
