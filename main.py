@@ -251,7 +251,7 @@ def get_projects_gallery(projects, choosing_condition_func):
             formatted_project = {
                 "Thumbnail": GHMarkdown.html_link(GHMarkdown.html_image(project["title"], image, 300), project["html_url"]),
                 "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"],project["html_url"])}**' + (rf' {GHMarkdown.link("🌐", project["homepage"])} ' if project["homepage"] else ""),
-                "Description": project["description"].strip() + (f"<br>{' '.join(prefix)}" if prefix else ""),
+                "Description": project["description"].strip(),
             }
             formatted_projects.append(formatted_project)
 

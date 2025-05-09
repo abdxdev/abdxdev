@@ -8,7 +8,7 @@
 
 Software developer and designer specializing in Python, C/C++, Django, Flask, and UI/UX design. Creator of VS Code extensions and innovative software solutions. See my portfolio to know more about me.
 
-##### **[abd-dev.studio](https://abd-dev.studio)**
+#### **[abd-dev.studio](https://abd-dev.studio)**
 
 </div>
 
@@ -61,7 +61,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
 | :---: | :---: | :---: |
 | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  | ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
-| Odoo Lens enhances analytics, search, and management features for Odoo ERP systems.<br>⭐ `UNI` | Innovative restaurant ordering and management system for customers, managers, and admins.<br>⭐ `UNI` | Manage context menu plugins to extend functionality in various directories using Python scripts.<br>⭐ |
+| Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
 
 </div>
 
@@ -333,7 +333,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--09_11:05:41_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--09_11:07:27_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
