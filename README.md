@@ -8,7 +8,7 @@
 
 Software developer and designer specializing in Python, C/C++, Django, Flask, and UI/UX design. Creator of VS Code extensions and innovative software solutions. See my portfolio to know more about me.
 
-#### **[abd-dev.studio](https://abd-dev.studio)**
+### **[abd-dev.studio](https://abd-dev.studio)**
 
 </div>
 
@@ -102,6 +102,12 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 <div align="center">
 
 [![Anilist](assets/gen/metrics-anilist.svg)](https://anilist.co/user/abdxdev/)
+
+</div>
+
+<div align="center">
+
+<img align='right' src='assets/gif/anime_gif.gif' height='120'>
 
 </div>
 
@@ -247,6 +253,12 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 </div>
 
+<div align="center">
+
+<img align='right' src='assets/gif/game_gif.gif' height='70'>
+
+</div>
+
 <details><summary>Beaten</summary>
 
 | Nine Sols | Planet of Lana | Stray |
@@ -333,7 +345,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--09_11:07:27_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--09_11:55:14_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 

@@ -220,7 +220,7 @@ def get_projects_list(projects, choosing_condition_func):
         if choosing_condition_func(project) if choosing_condition_func else True:
             formatted_projects.append(
                 {
-                    "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"],project["html_url"])}**',
+                    "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"], project["html_url"])}**',
                     "Description": project["description"].strip() + (rf" \| {GHMarkdown.link('🌐', project['homepage'])} " if project["homepage"] else ""),
                     "Created": project["created_at"].split("T")[0][:4],
                 },
@@ -250,7 +250,7 @@ def get_projects_gallery(projects, choosing_condition_func):
             image = project["thumbnails"][0] if len(project["thumbnails"]) > 0 else project["default_image_url"]
             formatted_project = {
                 "Thumbnail": GHMarkdown.html_link(GHMarkdown.html_image(project["title"], image, 300), project["html_url"]),
-                "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"],project["html_url"])}**' + (rf' {GHMarkdown.link("🌐", project["homepage"])} ' if project["homepage"] else ""),
+                "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"], project["html_url"])}**' + (rf' {GHMarkdown.link("🌐", project["homepage"])} ' if project["homepage"] else ""),
                 "Description": project["description"].strip(),
             }
             formatted_projects.append(formatted_project)
@@ -310,10 +310,12 @@ def make_markdown():
     md.write(GHMarkdown.heading("Anime List"))
     md.write('*"Planning to watch" list == "Issues" tab*')
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
+    md.write("<img align='right' src='assets/gif/anime_gif.gif' height='120'>")
     md.write(get_anime(portfolio["anime"]), centered=False)
 
     md.write(GHMarkdown.heading("Game List"))
     md.write("*a professional respawner*")
+    md.write("<img align='right' src='assets/gif/game_gif.gif' height='70'>")
     md.write(get_games(portfolio["games"]), centered=False)
 
     md.write(GHMarkdown.heading("Hobbies & Interests"))
