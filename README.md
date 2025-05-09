@@ -105,11 +105,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 </div>
 
-<div align="center">
-
-<img align='right' src='assets/gif/anime_gif.gif' height='120'>
-
-</div>
+<img align='right' src='assets/gif/anime_gif.gif' height='170'>
 
 <details><summary>Planning</summary>
 
@@ -253,12 +249,6 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 </div>
 
-<div align="center">
-
-<img align='right' src='assets/gif/game_gif.gif' height='70'>
-
-</div>
-
 <details><summary>Beaten</summary>
 
 | Nine Sols | Planet of Lana | Stray |
@@ -345,7 +335,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--09_11:55:14_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--09_12:10:38_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 

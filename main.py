@@ -310,12 +310,12 @@ def make_markdown():
     md.write(GHMarkdown.heading("Anime List"))
     md.write('*"Planning to watch" list == "Issues" tab*')
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
-    md.write("<img align='right' src='assets/gif/anime_gif.gif' height='120'>")
+    md.write("<img align='right' src='assets/gif/anime_gif.gif' height='170'>", centered=False)
     md.write(get_anime(portfolio["anime"]), centered=False)
 
     md.write(GHMarkdown.heading("Game List"))
     md.write("*a professional respawner*")
-    md.write("<img align='right' src='assets/gif/game_gif.gif' height='70'>")
+    # md.write("<img align='right' src='assets/gif/game_gif.gif' height='80'>")
     md.write(get_games(portfolio["games"]), centered=False)
 
     md.write(GHMarkdown.heading("Hobbies & Interests"))
