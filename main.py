@@ -177,8 +177,6 @@ def get_games(games):
     return str(md)
 
 
-
-
 def get_friends(friends):
     formatted_friends = []
     for friend in friends:
@@ -201,38 +199,8 @@ def get_friends(friends):
 #         # md.write(f"- {project['Project']}: {project['Description']} \\| ![{project['Created']}](https://img.shields.io/badge/{project['Created']}-ffffff?style=for-the-badge&color=080808)\n", centered=False)
 #     return str(md)
 
-# def get_all_projects(projects):
-#     formatted_projects = []
 
-#     for project in projects:
-#         priority = project["priority"]
-#         if priority is None:
-#             priority = float("inf")
-
-#         prefix = ""
-#         if priority == 0:
-#             prefix += "📌"
-
-#         if project["is_university_project"]:
-#             prefix += "🎓"
-#         if project["working_on"]:
-#             prefix += "🛠️"
-#             priority = 0
-
-#         link = rf" \| {GHMarkdown.link('🌐', project['homepage'])} " if project["homepage"] else ""
-
-#         formatted_projects.append(
-#             {
-#                 "Project": f"{prefix} **[{project['title']}]({project['html_url']})**",
-#                 "Description": project["description"].strip() + link,
-#                 "Created": project["created_at"].split("T")[0][:4],
-#             },
-#         )
-
-#     return GHMarkdown.table(Helper.list_dict_to_list_list(formatted_projects))
-
-
-def get_projects(projects, choosing_condition_func):
+def get_projects_list(projects, choosing_condition_func):
     formatted_projects = []
 
     for project in projects:
@@ -241,6 +209,37 @@ def get_projects(projects, choosing_condition_func):
             priority = float("inf")
 
         prefix = []
+        if priority == 0:
+            prefix.append("⭐")
+        if project["is_university_project"]:
+            prefix.append("`UNI`")
+        if project["working_on"]:
+            prefix.append("`WIP`")
+            priority = 0
+
+        if choosing_condition_func(project) if choosing_condition_func else True:
+            formatted_projects.append(
+                {
+                    "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"],project["html_url"])}**',
+                    "Description": project["description"].strip() + (rf" \| {GHMarkdown.link('🌐', project['homepage'])} " if project["homepage"] else ""),
+                    "Created": project["created_at"].split("T")[0][:4],
+                },
+            )
+
+    return GHMarkdown.table(Helper.list_dict_to_list_list(formatted_projects))
+
+
+def get_projects_gallery(projects, choosing_condition_func):
+    formatted_projects = []
+
+    for project in projects:
+        priority = project["priority"]
+        if priority is None:
+            priority = float("inf")
+
+        prefix = []
+        if priority == 0:
+            prefix.append("⭐")
         if project["working_on"]:
             priority = 0
             prefix.append("`WIP`")
@@ -251,7 +250,7 @@ def get_projects(projects, choosing_condition_func):
             image = project["thumbnails"][0] if len(project["thumbnails"]) > 0 else project["default_image_url"]
             formatted_project = {
                 "Thumbnail": GHMarkdown.html_link(GHMarkdown.html_image(project["title"], image, 300), project["html_url"]),
-                "Name": "**" + GHMarkdown.link(project["title"], project["html_url"]) + "**" + (rf' {GHMarkdown.link("🌐", project["homepage"])} ' if project["homepage"] else ""),
+                "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"],project["html_url"])}**' + (rf' {GHMarkdown.link("🌐", project["homepage"])} ' if project["homepage"] else ""),
                 "Description": project["description"].strip() + (f"<br>{' '.join(prefix)}" if prefix else ""),
             }
             formatted_projects.append(formatted_project)
@@ -305,8 +304,8 @@ def make_markdown():
     md.write(get_all_skills(portfolio["skills"]), centered=False, summary="See more skills")
 
     md.write(GHMarkdown.heading("Featured Projects"))
-    md.write(get_projects(portfolio["projects"], lambda x: x["priority"] == 0))
-    md.write(get_projects(portfolio["projects"], lambda x: x["priority"] != 0), centered=False, summary="See more projects")
+    md.write(get_projects_gallery(portfolio["projects"], lambda x: x["priority"] == 0))
+    md.write(get_projects_list(portfolio["projects"], lambda x: x["priority"] != 0), centered=False, summary="See more projects")
 
     md.write(GHMarkdown.heading("Anime List"))
     md.write('*"Planning to watch" list == "Issues" tab*')
