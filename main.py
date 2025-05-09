@@ -177,14 +177,6 @@ def get_games(games):
     return str(md)
 
 
-def new_project_display(projects):
-    md = GHMarkdown()
-    for project in projects:
-        if project["Project"] == "":
-            continue
-        md.write(f"- {project['Project']}: {project['Description']} \\| `{project['Created']}`", centered=False)
-        # md.write(f"- {project['Project']}: {project['Description']} \\| ![{project['Created']}](https://img.shields.io/badge/{project['Created']}-ffffff?style=for-the-badge&color=080808)\n", centered=False)
-    return str(md)
 
 
 def get_friends(friends):
@@ -200,7 +192,47 @@ def get_friends(friends):
     return GHMarkdown.get_gallery_view(formatted_friends, 3)
 
 
-def get_all_projects(projects):
+# def get_all_projects(projects):
+#     md = GHMarkdown()
+#     for project in projects:
+#         if project["Project"] == "":
+#             continue
+#         md.write(f"- {project['Project']}: {project['Description']} \\| `{project['Created']}`", centered=False)
+#         # md.write(f"- {project['Project']}: {project['Description']} \\| ![{project['Created']}](https://img.shields.io/badge/{project['Created']}-ffffff?style=for-the-badge&color=080808)\n", centered=False)
+#     return str(md)
+
+# def get_all_projects(projects):
+#     formatted_projects = []
+
+#     for project in projects:
+#         priority = project["priority"]
+#         if priority is None:
+#             priority = float("inf")
+
+#         prefix = ""
+#         if priority == 0:
+#             prefix += "📌"
+
+#         if project["is_university_project"]:
+#             prefix += "🎓"
+#         if project["working_on"]:
+#             prefix += "🛠️"
+#             priority = 0
+
+#         link = rf" \| {GHMarkdown.link('🌐', project['homepage'])} " if project["homepage"] else ""
+
+#         formatted_projects.append(
+#             {
+#                 "Project": f"{prefix} **[{project['title']}]({project['html_url']})**",
+#                 "Description": project["description"].strip() + link,
+#                 "Created": project["created_at"].split("T")[0][:4],
+#             },
+#         )
+
+#     return GHMarkdown.table(Helper.list_dict_to_list_list(formatted_projects))
+
+
+def get_projects(projects, choosing_condition_func):
     formatted_projects = []
 
     for project in projects:
@@ -208,43 +240,19 @@ def get_all_projects(projects):
         if priority is None:
             priority = float("inf")
 
-        prefix = ""
-        if priority == 0:
-            prefix += "📌"
-
-        if project["is_university_project"]:
-            prefix += "🎓"
+        prefix = []
         if project["working_on"]:
-            prefix += "🛠️"
             priority = 0
+            prefix.append("`WIP`")
+        if project["is_university_project"]:
+            prefix.append("`UNI`")
 
-        link = rf" \| {GHMarkdown.link('🌐', project['homepage'])} " if project["homepage"] else ""
-
-        formatted_projects.append(
-            {
-                "Project": f"{prefix} **[{project['title']}]({project['html_url']})**",
-                "Description": project["description"].strip() + link,
-                "Created": project["created_at"].split("T")[0][:4],
-            },
-        )
-
-    return GHMarkdown.table(Helper.list_dict_to_list_list(formatted_projects))
-
-
-def get_featured_projects(projects):
-    formatted_projects = []
-
-    for project in projects:
-        priority = project["priority"]
-        if priority is None:
-            priority = float("inf")
-
-        if priority == 0:
+        if choosing_condition_func(project) if choosing_condition_func else True:
             image = project["thumbnails"][0] if len(project["thumbnails"]) > 0 else project["default_image_url"]
             formatted_project = {
                 "Thumbnail": GHMarkdown.html_link(GHMarkdown.html_image(project["title"], image, 300), project["html_url"]),
                 "Name": "**" + GHMarkdown.link(project["title"], project["html_url"]) + "**" + (rf' {GHMarkdown.link("🌐", project["homepage"])} ' if project["homepage"] else ""),
-                "Description": project["description"].strip(),
+                "Description": project["description"].strip() + (f"<br>{' '.join(prefix)}" if prefix else ""),
             }
             formatted_projects.append(formatted_project)
 
@@ -292,13 +300,13 @@ def make_markdown():
     md.write(open("assets/md/description.md", encoding="utf-8").read())
 
     md.write(GHMarkdown.heading("Languages & Tools"))
-    md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(get_featured_skills(portfolio["skills"]))
+    md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(get_all_skills(portfolio["skills"]), centered=False, summary="See more skills")
 
     md.write(GHMarkdown.heading("Featured Projects"))
-    md.write(get_featured_projects(portfolio["projects"]))
-    md.write(get_all_projects(portfolio["projects"]), centered=False, summary="See more projects")
+    md.write(get_projects(portfolio["projects"], lambda x: x["priority"] == 0))
+    md.write(get_projects(portfolio["projects"], lambda x: x["priority"] != 0), centered=False, summary="See more projects")
 
     md.write(GHMarkdown.heading("Anime List"))
     md.write('*"Planning to watch" list == "Issues" tab*')
