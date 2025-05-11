@@ -69,6 +69,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 | Name | Description | Created |
 | --- | --- | --- |
+| `WIP` **[Classroom Guy](https://github.com/abdxdev/classroom-guy)** | SaaS Classroom WhatsApp Bot for announcements, AI-generated calendar images, and group management. | 2025 |
 | **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. \| [🌐](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | 2025 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | 2025 |
@@ -142,8 +143,8 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | [![SK8 the Infinity](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124153-uEBI764OSavB.png)](https://anilist.co/anime/124153) | [![Kemono Jihen](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114085-2w5rYZTOa7ER.jpg)](https://anilist.co/anime/114085) | [![Summer Ghost](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130050-rXTPVJ9UGN8Y.jpg)](https://anilist.co/anime/130050) | [![A Sign of Affection](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166794-1MAXFMgND6qS.jpg)](https://anilist.co/anime/166794) |
 | The Executioner... Life | The 100 Girlfri...e You | BOCCHI THE ROCK! | Gurren Lagann |
 | [![The Executioner and Her Way of Life](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129193-pT3W5PpiMAUB.png)](https://anilist.co/anime/129193) | [![The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162694-QFBei5pbjSh8.png)](https://anilist.co/anime/162694) | [![BOCCHI THE ROCK!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png)](https://anilist.co/anime/130003) | [![Gurren Lagann](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-XwRnjzGeFWRQ.png)](https://anilist.co/anime/2001) |
-| Mission: Yozaku...amily | Ergo Proxy | Fate/Zero |
-| [![Mission: Yozakura Family](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png)](https://anilist.co/anime/158898) | [![Ergo Proxy](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx790-YTUCvBKX8ZWK.jpg)](https://anilist.co/anime/790) | [![Fate/Zero](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-M4Hd9qrHGrXk.png)](https://anilist.co/anime/10087) |
+| Mission: Yozaku...amily | Ergo Proxy | Fate/Zero | Hell’s Paradise |
+| [![Mission: Yozakura Family](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png)](https://anilist.co/anime/158898) | [![Ergo Proxy](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx790-YTUCvBKX8ZWK.jpg)](https://anilist.co/anime/790) | [![Fate/Zero](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-M4Hd9qrHGrXk.png)](https://anilist.co/anime/10087) | [![Hell’s Paradise](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-Gc2t8b8M0mVu.jpg)](https://anilist.co/anime/128893) |
 
 </details>
 
@@ -335,7 +336,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--11_03:08:17_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--12_01:06:18_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 

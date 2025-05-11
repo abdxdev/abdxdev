@@ -200,11 +200,11 @@ def get_friends(friends):
 #     return str(md)
 
 
-def get_projects_list(projects, choosing_condition_func):
+def get_projects_list(projects):
     formatted_projects = []
 
     for project in projects:
-        priority = project["priority"]
+        priority = project.get("priority")
         if priority is None:
             priority = float("inf")
 
@@ -215,25 +215,31 @@ def get_projects_list(projects, choosing_condition_func):
             prefix.append("`UNI`")
         if project["working_on"]:
             prefix.append("`WIP`")
-            priority = 1
+            priority = 0
 
-        if choosing_condition_func(project) if choosing_condition_func else True:
+        if priority != 0 or project["working_on"]:
             formatted_projects.append(
                 {
                     "Name": (f'{" ".join(prefix)} ' if prefix else "") + f'**{GHMarkdown.link(project["title"], project["html_url"])}**',
                     "Description": project["description"].strip() + (rf" \| {GHMarkdown.link('🌐', project['homepage'])} " if project["homepage"] else ""),
                     "Created": project["created_at"].split("T")[0][:4],
+                    "_working_on": project["working_on"],  # Add a sort key (underscore prefix to indicate it's for internal use)
                 },
             )
+
+    formatted_projects.sort(key=lambda x: not x["_working_on"])
+    
+    for project in formatted_projects:
+        del project["_working_on"]
 
     return GHMarkdown.table(Helper.list_dict_to_list_list(formatted_projects))
 
 
-def get_projects_gallery(projects, choosing_condition_func):
+def get_projects_gallery(projects):
     formatted_projects = []
 
     for project in projects:
-        priority = project["priority"]
+        priority = project.get("priority")
         if priority is None:
             priority = float("inf")
 
@@ -244,9 +250,9 @@ def get_projects_gallery(projects, choosing_condition_func):
             prefix.append("`UNI`")
         if project["working_on"]:
             prefix.append("`WIP`")
-            priority = 1
+            priority = 0
 
-        if choosing_condition_func(project) if choosing_condition_func else True:
+        if priority == 0 and not project["working_on"]:
             image = project["thumbnails"][0] if len(project["thumbnails"]) > 0 else project["default_image_url"]
             formatted_project = {
                 "Thumbnail": GHMarkdown.html_link(GHMarkdown.html_image(project["title"], image, 300), project["html_url"]),
@@ -304,8 +310,8 @@ def make_markdown():
     md.write(get_all_skills(portfolio["skills"]), centered=False, summary="See more skills")
 
     md.write(GHMarkdown.heading("Featured Projects"))
-    md.write(get_projects_gallery(portfolio["projects"], lambda x: x["priority"] == 0))
-    md.write(get_projects_list(portfolio["projects"], lambda x: x["priority"] != 0), centered=False, summary="See more projects")
+    md.write(get_projects_gallery(portfolio["projects"]))
+    md.write(get_projects_list(portfolio["projects"]), centered=False, summary="See more projects")
 
     md.write(GHMarkdown.heading("Anime List"))
     md.write('*"Planning to watch" list == "Issues" tab*')
