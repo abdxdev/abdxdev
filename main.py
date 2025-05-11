@@ -215,7 +215,7 @@ def get_projects_list(projects, choosing_condition_func):
             prefix.append("`UNI`")
         if project["working_on"]:
             prefix.append("`WIP`")
-            priority = 0
+            priority = 1
 
         if choosing_condition_func(project) if choosing_condition_func else True:
             formatted_projects.append(
@@ -240,11 +240,11 @@ def get_projects_gallery(projects, choosing_condition_func):
         prefix = []
         if priority == 0:
             prefix.append("⭐")
-        if project["working_on"]:
-            priority = 0
-            prefix.append("`WIP`")
         if project["is_university_project"]:
             prefix.append("`UNI`")
+        if project["working_on"]:
+            prefix.append("`WIP`")
+            priority = 1
 
         if choosing_condition_func(project) if choosing_condition_func else True:
             image = project["thumbnails"][0] if len(project["thumbnails"]) > 0 else project["default_image_url"]
