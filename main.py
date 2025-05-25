@@ -4,7 +4,7 @@ from urllib.parse import quote
 import requests
 
 
-PORTFOLIO_API = "https://abd-dev.studio/api/portfolio?fetch=true"
+PORTFOLIO = "https://abd-dev.studio/"
 
 
 class Helper:
@@ -228,7 +228,7 @@ def get_projects_list(projects):
             )
 
     formatted_projects.sort(key=lambda x: not x["_working_on"])
-    
+
     for project in formatted_projects:
         del project["_working_on"]
 
@@ -299,39 +299,46 @@ def get_featured_skills(skills_sets):
 
 def make_markdown():
     md = GHMarkdown()
-    portfolio = requests.get(PORTFOLIO_API).json()
+    portfolio = requests.get(PORTFOLIO + "api/portfolio?fetch=true").json()
 
-    md.write(open("assets/md/header.md", encoding="utf-8").read())
+    # md.write(open("assets/md/header.md", encoding="utf-8").read())
+    md.write(GHMarkdown.link(GHMarkdown.image("Abd Dev", "assets/gif/intro.gif"), PORTFOLIO), centered=True)
     md.write(open("assets/md/description.md", encoding="utf-8").read())
 
-    md.write(GHMarkdown.heading("Languages & Tools"))
+    # md.write(GHMarkdown.heading("Languages & Tools"))
+    md.write(GHMarkdown.image("Languages & Tools", "assets/titles/languages_and_tools.png"), centered=True)
     md.write(get_featured_skills(portfolio["skills"]))
     md.write(open("assets/md/github_stats.md", encoding="utf-8").read())
     md.write(get_all_skills(portfolio["skills"]), centered=False, summary="See more skills")
 
-    md.write(GHMarkdown.heading("Featured Projects"))
+    # md.write(GHMarkdown.heading("Featured Projects"))
+    md.write(GHMarkdown.image("Featured Projects", "assets/titles/featured_projects.png"), centered=True)
     md.write(get_projects_gallery(portfolio["projects"]))
     md.write(get_projects_list(portfolio["projects"]), centered=False, summary="See more projects")
 
-    md.write(GHMarkdown.heading("Anime List"))
+    # md.write(GHMarkdown.heading("Anime List"))
+    md.write(GHMarkdown.image("Anime List", "assets/titles/anime_list.png"), centered=True)
     md.write('*"Planning to watch" list == "Issues" tab*')
     md.write(open("assets/md/anilist.md", encoding="utf-8").read())
     md.write("<img align='right' src='assets/gif/anime_gif.gif' height='170'>", centered=False)
     md.write(get_anime(portfolio["anime"]), centered=False)
 
-    md.write(GHMarkdown.heading("Game List"))
+    # md.write(GHMarkdown.heading("Game List"))
+    md.write(GHMarkdown.image("Game List", "assets/titles/game_list.png"), centered=True)
     md.write("*a professional respawner*")
     # md.write("<img align='right' src='assets/gif/game_gif.gif' height='80'>")
     md.write(get_games(portfolio["games"]), centered=False)
 
-    md.write(GHMarkdown.heading("Hobbies & Interests"))
-    md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
+    # md.write(GHMarkdown.heading("Hobbies & Interests"))
+    # md.write(open("assets/md/hobbies.md", encoding="utf-8").read(), centered=False)
 
-    md.write(GHMarkdown.heading("Meet my Code Buddies!"))
-    md.write("*From clean code to genius ideas, they're the real MVPs of the dev world. 😎*")
+    # md.write(GHMarkdown.heading("Meet my Code Buddies!"))
+    md.write(GHMarkdown.image("Meet my Code Buddies!", "assets/titles/friends.png"), centered=True)
+    # md.write("*From clean code to genius ideas, they're the real MVPs of the dev world. 😎*")
     md.write(get_friends(portfolio["friends"]))
 
-    md.write(GHMarkdown.heading("Support Me"))
+    # md.write(GHMarkdown.heading("Support Me"))
+    md.write(GHMarkdown.image("Support Me", "assets/titles/support_me.png"), centered=True)
     md.write(open("assets/md/supportme.md", encoding="utf-8").read())
     request = requests.Request("GET", "https://abd-utils-server.vercel.app/service/trigger-workflow/", params={"owner": "abdxdev", "repo": "abdxdev", "event": "update-readme", "redirect_uri": "https://github.com/abdxdev"}).prepare().url
     md.write(f"[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_{str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')).replace(' ','_').replace('-', '--')}_UTC-ffffff?style=for-the-badge&color=080808)]({request})")
