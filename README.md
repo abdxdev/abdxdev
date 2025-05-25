@@ -1,6 +1,6 @@
 <div align="center">
 
-[![I'm Abdul Rahman AKA abd](assets/svg/header.svg)](https://abd-dev.studio)
+[![Abd Dev](<assets/gif/intro.gif>)](https://abd-dev.studio/)
 
 </div>
 
@@ -14,7 +14,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-## `Languages & Tools`
+![Languages & Tools](<assets/titles/languages_and_tools.png>)
 
 </div>
 
@@ -52,7 +52,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-## `Featured Projects`
+![Featured Projects](<assets/titles/featured_projects.png>)
 
 </div>
 
@@ -90,7 +90,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-## `Anime List`
+![Anime List](<assets/titles/anime_list.png>)
 
 </div>
 
@@ -240,7 +240,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-## `Game List`
+![Game List](<assets/titles/game_list.png>)
 
 </div>
 
@@ -292,15 +292,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-## `Hobbies & Interests`
-
-</div>
-
-I spend too much time feeling sad over anime characters, getting mad at games I totally know how to play (blame lag, not me), bricking Android devices just to bring them back like some kind of tech wizard, fighting with Adobe while pretending I’m a designer, and writing code that only works when it wants to. Basically, my life is just chaos, and I’m fine with that. 🥲
-
-<div align="center">
-
-## `Meet my Code Buddies!`
+![Meet my Code Buddies!](<assets/titles/friends.png>)
 
 </div>
 
@@ -321,7 +313,7 @@ I spend too much time feeling sad over anime characters, getting mad at games I 
 
 <div align="center">
 
-## `Support Me`
+![Support Me](<assets/titles/support_me.png>)
 
 </div>
 
@@ -336,7 +328,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--25_03:13:14_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--25_15:22:51_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
