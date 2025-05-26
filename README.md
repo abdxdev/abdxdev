@@ -298,12 +298,6 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-*From clean code to genius ideas, they're the real MVPs of the dev world. 😎*
-
-</div>
-
-<div align="center">
-
 | abeehimr | Sohaib |
 | :---: | :---: |
 | [![abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![Sohaib](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
@@ -328,7 +322,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--25_15:22:51_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--05--26_03:10:25_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
