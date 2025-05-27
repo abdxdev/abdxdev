@@ -1,5 +1,6 @@
 import datetime
 from urllib.parse import quote
+import colorsys
 
 import requests
 
@@ -263,22 +264,36 @@ def get_projects_gallery(projects):
 
     return GHMarkdown.get_gallery_view(formatted_projects, 3)
 
+def get_color(total_x, x, total_y, y):
+    # Linearize position into a single index and compute hue for spread
+    total = total_x * total_y if total_x * total_y > 0 else 1
+    index = y * total_x + x
+    hue = index / total
+    # Generate RGB from HSV with fixed saturation and value
+    r_f, g_f, b_f = colorsys.hsv_to_rgb(hue, 0.6, 0.9)
+    r, g, b = int(r_f * 255), int(g_f * 255), int(b_f * 255)
+    return f"{r:02x}{g:02x}{b:02x}"
 
 def get_all_skills(skills_sets):
     filtered_skills = []
+    total_y = len(skills_sets)
 
-    for category_data in skills_sets:
+    for y, category_data in enumerate(skills_sets):
+        total_x = len(category_data["skills"])
+        tools = []
+        for x, skill in enumerate(category_data["skills"]):
+            color = get_color(total_x, x, total_y, y)
+            image = GHMarkdown.image(
+                skill["name"],
+                f"https://img.shields.io/badge/{quote(skill['name'])}-{color}?logo={skill['slug']}&style=for-the-badge&logoColor=ffffff",
+                # f"https://img.shields.io/badge/{quote(skill['name'])}-{skill['hex'] or '000000'}?logo={skill['slug']}&style=for-the-badge&labelColor=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
+            )
+            tools.append(image)
+
         filtered_skills.append(
             {
                 "Category": category_data["category"],
-                "Tools": [
-                    GHMarkdown.image(
-                        skill["name"],
-                        f"https://img.shields.io/badge/{quote(skill['name'])}-{skill['hex'] or '000000'}?logo={skill['slug']}&style=for-the-badge&labelColor=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
-                        # f"https://img.shields.io/badge/{quote(skill['name'])}-ffffff?logo={skill['slug']}&style=for-the-badge&color=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
-                    )
-                    for skill in category_data["skills"]
-                ],
+                "Tools": tools,
             }
         )
 
@@ -292,6 +307,7 @@ def get_featured_skills(skills_sets):
         for skill in category_data["skills"]:
             if skill["portfolio"]:
                 badge = f"https://img.shields.io/badge/{quote(skill['name'])}-{skill['hex'] or '000000'}?logo={skill['slug']}&style=for-the-badge&logoColor=ffffff"
+                # f"https://img.shields.io/badge/{quote(skill['name'])}-ffffff?logo={skill['slug']}&style=for-the-badge&color=000000&logoColor={'ffffff' if skill['hex'] == '000000' else (skill['hex'] or 'ffffff')}",
                 formatted_skills.append(GHMarkdown.image(skill["name"], badge))
 
     return " ".join(formatted_skills)
