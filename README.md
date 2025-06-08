@@ -213,8 +213,8 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | [![Tokyo Ghoul](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg)](https://anilist.co/anime/20605) | [![Tokyo Ghoul √A](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-glDf9EMKeCwe.jpg)](https://anilist.co/anime/20850) | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) | [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png)](https://anilist.co/anime/21827) |
 | Your Name. | Mob Psycho 100 | SAKAMOTO DAYS | Mob Psycho 100 II |
 | [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png)](https://anilist.co/anime/21519) | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-6YUSbh2m0N1p.jpg)](https://anilist.co/anime/21507) | [![SAKAMOTO DAYS](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png)](https://anilist.co/anime/177709) | [![Mob Psycho 100 II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg)](https://anilist.co/anime/101338) |
-| Mob Psycho 100 III |
-| [![Mob Psycho 100 III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg)](https://anilist.co/anime/140439) |
+| Mob Psycho 100 III | Charlotte |
+| [![Mob Psycho 100 III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg)](https://anilist.co/anime/140439) | [![Charlotte](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20997-axVYrsIfjtYJ.jpg)](https://anilist.co/anime/20997) |
 
 </details>
 
@@ -300,9 +300,9 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-| Abeehimr | SSKnT |
+| abeehimr | Sohaib |
 | :---: | :---: |
-| [![Abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![SSKnT](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
+| [![abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![Sohaib](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
 | [@Abeehimr](https://github.com/Abeehimr) | [@SSKnT](https://github.com/SSKnT) |
 
 </div>
@@ -324,7 +324,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--06--07_03:07:11_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--06--08_03:17:01_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
