@@ -84,7 +84,6 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | 2023 |
 | **[Console Utility](https://github.com/abdxdev/Console-Utility)** | Library providing utilities for console text formatting and cursor movement. | 2024 |
 | **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app)  | 2024 |
-| **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | Django-based API for WhatsApp messaging with plugin support and GPT integration. \| [🌐](https://whatsapp-api-backend.vercel.app)  | 2024 |
 
 </details>
 
@@ -322,7 +321,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--07--12_03:18:37_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--07--14_03:24:36_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
