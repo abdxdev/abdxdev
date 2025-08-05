@@ -58,10 +58,13 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-| <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
+| <a href="https://github.com/abdxdev/isometric-gallery-maker" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/isometric-gallery-maker/main/screenshots/screenshot_1.png" alt="Isometric Gallery Maker" width="300"></a> | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> |
 | :---: | :---: | :---: |
-| ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  | ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
-| Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
+| ⭐ **[Isometric Gallery Maker](https://github.com/abdxdev/isometric-gallery-maker)** [🌐](https://isometric-gallery-maker.abd-dev.studio)  | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  | ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** |
+| Create stunning 3D isometric gallery mockups from your images with customizable layouts and rotations. | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | Innovative restaurant ordering and management system for customers, managers, and admins. |
+| <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
+| ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
+| Manage context menu plugins to extend functionality in various directories using Python scripts. |
 
 </div>
 
@@ -69,7 +72,6 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 | Name | Description | Created |
 | --- | --- | --- |
-| `WIP` **[Virtual Student](https://github.com/abdxdev/virtual-student)** | A SaaS platform with an intelligent virtual student who studies for you and manages your schedule. | 2025 |
 | **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. \| [🌐](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | 2025 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | 2025 |
@@ -323,7 +325,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--08--04_03:47:01_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--08--05_03:29:33_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
