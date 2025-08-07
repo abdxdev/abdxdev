@@ -214,8 +214,8 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) | [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png)](https://anilist.co/anime/21827) | [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png)](https://anilist.co/anime/21519) | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-6YUSbh2m0N1p.jpg)](https://anilist.co/anime/21507) |
 | The Daily Life ... King | SAKAMOTO DAYS | Mob Psycho 100 II | Mob Psycho 100 III |
 | [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) | [![SAKAMOTO DAYS](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png)](https://anilist.co/anime/177709) | [![Mob Psycho 100 II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg)](https://anilist.co/anime/101338) | [![Mob Psycho 100 III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg)](https://anilist.co/anime/140439) |
-| Charlotte |
-| [![Charlotte](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20997-axVYrsIfjtYJ.jpg)](https://anilist.co/anime/20997) |
+| Charlotte | Takopi's Origin...l Sin |
+| [![Charlotte](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20997-axVYrsIfjtYJ.jpg)](https://anilist.co/anime/20997) | [![Takopi's Original Sin](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-7uzY4fA3hokP.jpg)](https://anilist.co/anime/185407) |
 
 </details>
 
@@ -325,7 +325,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--08--06_03:27:28_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--08--07_03:27:46_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
