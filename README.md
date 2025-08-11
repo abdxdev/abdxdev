@@ -58,10 +58,10 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-| <a href="https://github.com/abdxdev/isometric-gallery-maker" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/isometric-gallery-maker/main/screenshots/screenshot_1.png" alt="Isometric Gallery Maker" width="300"></a> | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> |
+| <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> |
 | :---: | :---: | :---: |
-| ⭐ **[Isometric Gallery Maker](https://github.com/abdxdev/isometric-gallery-maker)** [🌐](https://isometric-gallery-maker.abd-dev.studio)  | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  | ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** |
-| Create stunning 3D isometric gallery mockups from your images with customizable layouts and rotations. | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | Innovative restaurant ordering and management system for customers, managers, and admins. |
+| ⭐ **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.abd-dev.studio)  | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  | ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** |
+| Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | Innovative restaurant ordering and management system for customers, managers, and admins. |
 | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
 | ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
 | Manage context menu plugins to extend functionality in various directories using Python scripts. |
@@ -325,7 +325,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--08--10_03:27:13_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--08--11_03:25:55_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
