@@ -161,9 +161,9 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <details><summary>Completed</summary>
 
-| Anohana the Mov...t Day | Assassination C...sroom | Assassination C...oom 2 | BLUE LOCK |
+| Anohana the Mov...t Day | Assassination C...sroom | Assassination C...eason | BLUE LOCK |
 | :---: | :---: | :---: | :---: |
-| [![Anohana the Movie: The Flower We Saw That Day](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15039-FDT7nClRVzEf.jpg)](https://anilist.co/anime/15039) | [![Assassination Classroom](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-dWrhs569YGUO.jpg)](https://anilist.co/anime/20755) | [![Assassination Classroom 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21170-kbcfTTZGSaFt.jpg)](https://anilist.co/anime/21170) | [![BLUE LOCK](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137822-U8naszP96vzC.png)](https://anilist.co/anime/137822) |
+| [![Anohana the Movie: The Flower We Saw That Day](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15039-FDT7nClRVzEf.jpg)](https://anilist.co/anime/15039) | [![Assassination Classroom](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-dWrhs569YGUO.jpg)](https://anilist.co/anime/20755) | [![Assassination Classroom Second Season](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21170-kbcfTTZGSaFt.jpg)](https://anilist.co/anime/21170) | [![BLUE LOCK](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137822-U8naszP96vzC.png)](https://anilist.co/anime/137822) |
 | ERASED | The Dangers in ...Heart | 5 Centimeters p...econd | Chainsaw Man |
 | [![ERASED](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21234-XmqW39aQ9o7O.jpg)](https://anilist.co/anime/21234) | [![The Dangers in My Heart](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-Xnwmx7wuoIWV.jpg)](https://anilist.co/anime/153152) | [![5 Centimeters per Second](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1689-rJKhjLEjQHSy.jpg)](https://anilist.co/anime/1689) | [![Chainsaw Man](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-DdP4vAdssLoz.png)](https://anilist.co/anime/127230) |
 | DAN DA DAN | Dark Gathering | DARLING in the ...RANXX | Death Note: Relight |
@@ -327,7 +327,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--10--05_02:59:54_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--10--06_02:55:09_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
