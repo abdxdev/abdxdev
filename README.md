@@ -80,7 +80,6 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | `UNI` **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | Tool for solving mathematical recurrence relations. \| [🌐](https://recurrence-relation-solver.streamlit.app/)  | 2025 |
 | `UNI` **[Sorting Algorithm Performance Visualization](https://github.com/abdxdev/Sorting-Algorithm-Performance-Visualization)** | Visualize sorting algorithm performance across different inputs and dataset variations. \| [🌐](https://sorting-algorithm-performance-visualization.streamlit.app/)  | 2024 |
 | **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate markdown badges for README files. \| [🌐](https://markdown-badge-generator.streamlit.app/)  | 2023 |
-| `UNI` **[Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor)** | High-performance terminal editor with autosuggestions, undo/redo, and customizable shortcuts. | 2024 |
 | **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app)  | 2024 |
 | **[Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder)** | Desktop application for managing and tracking prize bonds. | 2023 |
 | **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | 2023 |
@@ -327,7 +326,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--10--24_02:53:17_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--10--25_02:55:24_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
