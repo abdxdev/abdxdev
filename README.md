@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Abd Dev](<assets/gif/intro.gif>)](https://abd-dev.studio/)
+[![Abd Dev](<assets/gif/intro.gif>)](https://abdxdev.vercel.app/)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 Software developer and designer specializing in Python, C/C++, Django, Flask, and UI/UX design. Creator of VS Code extensions and innovative software solutions. See my portfolio to know more about me.
 
-### **[abd-dev.studio](https://abd-dev.studio)**
+### **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
 
 </div>
 
@@ -58,13 +58,13 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-| <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> |
+| <a href="https://github.com/abdxdev/md2lualatex" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/md2lualatex/main/screenshots/screenshot_1.png" alt="Md2lualatex" width="300"></a> | <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> |
 | :---: | :---: | :---: |
-| ⭐ **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.abd-dev.studio)  | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  | ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** |
-| Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | Innovative restaurant ordering and management system for customers, managers, and admins. |
-| <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
-| ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
-| Manage context menu plugins to extend functionality in various directories using Python scripts. |
+| ⭐ **[Md2lualatex](https://github.com/abdxdev/md2lualatex)** [🌐](https://github.com/abdxdev/md2lualatex/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  | ⭐ **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.abd-dev.studio)  | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  |
+| A vscode tool that converts advanced Markdown with diagrams, code execution, and custom macros into publication-ready LaTeX PDFs. | Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. |
+| <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
+| ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
+| Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
 
 </div>
 
@@ -143,8 +143,8 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | [![A Sign of Affection](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166794-1MAXFMgND6qS.jpg)](https://anilist.co/anime/166794) | [![The Executioner and Her Way of Life](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx129193-pT3W5PpiMAUB.png)](https://anilist.co/anime/129193) | [![The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162694-QFBei5pbjSh8.png)](https://anilist.co/anime/162694) | [![BOCCHI THE ROCK!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png)](https://anilist.co/anime/130003) |
 | Gurren Lagann | Mission: Yozaku...amily | Ergo Proxy | Fate/Zero |
 | [![Gurren Lagann](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-XwRnjzGeFWRQ.png)](https://anilist.co/anime/2001) | [![Mission: Yozakura Family](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png)](https://anilist.co/anime/158898) | [![Ergo Proxy](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx790-YTUCvBKX8ZWK.jpg)](https://anilist.co/anime/790) | [![Fate/Zero](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-M4Hd9qrHGrXk.png)](https://anilist.co/anime/10087) |
-| Hell’s Paradise | Kakegurui |
-| [![Hell’s Paradise](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-Gc2t8b8M0mVu.jpg)](https://anilist.co/anime/128893) | [![Kakegurui](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg)](https://anilist.co/anime/98314) |
+| Kakegurui |
+| [![Kakegurui](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg)](https://anilist.co/anime/98314) |
 
 </details>
 
@@ -213,10 +213,10 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 | [![Tokyo Ghoul](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg)](https://anilist.co/anime/20605) | [![Tokyo Ghoul √A](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20850-glDf9EMKeCwe.jpg)](https://anilist.co/anime/20850) | [![Violet Evergarden: Special](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101432-NQSedsCDQ6dP.png)](https://anilist.co/anime/101432) | [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png)](https://anilist.co/anime/21827) |
 | Your Name. | Mob Psycho 100 | The Daily Life ... King | SAKAMOTO DAYS |
 | [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png)](https://anilist.co/anime/21519) | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-6YUSbh2m0N1p.jpg)](https://anilist.co/anime/21507) | [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) | [![SAKAMOTO DAYS](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png)](https://anilist.co/anime/177709) |
-| Mob Psycho 100 II | Mob Psycho 100 III | Charlotte | Takopi's Origin...l Sin |
-| [![Mob Psycho 100 II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg)](https://anilist.co/anime/101338) | [![Mob Psycho 100 III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg)](https://anilist.co/anime/140439) | [![Charlotte](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20997-axVYrsIfjtYJ.jpg)](https://anilist.co/anime/20997) | [![Takopi's Original Sin](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-7uzY4fA3hokP.jpg)](https://anilist.co/anime/185407) |
-| Dr. STONE SCIEN...our 2 | DAN DA DAN Season 2 |
-| [![Dr. STONE SCIENCE FUTURE Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189117-TLtCXYT7JPoL.jpg)](https://anilist.co/anime/189117) | [![DAN DA DAN Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg)](https://anilist.co/anime/185660) |
+| Mob Psycho 100 II | Mob Psycho 100 III | Hell’s Paradise | Charlotte |
+| [![Mob Psycho 100 II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg)](https://anilist.co/anime/101338) | [![Mob Psycho 100 III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg)](https://anilist.co/anime/140439) | [![Hell’s Paradise](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-Gc2t8b8M0mVu.jpg)](https://anilist.co/anime/128893) | [![Charlotte](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20997-axVYrsIfjtYJ.jpg)](https://anilist.co/anime/20997) |
+| Takopi's Origin...l Sin | Dr. STONE SCIEN...our 2 | DAN DA DAN Season 2 |
+| [![Takopi's Original Sin](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-7uzY4fA3hokP.jpg)](https://anilist.co/anime/185407) | [![Dr. STONE SCIENCE FUTURE Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189117-TLtCXYT7JPoL.jpg)](https://anilist.co/anime/189117) | [![DAN DA DAN Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg)](https://anilist.co/anime/185660) |
 
 </details>
 
@@ -326,7 +326,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--12--14_03:19:40_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--12--20_18:02:08_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
