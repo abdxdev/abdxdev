@@ -5,7 +5,7 @@ import colorsys
 import requests
 
 
-PORTFOLIO = "https://abd-dev.studio/"
+PORTFOLIO = "https://abdxdev.vercel.app/"
 
 
 class Helper:
