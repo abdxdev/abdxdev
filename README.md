@@ -58,9 +58,9 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-| <a href="https://github.com/abdxdev/md2lualatex" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/md2lualatex/main/screenshots/screenshot_1.png" alt="Md2lualatex" width="300"></a> | <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> |
+| <a href="https://github.com/abdxdev/markdown-latex-pdf-builder" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/markdown-latex-pdf-builder/main/screenshots/screenshot_1.png" alt="Markdown Latex Pdf Builder" width="300"></a> | <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> | <a href="https://github.com/abdxdev/odoo-lens" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/odoo-lens/main/screenshots/screenshot_1.png" alt="Odoo Lens" width="300"></a> |
 | :---: | :---: | :---: |
-| ⭐ **[Md2lualatex](https://github.com/abdxdev/md2lualatex)** [🌐](https://github.com/abdxdev/md2lualatex/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  | ⭐ **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.abd-dev.studio)  | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  |
+| ⭐ **[Markdown Latex Pdf Builder](https://github.com/abdxdev/markdown-latex-pdf-builder)** [🌐](https://github.com/abdxdev/markdown-latex-pdf-builder/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  | ⭐ **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.abd-dev.studio)  | ⭐ `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [🌐](https://odoo-lens.abd-dev.studio/)  |
 | A vscode tool that converts advanced Markdown with diagrams, code execution, and custom macros into publication-ready LaTeX PDFs. | Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. |
 | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
 | ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
@@ -326,7 +326,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--12--22_03:22:46_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2025--12--23_03:17:47_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
 
 </div>
 
