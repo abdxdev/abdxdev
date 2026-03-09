@@ -320,21 +320,25 @@ Software engineer with hands-on experience building backend systems, desktop app
 <div align="center">
 
 Help me keep my work open source and free for everyone—because the world needs more free stuff (and less paywalls). If you appreciate what I do, show some love by buying me a coffee. ☕️  
-*P.S. Caffeine is the fuel that turns bugs into features.*
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffffff?logo=buymeacoffee&style=for-the-badge&color=ffdd00&logoColor=000000)](https://www.buymeacoffee.com/abdbbdii)
+_P.S. Caffeine is the fuel that turns bugs into features._
 
 </div>
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_15%3A38%3A40_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/api/trigger-workflow?hint=true)
+[![Buy me a coffee](<https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000>)](https://www.buymeacoffee.com/abdbbdii)
 
 </div>
 
 <div align="center">
 
-> _This README is auto-generated. If you want to update it, click the button above._
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_16%3A00%3A55_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-markdown)
+
+</div>
+
+<div align="center">
+
+_This GitHub profile is auto-generated. If you want to update it, click the button above._
 
 </div>
 
