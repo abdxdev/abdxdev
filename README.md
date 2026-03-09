@@ -328,7 +328,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_13%3A07%3A40_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/api/trigger-workflow)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_15%3A38%3A40_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/api/trigger-workflow?hint=true)
 
 </div>
 
