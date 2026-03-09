@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: classic
-          filename: assets/gen/metrics-anilist.svg
+          filename: metrics/anilist.svg
           config_display: large
           token: NOT_NEEDED
           base: ""
