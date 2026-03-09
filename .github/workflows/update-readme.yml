@@ -1,7 +1,7 @@
-name: Update README
+name: update-readme
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   repository_dispatch:
     types:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Generate README
-        run: curl -s https://abdxdev.vercel.app/api/markdown > README.md
+        run: curl -s https://abdxdev.vercel.app/api/readme > README.md
       - name: Commit updated README
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
