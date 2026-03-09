@@ -102,7 +102,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-[![Anime Stats](<https://raw.githubusercontent.com/abdxdev/abdxdev/refs/heads/main/metrics/anime.svg>)](undefined)
+[![Anime Stats](<https://raw.githubusercontent.com/abdxdev/abdxdev/refs/heads/main/metrics/anilist.svg>)](undefined)
 
 </div>
 
@@ -304,6 +304,12 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
+*The real ones*
+
+</div>
+
+<div align="center">
+
 | abeehimr | Sohaib |
 | :---: | :---: |
 | [![abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![Sohaib](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
@@ -313,26 +319,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-![Support Me](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/support_me.png>)
-
-</div>
-
-<div align="center">
-
-Help me keep my work open source and free for everyone—because the world needs more free stuff (and less paywalls). If you appreciate what I do, show some love by buying me a coffee. ☕️  
-_P.S. Caffeine is the fuel that turns bugs into features._
-
-</div>
-
-<div align="center">
-
-[![Buy me a coffee](<https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=000000>)](https://www.buymeacoffee.com/abdbbdii)
-
-</div>
-
-<div align="center">
-
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_18%3A23%3A10_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--09_18%3A43%3A21_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
