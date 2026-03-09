@@ -2,12 +2,12 @@ name: Update README
 on:
   schedule:
     - cron: "0 2 * * *"
-
   workflow_dispatch:
-
+  repository_dispatch:
+    types:
+      - update-readme
 permissions:
   contents: write
-
 jobs:
   run-script:
     runs-on: ubuntu-latest
