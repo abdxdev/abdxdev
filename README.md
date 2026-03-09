@@ -332,7 +332,7 @@ _P.S. Caffeine is the fuel that turns bugs into features._
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_16%3A00%3A55_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-markdown)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_16%3A50%3A06_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
