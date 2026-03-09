@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.README }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           user: abdxdev
           template: classic
