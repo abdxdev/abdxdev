@@ -1,5 +1,0 @@
-- 5th place (as team) in the Electocon'24 Competitive Programming by UET
-- Python certificate from Harvard's CS50 program
-- 3rd place in the SciTech Competition by COMSATS
-- 5th place in the 1st Inter-Colleges Mathematical Contest by COMSATS
-- Microsoft Office Specialist certification
