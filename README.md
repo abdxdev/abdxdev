@@ -30,7 +30,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-![GitHub Stats](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/metrics/languages.svg>)
+![GitHub Stats](<https://raw.githubusercontent.com/abdxdev/abdxdev/refs/heads/main/metrics/languages.svg>)
 
 </div>
 
@@ -102,7 +102,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-[![Anime Stats](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/metrics/anime.svg>)](undefined)
+[![Anime Stats](<https://raw.githubusercontent.com/abdxdev/abdxdev/refs/heads/main/metrics/anime.svg>)](undefined)
 
 </div>
 
@@ -332,7 +332,7 @@ _P.S. Caffeine is the fuel that turns bugs into features._
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_17%3A20%3A58_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_18%3A23%3A10_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
