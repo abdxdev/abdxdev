@@ -1,12 +1,16 @@
 <div align="center">
 
-[![Abd Dev](<assets/gif/intro.gif>)](https://abdxdev.vercel.app/)
+[![Abd Dev](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/gif/intro.gif>)](https://abdxdev.vercel.app)
 
 </div>
 
 <div align="center">
 
-Software developer and designer specializing in Python, C/C++, Django, Flask, and UI/UX design. Creator of VS Code extensions and innovative software solutions. See my portfolio to know more about me.
+Software engineer with hands-on experience building backend systems, desktop applications, and developer tools, passionate about automation, clean code, and creating solutions that improve productivity.
+
+</div>
+
+<div align="center">
 
 ### **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
 
@@ -14,21 +18,19 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-![Languages & Tools](<assets/titles/languages_and_tools.png>)
+![Languages & Tools](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/languages_and_tools.png>)
 
 </div>
 
 <div align="center">
 
-![Python](<https://img.shields.io/badge/Python-e55b5b?logo=python&style=for-the-badge&logoColor=ffffff>) ![C++](<https://img.shields.io/badge/C%2B%2B-e59b5b?logo=cplusplus&style=for-the-badge&logoColor=ffffff>) ![C#](<https://img.shields.io/badge/C%23-e5da5b?logo=c&style=for-the-badge&logoColor=ffffff>) ![JavaScript](<https://img.shields.io/badge/JavaScript-b0e55b?logo=javascript&style=for-the-badge&logoColor=ffffff>) ![TypeScript](<https://img.shields.io/badge/TypeScript-70e55b?logo=typescript&style=for-the-badge&logoColor=ffffff>) ![LaTeX](<https://img.shields.io/badge/LaTeX-5be586?logo=latex&style=for-the-badge&logoColor=ffffff>) ![Tailwind CSS](<https://img.shields.io/badge/Tailwind%20CSS-5be5c5?logo=tailwindcss&style=for-the-badge&logoColor=ffffff>) ![Next.js](<https://img.shields.io/badge/Next.js-5bc5e5?logo=nextdotjs&style=for-the-badge&logoColor=ffffff>) ![React](<https://img.shields.io/badge/React-5b86e5?logo=react&style=for-the-badge&logoColor=ffffff>) ![Django](<https://img.shields.io/badge/Django-705be5?logo=django&style=for-the-badge&logoColor=ffffff>) ![Flask](<https://img.shields.io/badge/Flask-b05be5?logo=flask&style=for-the-badge&logoColor=ffffff>) ![Streamlit](<https://img.shields.io/badge/Streamlit-e55bda?logo=streamlit&style=for-the-badge&logoColor=ffffff>) ![Flet](<https://img.shields.io/badge/Flet-e55b9b?logo=flet&style=for-the-badge&logoColor=ffffff>) ![WinUI 3](<https://img.shields.io/badge/WinUI%203-e55b5b?logo=winui3&style=for-the-badge&logoColor=ffffff>)
+![C++](<https://img.shields.io/badge/C%2B%2B-e65c5c?style=for-the-badge&logo=cplusplus&logoColor=ffffff>) ![LaTeX](<https://img.shields.io/badge/LaTeX-e6c35c?style=for-the-badge&logo=latex&logoColor=ffffff>) ![Supabase](<https://img.shields.io/badge/Supabase-a1e65c?style=for-the-badge&logo=supabase&logoColor=ffffff>) ![Next.js](<https://img.shields.io/badge/Next.js-5ce67e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff>) ![Django](<https://img.shields.io/badge/Django-5ce6e6?style=for-the-badge&logo=django&logoColor=ffffff>) ![Flask](<https://img.shields.io/badge/Flask-5c7ee6?style=for-the-badge&logo=flask&logoColor=ffffff>) ![WinUI 3](<https://img.shields.io/badge/WinUI_3-a15ce6?style=for-the-badge&logo=winui3&logoColor=ffffff>) ![Flutter](<https://img.shields.io/badge/Flutter-e65cc3?style=for-the-badge&logo=flutter&logoColor=ffffff>) ![.NET](<https://img.shields.io/badge/.NET-e65c5c?style=for-the-badge&logo=dotnet&logoColor=ffffff>)
 
 </div>
 
 <div align="center">
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdbbdii&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
-![Top Langs](assets/gen/metrics-languages.svg)
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
+![GitHub Stats](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/metrics/languages.svg>)
 
 </div>
 
@@ -36,23 +38,20 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 | Category | Tools |
 | --- | --- |
-| Programming Languages | ![Python](<https://img.shields.io/badge/Python-e55b5b?logo=python&style=for-the-badge&logoColor=ffffff>) ![C](<https://img.shields.io/badge/C-e5685b?logo=c&style=for-the-badge&logoColor=ffffff>) ![C++](<https://img.shields.io/badge/C%2B%2B-e5745b?logo=cplusplus&style=for-the-badge&logoColor=ffffff>) ![C#](<https://img.shields.io/badge/C%23-e5815b?logo=c&style=for-the-badge&logoColor=ffffff>) ![JavaScript](<https://img.shields.io/badge/JavaScript-e58d5b?logo=javascript&style=for-the-badge&logoColor=ffffff>) ![TypeScript](<https://img.shields.io/badge/TypeScript-e59a5b?logo=typescript&style=for-the-badge&logoColor=ffffff>) |
-| Markup Languages | ![HTML5](<https://img.shields.io/badge/HTML5-e5a65b?logo=html5&style=for-the-badge&logoColor=ffffff>) ![XML](<https://img.shields.io/badge/XML-e5b95b?logo=xml&style=for-the-badge&logoColor=ffffff>) ![Markdown](<https://img.shields.io/badge/Markdown-e5cc5b?logo=markdown&style=for-the-badge&logoColor=ffffff>) ![LaTeX](<https://img.shields.io/badge/LaTeX-e5df5b?logo=latex&style=for-the-badge&logoColor=ffffff>) |
-| Style Sheet Languages | ![CSS](<https://img.shields.io/badge/CSS-d8e55b?logo=css&style=for-the-badge&logoColor=ffffff>) ![Tailwind CSS](<https://img.shields.io/badge/Tailwind%20CSS-b3e55b?logo=tailwindcss&style=for-the-badge&logoColor=ffffff>) |
-| IDEs | ![Visual Studio Code](<https://img.shields.io/badge/Visual%20Studio%20Code-8de55b?logo=visualstudiocode&style=for-the-badge&logoColor=ffffff>) ![Visual Studio](<https://img.shields.io/badge/Visual%20Studio-68e55b?logo=visualstudio&style=for-the-badge&logoColor=ffffff>) |
-| Version Control | ![Git](<https://img.shields.io/badge/Git-5be574?logo=git&style=for-the-badge&logoColor=ffffff>) ![GitHub](<https://img.shields.io/badge/GitHub-5be59a?logo=github&style=for-the-badge&logoColor=ffffff>) |
-| Frameworks & Libraries | ![Next.js](<https://img.shields.io/badge/Next.js-5be5bf?logo=nextdotjs&style=for-the-badge&logoColor=ffffff>) ![React](<https://img.shields.io/badge/React-5be5c8?logo=react&style=for-the-badge&logoColor=ffffff>) ![Django](<https://img.shields.io/badge/Django-5be5d0?logo=django&style=for-the-badge&logoColor=ffffff>) ![Flask](<https://img.shields.io/badge/Flask-5be5d8?logo=flask&style=for-the-badge&logoColor=ffffff>) ![Streamlit](<https://img.shields.io/badge/Streamlit-5be5e1?logo=streamlit&style=for-the-badge&logoColor=ffffff>) ![Tkinter](<https://img.shields.io/badge/Tkinter-5be1e5?logo=tkinter&style=for-the-badge&logoColor=ffffff>) ![Flet](<https://img.shields.io/badge/Flet-5bd8e5?logo=flet&style=for-the-badge&logoColor=ffffff>) ![Reflex](<https://img.shields.io/badge/Reflex-5bd0e5?logo=reflex&style=for-the-badge&logoColor=ffffff>) ![WinUI 3](<https://img.shields.io/badge/WinUI%203-5bc8e5?logo=winui3&style=for-the-badge&logoColor=ffffff>) |
-| DevOps & CI/CD | ![Docker](<https://img.shields.io/badge/Docker-5bbfe5?logo=docker&style=for-the-badge&logoColor=ffffff>) ![Vercel](<https://img.shields.io/badge/Vercel-5bade5?logo=vercel&style=for-the-badge&logoColor=ffffff>) ![Render](<https://img.shields.io/badge/Render-5b9ae5?logo=render&style=for-the-badge&logoColor=ffffff>) ![Microsoft Azure](<https://img.shields.io/badge/Microsoft%20Azure-5b87e5?logo=microsoftazure&style=for-the-badge&logoColor=ffffff>) |
-| Databases | ![MySQL](<https://img.shields.io/badge/MySQL-5b74e5?logo=mysql&style=for-the-badge&logoColor=ffffff>) ![PostgreSQL](<https://img.shields.io/badge/PostgreSQL-5b65e5?logo=postgresql&style=for-the-badge&logoColor=ffffff>) ![SQLite](<https://img.shields.io/badge/SQLite-605be5?logo=sqlite&style=for-the-badge&logoColor=ffffff>) ![Microsoft SQL Server](<https://img.shields.io/badge/Microsoft%20SQL%20Server-6f5be5?logo=microsoftsqlserver&style=for-the-badge&logoColor=ffffff>) ![Access](<https://img.shields.io/badge/Access-7e5be5?logo=access&style=for-the-badge&logoColor=ffffff>) |
-| APIs & Integrations | ![OpenAI](<https://img.shields.io/badge/OpenAI-8d5be5?logo=openai&style=for-the-badge&logoColor=ffffff>) ![Discord](<https://img.shields.io/badge/Discord-9c5be5?logo=discord&style=for-the-badge&logoColor=ffffff>) ![WhatsApp](<https://img.shields.io/badge/WhatsApp-ab5be5?logo=whatsapp&style=for-the-badge&logoColor=ffffff>) ![Google](<https://img.shields.io/badge/Google-ba5be5?logo=google&style=for-the-badge&logoColor=ffffff>) ![GitHub](<https://img.shields.io/badge/GitHub-c95be5?logo=github&style=for-the-badge&logoColor=ffffff>) |
-| Graphics & Design | ![Illustrator](<https://img.shields.io/badge/Illustrator-d85be5?logo=illustrator&style=for-the-badge&logoColor=ffffff>) ![Photoshop](<https://img.shields.io/badge/Photoshop-e35be5?logo=photoshop&style=for-the-badge&logoColor=ffffff>) ![Premiere](<https://img.shields.io/badge/Premiere-e55bdc?logo=premiere&style=for-the-badge&logoColor=ffffff>) ![After Effects](<https://img.shields.io/badge/After%20Effects-e55bd1?logo=aftereffects&style=for-the-badge&logoColor=ffffff>) ![Figma](<https://img.shields.io/badge/Figma-e55bc7?logo=figma&style=for-the-badge&logoColor=ffffff>) ![Spline](<https://img.shields.io/badge/Spline-e55bbc?logo=spline&style=for-the-badge&logoColor=ffffff>) ![Blender](<https://img.shields.io/badge/Blender-e55bb1?logo=blender&style=for-the-badge&logoColor=ffffff>) |
-| Platforms & Operating Systems | ![Windows](<https://img.shields.io/badge/Windows-e55ba6?logo=windows&style=for-the-badge&logoColor=ffffff>) ![Linux](<https://img.shields.io/badge/Linux-e55b8d?logo=linux&style=for-the-badge&logoColor=ffffff>) ![Android](<https://img.shields.io/badge/Android-e55b74?logo=android&style=for-the-badge&logoColor=ffffff>) |
+| Programming Languages | ![Python](<https://img.shields.io/badge/Python-e65c5c?style=for-the-badge&logo=python&logoColor=ffffff>) ![C](<https://img.shields.io/badge/C-e6695c?style=for-the-badge&logo=c&logoColor=ffffff>) ![C++](<https://img.shields.io/badge/C%2B%2B-e6765c?style=for-the-badge&logo=cplusplus&logoColor=ffffff>) ![C#](<https://img.shields.io/badge/C%23-e6835c?style=for-the-badge&logo=csharp&logoColor=ffffff>) ![JavaScript](<https://img.shields.io/badge/JavaScript-e68f5c?style=for-the-badge&logo=javascript&logoColor=ffffff>) ![TypeScript](<https://img.shields.io/badge/TypeScript-e69c5c?style=for-the-badge&logo=typescript&logoColor=ffffff>) ![SQL](<https://img.shields.io/badge/SQL-e6a95c?style=for-the-badge&logo=sql&logoColor=ffffff>) ![TeX](<https://img.shields.io/badge/TeX-e6b65c?style=for-the-badge&logo=latex&logoColor=ffffff>) |
+| Markup Languages | ![HTML5](<https://img.shields.io/badge/HTML5-e6c35c?style=for-the-badge&logo=html5&logoColor=ffffff>) ![XML](<https://img.shields.io/badge/XML-e6dd5c?style=for-the-badge&logo=xml&logoColor=ffffff>) ![Markdown](<https://img.shields.io/badge/Markdown-d4e65c?style=for-the-badge&logo=markdown&logoColor=ffffff>) ![LaTeX](<https://img.shields.io/badge/LaTeX-bae65c?style=for-the-badge&logo=latex&logoColor=ffffff>) |
+| Style Sheet Languages | ![CSS](<https://img.shields.io/badge/CSS-a1e65c?style=for-the-badge&logo=css&logoColor=ffffff>) ![Tailwind CSS](<https://img.shields.io/badge/Tailwind_CSS-6de65c?style=for-the-badge&logo=tailwindcss&logoColor=ffffff>) |
+| Tools & Technologies | ![Git](<https://img.shields.io/badge/Git-5ce67e?style=for-the-badge&logo=git&logoColor=ffffff>) ![Supabase](<https://img.shields.io/badge/Supabase-5ce6b2?style=for-the-badge&logo=supabase&logoColor=ffffff>) |
+| Frameworks & Libraries | ![Next.js](<https://img.shields.io/badge/Next.js-5ce6e6?style=for-the-badge&logo=nextdotjs&logoColor=ffffff>) ![React](<https://img.shields.io/badge/React-5cdee6?style=for-the-badge&logo=react&logoColor=ffffff>) ![Django](<https://img.shields.io/badge/Django-5cd6e6?style=for-the-badge&logo=django&logoColor=ffffff>) ![Flask](<https://img.shields.io/badge/Flask-5ccee6?style=for-the-badge&logo=flask&logoColor=ffffff>) ![Streamlit](<https://img.shields.io/badge/Streamlit-5cc6e6?style=for-the-badge&logo=streamlit&logoColor=ffffff>) ![Tkinter](<https://img.shields.io/badge/Tkinter-5cbee6?style=for-the-badge&logo=tkinter&logoColor=ffffff>) ![Flet](<https://img.shields.io/badge/Flet-5cb6e6?style=for-the-badge&logo=flet&logoColor=ffffff>) ![Reflex](<https://img.shields.io/badge/Reflex-5caee6?style=for-the-badge&logo=reflex&logoColor=ffffff>) ![WinUI 3](<https://img.shields.io/badge/WinUI_3-5ca6e6?style=for-the-badge&logo=winui3&logoColor=ffffff>) ![Flutter](<https://img.shields.io/badge/Flutter-5c9ee6?style=for-the-badge&logo=flutter&logoColor=ffffff>) ![.NET](<https://img.shields.io/badge/.NET-5c96e6?style=for-the-badge&logo=dotnet&logoColor=ffffff>) ![Node.js](<https://img.shields.io/badge/Node.js-5c8ee6?style=for-the-badge&logo=nodedotjs&logoColor=ffffff>) ![Express.js](<https://img.shields.io/badge/Express.js-5c86e6?style=for-the-badge&logo=express&logoColor=ffffff>) |
+| DevOps & CI/CD | ![Docker](<https://img.shields.io/badge/Docker-5c7ee6?style=for-the-badge&logo=docker&logoColor=ffffff>) ![Vercel](<https://img.shields.io/badge/Vercel-5c6ae6?style=for-the-badge&logo=vercel&logoColor=ffffff>) ![Render](<https://img.shields.io/badge/Render-635ce6?style=for-the-badge&logo=render&logoColor=ffffff>) ![Microsoft Azure](<https://img.shields.io/badge/Microsoft_Azure-775ce6?style=for-the-badge&logo=microsoftazure&logoColor=ffffff>) ![GitHub Workflows](<https://img.shields.io/badge/GitHub_Workflows-8c5ce6?style=for-the-badge&logo=githubactions&logoColor=ffffff>) |
+| Databases | ![MySQL](<https://img.shields.io/badge/MySQL-a15ce6?style=for-the-badge&logo=mysql&logoColor=ffffff>) ![PostgreSQL](<https://img.shields.io/badge/PostgreSQL-b25ce6?style=for-the-badge&logo=postgresql&logoColor=ffffff>) ![SQLite](<https://img.shields.io/badge/SQLite-c35ce6?style=for-the-badge&logo=sqlite&logoColor=ffffff>) ![Microsoft SQL Server](<https://img.shields.io/badge/Microsoft_SQL_Server-d45ce6?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff>) ![Access](<https://img.shields.io/badge/Access-e65ce6?style=for-the-badge&logo=access&logoColor=ffffff>) ![MongoDB](<https://img.shields.io/badge/MongoDB-e65cd4?style=for-the-badge&logo=mongodb&logoColor=ffffff>) |
+| Design | ![Illustrator](<https://img.shields.io/badge/Illustrator-e65cc3?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff>) ![Photoshop](<https://img.shields.io/badge/Photoshop-e65cb6?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff>) ![Premiere Pro](<https://img.shields.io/badge/Premiere_Pro-e65ca9?style=for-the-badge&logo=adobepremierepro&logoColor=ffffff>) ![After Effects](<https://img.shields.io/badge/After_Effects-e65c9c?style=for-the-badge&logo=adobeaftereffects&logoColor=ffffff>) ![Davinci Resolve](<https://img.shields.io/badge/Davinci_Resolve-e65c8f?style=for-the-badge&logo=davinciresolve&logoColor=ffffff>) ![Figma](<https://img.shields.io/badge/Figma-e65c83?style=for-the-badge&logo=figma&logoColor=ffffff>) ![Spline](<https://img.shields.io/badge/Spline-e65c76?style=for-the-badge&logo=spline&logoColor=ffffff>) ![Blender](<https://img.shields.io/badge/Blender-e65c69?style=for-the-badge&logo=blender&logoColor=ffffff>) |
 
 </details>
 
 <div align="center">
 
-![Featured Projects](<assets/titles/featured_projects.png>)
+![Featured Projects](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/featured_projects.png>)
 
 </div>
 
@@ -60,10 +59,10 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 | <a href="https://github.com/abdxdev/markdown-math-solver" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/markdown-math-solver/main/screenshots/screenshot_1.png" alt="Markdown Math Solver" width="300"></a> | <a href="https://github.com/abdxdev/markdown-latex-pdf-builder" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/markdown-latex-pdf-builder/main/screenshots/screenshot_1.png" alt="Markdown Latex Pdf Builder" width="300"></a> | <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> |
 | :---: | :---: | :---: |
-| ⭐ **[Markdown Math Solver](https://github.com/abdxdev/markdown-math-solver)** [🌐](https://pypi.org/project/markdown-math-solver/)  | ⭐ **[Markdown Latex Pdf Builder](https://github.com/abdxdev/markdown-latex-pdf-builder)** [🌐](https://github.com/abdxdev/markdown-latex-pdf-builder/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  | ⭐ **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.vercel.app)  |
+| **[Markdown Math Solver](https://github.com/abdxdev/markdown-math-solver)** [🌐](https://pypi.org/project/markdown-math-solver/)  | **[Markdown Latex Pdf Builder](https://github.com/abdxdev/markdown-latex-pdf-builder)** [🌐](https://github.com/abdxdev/markdown-latex-pdf-builder/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  | **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.vercel.app)  |
 | A command-line tool that processes Python code embedded in LaTeX math blocks in Markdown files. | A vscode tool that converts advanced Markdown with diagrams, code execution, and custom macros into publication-ready LaTeX PDFs. | Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. |
 | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
-| ⭐ `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | ⭐ **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
+| `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
 | Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
 
 </div>
@@ -91,7 +90,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-![Anime List](<assets/titles/anime_list.png>)
+![Anime List](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/anime_list.png>)
 
 </div>
 
@@ -103,11 +102,11 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-[![Anilist](assets/gen/metrics-anilist.svg)](https://anilist.co/user/abdxdev/)
+[![Anime Stats](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/metrics/anime.svg>)](undefined)
 
 </div>
 
-<img align='right' src='assets/gif/anime_gif.gif' height='170'>
+<img align='right' src='https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/gif/anime_gif.gif' height='170'>
 
 <details><summary>Planning</summary>
 
@@ -247,7 +246,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-![Game List](<assets/titles/game_list.png>)
+![Game List](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/game_list.png>)
 
 </div>
 
@@ -299,7 +298,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-![Meet my Code Buddies!](<assets/titles/friends.png>)
+![Meet my Code Buddies!](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/friends.png>)
 
 </div>
 
@@ -314,7 +313,7 @@ Software developer and designer specializing in Python, C/C++, Django, Flask, an
 
 <div align="center">
 
-![Support Me](<assets/titles/support_me.png>)
+![Support Me](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/support_me.png>)
 
 </div>
 
@@ -329,7 +328,7 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Update-Last_Updated:_2026--03--06_03:56:48_UTC-ffffff?style=for-the-badge&color=080808)](https://abd-utils-server.vercel.app/service/trigger-workflow/?owner=abdxdev&repo=abdxdev&event=update-readme&redirect_uri=https%3A%2F%2Fgithub.com%2Fabdxdev)
+[![Click to Update](https://img.shields.io/badge/Update-Last_Updated%3A_2026--03--09_13%3A07%3A40_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/api/trigger-workflow)
 
 </div>
 
@@ -341,6 +340,6 @@ Help me keep my work open source and free for everyone—because the world needs
 
 <div align="center">
 
-![footer](assets/svg/footer.svg)
+![Footer](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/svg/footer.svg>)
 
 </div>
