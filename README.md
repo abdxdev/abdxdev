@@ -59,7 +59,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 | <a href="https://github.com/abdxdev/markdown-math-solver" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/markdown-math-solver/main/screenshots/screenshot_1.png" alt="Markdown Math Solver" width="300"></a> | <a href="https://github.com/abdxdev/markdown-latex-pdf-builder" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/markdown-latex-pdf-builder/main/screenshots/screenshot_1.png" alt="Markdown Latex Pdf Builder" width="300"></a> | <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> |
 | :---: | :---: | :---: |
-| **[Markdown Math Solver](https://github.com/abdxdev/markdown-math-solver)** [🌐](https://pypi.org/project/markdown-math-solver/)  | **[Markdown Latex Pdf Builder](https://github.com/abdxdev/markdown-latex-pdf-builder)** [🌐](https://github.com/abdxdev/markdown-latex-pdf-builder/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  | **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.vercel.app)  |
+| **[Markdown Math Solver](https://github.com/abdxdev/markdown-math-solver)** [🌐](https://youtu.be/X-ZKafMsgVU)  | **[Markdown Latex Pdf Builder](https://github.com/abdxdev/markdown-latex-pdf-builder)** [🌐](https://github.com/abdxdev/markdown-latex-pdf-builder/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  | **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.vercel.app)  |
 | A command-line tool that processes Python code embedded in LaTeX math blocks in Markdown files. | A vscode tool that converts advanced Markdown with diagrams, code execution, and custom macros into publication-ready LaTeX PDFs. | Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. |
 | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
 | `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
@@ -319,7 +319,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--09_18%3A43%3A21_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--10_02%3A09%3A11_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
