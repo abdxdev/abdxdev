@@ -314,12 +314,13 @@ Software engineer with hands-on experience building backend systems, desktop app
 | :---: | :---: |
 | [![abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![Sohaib](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
 | [@Abeehimr](https://github.com/Abeehimr) | [@SSKnT](https://github.com/SSKnT) |
+| [![LinkedIn](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/icons/linkedin.svg>)](https://linkedin.com/in/ibraheemqureshi) [![Email](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/icons/email.svg>)](mailto:ibraheemkureshi@gmail.com) [![Portfolio](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/icons/portfolio.svg>)](https://ibraheem-qureshi.vercel.app/) | [![LinkedIn](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/icons/linkedin.svg>)](https://linkedin.com/in/sohaib-shaukat-7s) [![Email](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/icons/email.svg>)](mailto:sohaibshaukat.dev@gmail.com) [![Portfolio](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/icons/portfolio.svg>)](https://sohaibshaukat.netlify.app/) [![Resume](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/icons/resume.svg>)](https://sohaibshaukat.netlify.app/resume.pdf) |
 
 </div>
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--15_21%3A00%3A18_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--15_21%3A01%3A58_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
