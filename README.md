@@ -12,7 +12,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-### **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
+### **[abdxdev.vercel.app](https://abdxdev.vercel.app) / [abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 </div>
 
@@ -74,7 +74,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 | **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. \| [🌐](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | 2025 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | 2025 |
-| **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio website. \| [🌐](https://abd-dev.studio)  | 2024 |
+| **[Portfolio](https://github.com/abdxdev/portfolio)** | Next.js personal portfolio website. \| [🌐](https://abdxdev.vercel.app)  | 2024 |
 | `UNI` **[Automated Index Recommender](https://github.com/abdxdev/automated-index-recommender)** | Tool for analyzing MongoDB query performance and recommending optimal indexes. \| [🌐](https://automated-index-recommender.streamlit.app/)  | 2025 |
 | `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. \| [🌐](https://odoo-lens.vercel.app)  | 2025 |
 | `UNI` **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | Tool for solving mathematical recurrence relations. \| [🌐](https://recurrence-relation-solver.streamlit.app/)  | 2025 |
@@ -304,7 +304,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-*The real ones*
+*Giga Nigas*
 
 </div>
 
@@ -320,7 +320,13 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--15_21%3A01%3A58_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+---
+
+</div>
+
+<div align="center">
+
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--15_21%3A51%3A03_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
