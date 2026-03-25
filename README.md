@@ -75,14 +75,11 @@ Software engineer with hands-on experience building backend systems, desktop app
 | **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. \| [🌐](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | 2025 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | 2025 |
-| `UNI` **[Automated Index Recommender](https://github.com/abdxdev/automated-index-recommender)** | Tool for analyzing MongoDB query performance and recommending optimal indexes. \| [🌐](https://automated-index-recommender.streamlit.app/)  | 2025 |
 | `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. \| [🌐](https://odoo-lens.vercel.app)  | 2025 |
 | `UNI` **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | Tool for solving mathematical recurrence relations. \| [🌐](https://recurrence-relation-solver.streamlit.app/)  | 2025 |
 | **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate markdown badges for README files. \| [🌐](https://markdown-badge-generator.streamlit.app/)  | 2023 |
 | **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app)  | 2024 |
-| **[Prize Bond Finder](https://github.com/abdxdev/prize-bond-finder)** | Desktop application for managing and tracking prize bonds. | 2023 |
 | **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | 2023 |
-| **[Console Utility](https://github.com/abdxdev/Console-Utility)** | Library providing utilities for console text formatting and cursor movement. | 2024 |
 | **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app)  | 2024 |
 
 </details>
@@ -325,7 +322,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--25_02%3A26%3A17_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--25_12%3A21%3A37_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
