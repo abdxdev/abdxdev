@@ -15,11 +15,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Generate README
-        run: curl -s https://abdxdev.vercel.app/api/readme > README.md
+        run: |
+          curl -sS https://abdxdev.vercel.app/api/readme > README.new
+
+          if grep -q "FUNCTION_INVOCATION_TIMEOUT" README.new; then
+            echo "FUNCTION_INVOCATION_TIMEOUT detected in response. Skipping README update."
+            rm -f README.new
+            exit 0
+          fi
+
+          mv README.new README.md
       - name: Commit updated README
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
           git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
           git commit -m "Update README.md"
           git push origin main
