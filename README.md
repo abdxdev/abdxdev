@@ -12,7 +12,13 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-### **[abdxdev.vercel.app](https://abdxdev.vercel.app) / [abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
+### Portfolio: **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
+
+</div>
+
+<div align="center">
+
+### Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 </div>
 
@@ -91,17 +97,9 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-*"Planning to watch" list == "Issues" tab*
+*keep calm and watch on*
 
 </div>
-
-<div align="center">
-
-[![Anime Stats](<https://raw.githubusercontent.com/abdxdev/abdxdev/refs/heads/main/metrics/anilist.svg>)](undefined)
-
-</div>
-
-<img align='right' src='https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/gif/anime_gif.gif' height='170'>
 
 <details><summary>Planning</summary>
 
@@ -321,7 +319,7 @@ Software engineer with hands-on experience building backend systems, desktop app
 
 <div align="center">
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--26_09%3A36%3A56_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--26_10%3A02%3A00_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 </div>
 
