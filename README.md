@@ -41,9 +41,9 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | :---: | :---: | :---: |
 | **[Abdxdev Cn](https://github.com/abdxdev/abdxdev-cn)** [🌐](https://abdxdev-cn.vercel.app/)  | **[Markdown Math Solver](https://github.com/abdxdev/markdown-math-solver)** [🌐](https://youtu.be/X-ZKafMsgVU)  | **[Markdown Latex Pdf Builder](https://github.com/abdxdev/markdown-latex-pdf-builder)** [🌐](https://github.com/abdxdev/markdown-latex-pdf-builder/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  |
 | Personal Component Library made using Shadcn/ui | A command-line tool that processes Python code embedded in LaTeX math blocks in Markdown files. | A vscode tool that converts advanced Markdown with diagrams, code execution, and custom macros into publication-ready LaTeX PDFs. |
-| <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
-| `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
-| Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
+| <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
+| **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.vercel.app)  | `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
+| Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. | Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
 
 </div>
 
@@ -51,15 +51,19 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 | Name | Description | Created |
 | --- | --- | --- |
+| `WIP` **[Virtual Student](https://github.com/abdxdev/virtual-student)** | A SaaS platform with an intelligent virtual student who studies for you and manages your schedule. | 2025 |
 | **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. \| [🌐](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | 2025 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** | VS Code extension that simulates realistic typing from clipboard or AI-generated code. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** | VS Code extension that converts plain English descriptions into LaTeX equations. \| [🌐](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | 2025 |
 | `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. \| [🌐](https://odoo-lens.vercel.app)  | 2025 |
 | `UNI` **[Recurrence Relation Solver](https://github.com/abdxdev/Recurrence-Relation-Solver)** | Tool for solving mathematical recurrence relations. \| [🌐](https://recurrence-relation-solver.streamlit.app/)  | 2025 |
+| `UNI` **[Sorting Algorithm Performance Visualization](https://github.com/abdxdev/Sorting-Algorithm-Performance-Visualization)** | Visualize sorting algorithm performance across different inputs and dataset variations. \| [🌐](https://sorting-algorithm-performance-visualization.streamlit.app/)  | 2024 |
 | **[Markdown Badge Generator](https://github.com/abdxdev/Markdown-badge-generator)** | Web-app to generate markdown badges for README files. \| [🌐](https://markdown-badge-generator.streamlit.app/)  | 2023 |
+| `UNI` **[Terminal Based Rich Text Editor](https://github.com/abdxdev/Terminal-Based-Rich-Text-Editor)** | High-performance terminal editor with autosuggestions, undo/redo, and customizable shortcuts. | 2024 |
 | **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app)  | 2024 |
 | **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | 2023 |
 | **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app)  | 2024 |
+| **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | Django-based API for WhatsApp messaging with plugin support and GPT integration. \| [🌐](https://whatsapp-api-backend.vercel.app)  | 2024 |
 
 </details>
 
@@ -269,7 +273,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--27_10%3A15%3A50_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--27_15%3A25%3A36_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
