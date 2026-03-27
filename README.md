@@ -41,9 +41,9 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | :---: | :---: | :---: |
 | **[Abdxdev Cn](https://github.com/abdxdev/abdxdev-cn)** [🌐](https://abdxdev-cn.vercel.app/)  | **[Markdown Math Solver](https://github.com/abdxdev/markdown-math-solver)** [🌐](https://youtu.be/X-ZKafMsgVU)  | **[Markdown Latex Pdf Builder](https://github.com/abdxdev/markdown-latex-pdf-builder)** [🌐](https://github.com/abdxdev/markdown-latex-pdf-builder/blob/main/test/COMPREHENSIVE-GUIDE.pdf?raw=true)  |
 | Personal Component Library made using Shadcn/ui | A command-line tool that processes Python code embedded in LaTeX math blocks in Markdown files. | A vscode tool that converts advanced Markdown with diagrams, code execution, and custom macros into publication-ready LaTeX PDFs. |
-| <a href="https://github.com/abdxdev/screenshoots" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/screenshoots/main/screenshots/screenshot_1.png" alt="Screenshoots" width="300"></a> | <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
-| **[Screenshoots](https://github.com/abdxdev/screenshoots)** [🌐](https://screenshoots.vercel.app)  | `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
-| Preview URLs in device frames, create isometric galleries, and style screenshots with overlays and gradients. | Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
+| <a href="https://github.com/abdxdev/AMOS" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/AMOS/main/screenshots/screenshot_1.png" alt="AMOS" width="300"></a> | <a href="https://github.com/abdxdev/Context-Menu-Plugin-Manager" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/Context-Menu-Plugin-Manager/main/screenshots/screenshot_1.png" alt="Context Menu Plugin Manager" width="300"></a> |
+| `UNI` **[AMOS](https://github.com/abdxdev/AMOS)** | **[Context Menu Plugin Manager](https://github.com/abdxdev/Context-Menu-Plugin-Manager)** |
+| Innovative restaurant ordering and management system for customers, managers, and admins. | Manage context menu plugins to extend functionality in various directories using Python scripts. |
 
 </div>
 
@@ -269,7 +269,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--26_10%3A30%3A55_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--27_02%3A34%3A31_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
