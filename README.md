@@ -62,7 +62,6 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. \| [🌐](https://hianime-to-myanimelist.vercel.app)  | 2024 |
 | **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | 2023 |
 | **[Google Classroom API](https://github.com/abdxdev/Google_Classroom_API)** | Django project for tracking Google Classroom activities and sending notifications. \| [🌐](https://google-classroom-api.vercel.app)  | 2024 |
-| **[Whatsapp API](https://github.com/abdxdev/Whatsapp_API)** | Django-based API for WhatsApp messaging with plugin support and GPT integration. \| [🌐](https://whatsapp-api-backend.vercel.app)  | 2024 |
 
 </details>
 
@@ -272,7 +271,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--27_20%3A54%3A26_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--28_02%3A25%3A36_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
