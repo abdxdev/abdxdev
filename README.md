@@ -4,7 +4,7 @@
 
 Software engineer with hands-on experience building backend systems, desktop applications, and developer tools, passionate about automation, clean code, and creating solutions that improve productivity.
 
-![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=860&height=48>)
+![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=862&height=48>)
 
 Portfolio: **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
 
