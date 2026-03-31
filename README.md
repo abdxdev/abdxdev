@@ -1,18 +1,16 @@
 <div align="center">
 
-[![Abd Dev](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/gif/intro.gif>)](https://abdxdev.vercel.app)
+![abdxdev](<https://abdxdev.vercel.app/api/readme/title/hero?items=HI+THERE,I%27M,ABDUL+RAHMAN,AKA,ABDXDEV&color=teal>)
 
 Software engineer with hands-on experience building backend systems, desktop applications, and developer tools, passionate about automation, clean code, and creating solutions that improve productivity.
 
-![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=860&height=48>)
+![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=860&height=50>)
 
 Portfolio: **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
 
 Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
-![Languages & Tools](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/languages_and_tools.png>)
-
-*click see more to view all skills*
+![Languages & Tools](<https://abdxdev.vercel.app/api/readme/title?t=LANGUAGES+&+TOOLS&c=teal>)
 
 ![C++](<https://img.shields.io/badge/C%2B%2B-e65c5c?style=for-the-badge&logo=cplusplus&logoColor=ffffff>) ![LaTeX](<https://img.shields.io/badge/LaTeX-e6c35c?style=for-the-badge&logo=latex&logoColor=ffffff>) ![Supabase](<https://img.shields.io/badge/Supabase-a1e65c?style=for-the-badge&logo=supabase&logoColor=ffffff>) ![Next.js](<https://img.shields.io/badge/Next.js-5ce67e?style=for-the-badge&logo=nextdotjs&logoColor=ffffff>) ![Django](<https://img.shields.io/badge/Django-5ce6e6?style=for-the-badge&logo=django&logoColor=ffffff>) ![Flask](<https://img.shields.io/badge/Flask-5c7ee6?style=for-the-badge&logo=flask&logoColor=ffffff>) ![WinUI 3](<https://img.shields.io/badge/WinUI_3-a15ce6?style=for-the-badge&logo=winui3&logoColor=ffffff>) ![Flutter](<https://img.shields.io/badge/Flutter-e65cc3?style=for-the-badge&logo=flutter&logoColor=ffffff>) ![.NET](<https://img.shields.io/badge/.NET-e65c5c?style=for-the-badge&logo=dotnet&logoColor=ffffff>)
 
@@ -35,9 +33,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 <div align="center">
 
-![Featured Projects](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/featured_projects.png>)
-
-*click see more to view all projects*
+![Featured Projects](<https://abdxdev.vercel.app/api/readme/title?t=FEATURED+PROJECTS&c=teal>)
 
 | <a href="https://github.com/abdxdev/abdxdev-cn" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/abdxdev-cn/master/screenshots/screenshot_1.png" alt="Abdxdev Cn" width="300"></a> | <a href="https://github.com/abdxdev/markdown-math-solver" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/markdown-math-solver/main/screenshots/screenshot_1.png" alt="Markdown Math Solver" width="300"></a> | <a href="https://github.com/abdxdev/markdown-latex-pdf-builder" target="_blank"><img src="https://raw.githubusercontent.com/abdxdev/markdown-latex-pdf-builder/main/screenshots/screenshot_1.png" alt="Markdown Latex Pdf Builder" width="300"></a> |
 | :---: | :---: | :---: |
@@ -69,9 +65,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 <div align="center">
 
-![Anime List](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/anime_list.png>)
-
-*you reek of not having watched enough anime*
+![Anime List](<https://abdxdev.vercel.app/api/readme/title?t=ANIME+LIST&c=teal>)
 
 </div>
 
@@ -211,9 +205,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 <div align="center">
 
-![Game List](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/game_list.png>)
-
-*git commit -m 'died again'*
+![Game List](<https://abdxdev.vercel.app/api/readme/title?t=GAME+LIST&c=teal>)
 
 </div>
 
@@ -259,9 +251,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 <div align="center">
 
-![Meet my Code Buddies!](<https://raw.githubusercontent.com/abdxdev/portfolio/refs/heads/main/public/assets/titles/friends.png>)
-
-*Giga Nigas*
+![Meet my Code Buddies!](<https://abdxdev.vercel.app/api/readme/title?t=MEET+MY+CODE+BUDDIES!&c=teal>)
 
 | abeehimr | Sohaib |
 | :---: | :---: |
@@ -271,7 +261,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--31_02%3A34%3A47_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--03--31_10%3A20%3A51_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
