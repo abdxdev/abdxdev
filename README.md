@@ -51,7 +51,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 | Name | Description | Tags | Created |
 | --- | --- | --- | --- |
-| **[Ai Regex Search](https://github.com/abdxdev/ai-regex-search)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. | `ai`, `gemini-api`, `regex`, `vscode-extension` | 2025 |
+| **[AI Regex Search](https://github.com/abdxdev/AI-Regex-Search)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. | `ai`, `gemini-api`, `regex`, `vscode-extension` | 2025 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | VS Code extension that simulates realistic typing from clipboard or AI-generated code. | `ai`, `gemini-api`, `typing`, `vscode-extension` | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | VS Code extension that converts plain English descriptions into LaTeX equations. | `ai`, `gemini-api`, `helper`, `katex`, `latex`, `markdown`, `vscode-extension` | 2025 |
 | `UNI` **[Odoo Lens](https://github.com/abdxdev/odoo-lens)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://odoo-lens.vercel.app)  | Odoo Lens enhances analytics, search, and management features for Odoo ERP systems. | `database-explorer`, `google-ai`, `hacking`, `nextjs`, `odoo`, `security-research` | 2025 |
@@ -199,9 +199,9 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 <details><summary>Current</summary>
 
-| JUJUTSU KAISEN ...art 1 | Hell’s Paradise...son 2 | Classroom of th...ester |
-| :---: | :---: | :---: |
-| [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) | [![Hell’s Paradise Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg)](https://anilist.co/anime/166613) | [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) |
+| JUJUTSU KAISEN ...art 1 | Hell’s Paradise...son 2 | Classroom of th...ester | Zom 100: Bucket... Dead |
+| :---: | :---: | :---: | :---: |
+| [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) | [![Hell’s Paradise Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg)](https://anilist.co/anime/166613) | [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) | [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) |
 
 </details>
 
@@ -263,7 +263,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--05_02%3A40%3A16_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--06_02%3A41%3A29_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
