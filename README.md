@@ -1,10 +1,10 @@
 <div align="center">
 
-![abdxdev](<https://abdxdev.vercel.app/api/readme/title?i=HELLO+THERE,I'M,ABDUL+RAHMAN,AKA,ABDXDEV,&c=teal>)
+![abdxdev](<https://abdxdev.vercel.app/api/readme/title?i=HELLO+THERE,I'M,ABDUL+RAHMAN,AKA,ABDXDEV&c=teal>)
 
 Software engineer with hands-on experience building backend systems, desktop applications, and developer tools, passionate about automation, clean code, and creating solutions that improve productivity.
 
-![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=858&height=49>)
+![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=858&height=48>)
 
 Portfolio: **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
 
