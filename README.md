@@ -1,10 +1,10 @@
 <div align="center">
 
-![abdxdev](<https://abdxdev.vercel.app/api/readme/title?i=HELLO+THERE,I'M,ABDUL+RAHMAN,AKA,ABDXDEV&c=teal>)
+![abdxdev](<https://abdxdev.vercel.app/api/readme/title?i=HELLO+THERE,I'M,ABDUL+RAHMAN,AKA,ABDXDEV,&c=teal>)
 
 Software engineer with hands-on experience building backend systems, desktop applications, and developer tools, passionate about automation, clean code, and creating solutions that improve productivity.
 
-![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=858&height=48>)
+![Subtitles Marquee](<https://abdxdev.vercel.app/api/readme/subtitles?width=858&height=49>)
 
 Portfolio: **[abdxdev.vercel.app](https://abdxdev.vercel.app)**
 
@@ -265,7 +265,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--07_02%3A35%3A44_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--08_02%3A36%3A43_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
