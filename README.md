@@ -202,8 +202,8 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | JUJUTSU KAISEN ...art 1 | Hell’s Paradise...son 2 | Classroom of th...ester | Zom 100: Bucket... Dead |
 | :---: | :---: | :---: | :---: |
 | [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) | [![Hell’s Paradise Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg)](https://anilist.co/anime/166613) | [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) | [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) |
-| Zom 100: Bucket... Dead |
-| [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) |
+| JUJUTSU KAISEN ...art 1 | Zom 100: Bucket... Dead |
+| [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) | [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) |
 
 </details>
 
@@ -265,7 +265,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--10_14%3A27%3A57_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--11_02%3A27%3A51_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
