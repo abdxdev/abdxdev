@@ -265,6 +265,8 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
+![View count](https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000)
+
 [![Click to Update](https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--18_02%3A35%3A10_UTC-080808?style=for-the-badge)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
