@@ -178,12 +178,12 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | [![Violet Evergarden](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21827-ubzq619ZA2E9.png)](https://anilist.co/anime/21827) | [![Your Name.](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png)](https://anilist.co/anime/21519) | [![Mob Psycho 100](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21507-6YUSbh2m0N1p.jpg)](https://anilist.co/anime/21507) | [![The Daily Life of the Immortal King](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114121-vxWVgIBlBjox.png)](https://anilist.co/anime/114121) |
 | SAKAMOTO DAYS | Mob Psycho 100 II | Mob Psycho 100 III | Hell’s Paradise |
 | [![SAKAMOTO DAYS](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png)](https://anilist.co/anime/177709) | [![Mob Psycho 100 II](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101338-rokVscjRYzdP.jpg)](https://anilist.co/anime/101338) | [![Mob Psycho 100 III](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140439-bPKmhe1wNxc9.jpg)](https://anilist.co/anime/140439) | [![Hell’s Paradise](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-Gc2t8b8M0mVu.jpg)](https://anilist.co/anime/128893) |
-| Charlotte | Takopi's Origin...l Sin | Dr. STONE SCIEN...our 2 | DAN DA DAN Season 2 |
-| [![Charlotte](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20997-axVYrsIfjtYJ.jpg)](https://anilist.co/anime/20997) | [![Takopi's Original Sin](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-7uzY4fA3hokP.jpg)](https://anilist.co/anime/185407) | [![Dr. STONE SCIENCE FUTURE Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189117-TLtCXYT7JPoL.jpg)](https://anilist.co/anime/189117) | [![DAN DA DAN Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg)](https://anilist.co/anime/185660) |
-| Wistoria: Wand ...Sword | SPY x FAMILY Se...son 3 | JUJUTSU KAISEN ...art 1 | Zom 100: Bucket... Dead |
-| [![Wistoria: Wand and Sword](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174576-tpKcHG0eO6CS.jpg)](https://anilist.co/anime/174576) | [![SPY x FAMILY Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177937-Tzgg6rAdhCoH.jpg)](https://anilist.co/anime/177937) | [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) | [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) |
-| JUJUTSU KAISEN ...art 1 | Zom 100: Bucket... Dead |
-| [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) | [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) |
+| Kakegurui | Charlotte | Takopi's Origin...l Sin | Dr. STONE SCIEN...our 2 |
+| [![Kakegurui](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg)](https://anilist.co/anime/98314) | [![Charlotte](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20997-axVYrsIfjtYJ.jpg)](https://anilist.co/anime/20997) | [![Takopi's Original Sin](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-7uzY4fA3hokP.jpg)](https://anilist.co/anime/185407) | [![Dr. STONE SCIENCE FUTURE Cour 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189117-TLtCXYT7JPoL.jpg)](https://anilist.co/anime/189117) |
+| DAN DA DAN Season 2 | Wistoria: Wand ...Sword | SPY x FAMILY Se...son 3 | JUJUTSU KAISEN ...art 1 |
+| [![DAN DA DAN Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg)](https://anilist.co/anime/185660) | [![Wistoria: Wand and Sword](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174576-tpKcHG0eO6CS.jpg)](https://anilist.co/anime/174576) | [![SPY x FAMILY Season 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177937-Tzgg6rAdhCoH.jpg)](https://anilist.co/anime/177937) | [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) |
+| Zom 100: Bucket... Dead | Kakegurui | JUJUTSU KAISEN ...art 1 | Zom 100: Bucket... Dead |
+| [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) | [![Kakegurui](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg)](https://anilist.co/anime/98314) | [![JUJUTSU KAISEN Season 3: The Culling Game Part 1](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg)](https://anilist.co/anime/172463) | [![Zom 100: Bucket List of the Dead](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159831-cJUNqCqzuApc.png)](https://anilist.co/anime/159831) |
 
 </details>
 
@@ -201,11 +201,11 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 <details><summary>Current</summary>
 
-| Kakegurui | Hell’s Paradise...son 2 | Classroom of th...ester | Kakegurui |
+| Classroom of th...ester | Witch Hat Atelier | Hell’s Paradise...son 2 | Classroom of th...ester |
 | :---: | :---: | :---: | :---: |
-| [![Kakegurui](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg)](https://anilist.co/anime/98314) | [![Hell’s Paradise Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg)](https://anilist.co/anime/166613) | [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) | [![Kakegurui](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98314-TSJykxVwCCQN.jpg)](https://anilist.co/anime/98314) |
-| Classroom of th...ester |
-| [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) |
+| [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) | [![Witch Hat Atelier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg)](https://anilist.co/anime/147105) | [![Hell’s Paradise Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg)](https://anilist.co/anime/166613) | [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) |
+| Witch Hat Atelier | Kakegurui xx |
+| [![Witch Hat Atelier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg)](https://anilist.co/anime/147105) | [![Kakegurui xx](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100876-RfvmpW1B8bDQ.png)](https://anilist.co/anime/100876) |
 
 </details>
 
@@ -269,7 +269,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000)>)
 
-[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--22_02%3A43%3A44_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--23_02%3A47%3A30_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
