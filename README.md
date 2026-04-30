@@ -265,7 +265,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ---
 
-![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000)>)
+![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000>)
 
 [![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--30_03%3A24%3A59_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
 
