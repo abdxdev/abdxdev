@@ -201,9 +201,9 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 <details><summary>Current</summary>
 
-| Hell’s Paradise...son 2 | Classroom of th...ester | Witch Hat Atelier |
-| :---: | :---: | :---: |
-| [![Hell’s Paradise Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg)](https://anilist.co/anime/166613) | [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) | [![Witch Hat Atelier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg)](https://anilist.co/anime/147105) |
+| Hell’s Paradise...son 2 | Classroom of th...ester | Witch Hat Atelier | Witch Hat Atelier |
+| :---: | :---: | :---: | :---: |
+| [![Hell’s Paradise Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166613-uHB8q3D4qbon.jpg)](https://anilist.co/anime/166613) | [![Classroom of the Elite 4th Season: Second Year, First Semester](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png)](https://anilist.co/anime/180745) | [![Witch Hat Atelier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg)](https://anilist.co/anime/147105) | [![Witch Hat Atelier](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg)](https://anilist.co/anime/147105) |
 
 </details>
 
@@ -267,7 +267,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000)>)
 
-[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--29_03%3A23%3A34_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--04--30_03%3A24%3A59_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
