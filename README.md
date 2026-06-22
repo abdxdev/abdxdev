@@ -108,8 +108,8 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | [![The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162694-QFBei5pbjSh8.png)](https://anilist.co/anime/162694) | [![BOCCHI THE ROCK!](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png)](https://anilist.co/anime/130003) | [![Gurren Lagann](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2001-XwRnjzGeFWRQ.png)](https://anilist.co/anime/2001) | [![Mission: Yozakura Family](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158898-O3egiBNkxLQO.png)](https://anilist.co/anime/158898) |
 | Ergo Proxy | Fate/Zero | Liar, Liar | Kizumonogatari ...ketsu |
 | [![Ergo Proxy](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx790-YTUCvBKX8ZWK.jpg)](https://anilist.co/anime/790) | [![Fate/Zero](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-M4Hd9qrHGrXk.png)](https://anilist.co/anime/10087) | [![Liar, Liar](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131863-G7bfAMPea08v.png)](https://anilist.co/anime/131863) | [![Kizumonogatari Part 1: Tekketsu](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9260-cl7sczYOpTeW.png)](https://anilist.co/anime/9260) |
-| Re:ZERO -Starti...son 4 | Dr. STONE SCIEN...our 3 |
-| [![Re:ZERO -Starting Life in Another World- Season 4](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg)](https://anilist.co/anime/189046) | [![Dr. STONE SCIENCE FUTURE Cour 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg)](https://anilist.co/anime/199221) |
+| Re:ZERO -Starti...son 4 | Dr. STONE SCIEN...our 3 | Wistoria: Wand ...son 2 |
+| [![Re:ZERO -Starting Life in Another World- Season 4](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg)](https://anilist.co/anime/189046) | [![Dr. STONE SCIENCE FUTURE Cour 3](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-TReDQMNhslHu.jpg)](https://anilist.co/anime/199221) | [![Wistoria: Wand and Sword Season 2](https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg)](https://anilist.co/anime/182300) |
 
 </details>
 
@@ -269,7 +269,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000>)
 
-[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--06--21_04%3A22%3A06_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--06--22_04%3A24%3A36_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
