@@ -259,9 +259,9 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ![Meet my Code Buddies!](<https://abdxdev.vercel.app/api/readme/title?t=MEET+MY+CODE+BUDDIES!&c=teal>)
 
-| Abeehimr | SSKnT |
+| abeehimr | Sohaib |
 | :---: | :---: |
-| [![Abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![SSKnT](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
+| [![abeehimr](<https://github.com/Abeehimr.png?size=150>)](https://github.com/Abeehimr) | [![Sohaib](<https://github.com/SSKnT.png?size=150>)](https://github.com/SSKnT) |
 | [@Abeehimr](https://github.com/Abeehimr) | [@SSKnT](https://github.com/SSKnT) |
 | [![LinkedIn](<https://abdxdev.vercel.app/assets/icons/linkedin.svg>)](https://linkedin.com/in/ibraheemqureshi) [![Email](<https://abdxdev.vercel.app/assets/icons/mail.svg>)](mailto:ibraheemkureshi@gmail.com) [![Portfolio](<https://abdxdev.vercel.app/assets/icons/globe.svg>)](https://ibraheem-qureshi.vercel.app/) | [![LinkedIn](<https://abdxdev.vercel.app/assets/icons/linkedin.svg>)](https://linkedin.com/in/sohaib-shaukat-7s) [![Email](<https://abdxdev.vercel.app/assets/icons/mail.svg>)](mailto:sohaibshaukat.dev@gmail.com) [![Portfolio](<https://abdxdev.vercel.app/assets/icons/globe.svg>)](https://sohaibshaukat.netlify.app/) [![Resume](<https://abdxdev.vercel.app/assets/icons/document.svg>)](https://sohaibshaukat.netlify.app/resume.pdf) |
 
@@ -269,7 +269,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000>)
 
-[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--08--16_01%3A21%3A51_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--08--17_01%3A19%3A24_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
