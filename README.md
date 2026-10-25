@@ -51,7 +51,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 | Name | Description | Tags | Created |
 | --- | --- | --- | --- |
-| **[Omarchy Onscreen Keyboard](https://github.com/abdxdev/omarchy-onscreen-keyboard)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://omarchyplugins.com/plugin.html?id=io.github.abdxdev.onscreen-keyboard)  | A clickable QWERTY keyboard panel for the Omarchy Quattro bar. | `hyprland`, `linux`, `omarchy`, `onscreen-keyboard`, `qml`, `wtype` | 2026 |
+| **[Omarchy Onscreen Keyboard](https://github.com/abdxdev/omarchy-onscreen-keyboard)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://plugins.omarchy.org/plugin.html?id=io.github.abdxdev.onscreen-keyboard)  | A clickable QWERTY keyboard panel for the Omarchy Quattro bar. | `hyprland`, `linux`, `omarchy`, `onscreen-keyboard`, `qml`, `wtype` | 2026 |
 | **[AI Regex Search](https://github.com/abdxdev/AI-Regex-Search)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://marketplace.visualstudio.com/items/?itemName=abd-dev.ai-regex-search)  | VS Code extension that generates regular expressions from natural language and inserts them into the search tool. | `ai`, `gemini-api`, `regex`, `vscode-extension` | 2025 |
 | **[10x Pretender](https://github.com/abdxdev/10x-Pretender)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://marketplace.visualstudio.com/items?itemName=abd-dev.10x-pretender)  | VS Code extension that simulates realistic typing from clipboard or AI-generated code. | `ai`, `gemini-api`, `typing`, `vscode-extension` | 2025 |
 | **[AI LaTeX Helper](https://github.com/abdxdev/AI-LaTeX-Helper)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://marketplace.visualstudio.com/items?itemName=abd-dev.ai-latex-helper)  | VS Code extension that converts plain English descriptions into LaTeX equations. | `ai`, `gemini-api`, `helper`, `katex`, `latex`, `markdown`, `vscode-extension` | 2025 |
@@ -63,6 +63,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://hianime-to-myanimelist.vercel.app)  | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. | `anime-list-transfer`, `django`, `hianime-to-myanimelist`, `myanimelist-api`, `oauth` | 2024 |
 | **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | `cairosvg`, `hotkey`, `hotkeys`, `mapper`, `minecraft`, `svg` | 2023 |
 | **[Classroom Activity Notifier](https://github.com/abdxdev/Classroom-Activity-Notifier)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://google-classroom-api.vercel.app)  | Django project for tracking Google Classroom activities and sending notifications. | `django`, `google-api`, `google-classroom`, `notifications`, `service`, `webhook` | 2024 |
+| **[Omarchy Audio Glow](https://github.com/abdxdev/omarchy-audio-glow)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://plugins.omarchy.org/plugin.html?id=io.github.abdxdev.audio-glow)  | Superwhisper's recording glow along the bottom of the screen, driven by speaker audio - never the microphone. An Omarchy bar plugin. | `hyprland`, `omarchy`, `quickshell`, `superwhisper` | 2026 |
 
 </details>
 
@@ -270,7 +271,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000>)
 
-[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--10--24_03%3A40%3A06_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--10--25_03%3A37%3A43_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
