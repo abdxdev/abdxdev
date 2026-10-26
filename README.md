@@ -63,7 +63,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 | **[Hianime To Myanimelist](https://github.com/abdxdev/hianime-to-myanimelist)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://hianime-to-myanimelist.vercel.app)  | Web app to transfer anime lists from HiAnime.to to MyAnimeList.net. | `anime-list-transfer`, `django`, `hianime-to-myanimelist`, `myanimelist-api`, `oauth` | 2024 |
 | **[Minecraft Hotkey Map](https://github.com/abdxdev/minecraft-hotkey-map)** | Python project for mapping Minecraft hotkeys. | `cairosvg`, `hotkey`, `hotkeys`, `mapper`, `minecraft`, `svg` | 2023 |
 | **[Classroom Activity Notifier](https://github.com/abdxdev/Classroom-Activity-Notifier)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://google-classroom-api.vercel.app)  | Django project for tracking Google Classroom activities and sending notifications. | `django`, `google-api`, `google-classroom`, `notifications`, `service`, `webhook` | 2024 |
-| **[Omarchy Audio Glow](https://github.com/abdxdev/omarchy-audio-glow)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://plugins.omarchy.org/plugin.html?id=io.github.abdxdev.audio-glow)  | Superwhisper's recording glow along the bottom of the screen, driven by speaker audio - never the microphone. An Omarchy bar plugin. | `hyprland`, `omarchy`, `quickshell`, `superwhisper` | 2026 |
+| **[Omarchy Audio Glow](https://github.com/abdxdev/omarchy-audio-glow)** [![Site](<https://abdxdev.vercel.app/assets/icons/external-link.svg>)](https://plugins.omarchy.org/plugin.html?id=io.github.abdxdev.audio-glow)  | Speaker-driven Superwhisper-like glow along the bottom of the screen, reacting to speaker output. | `hyprland`, `omarchy`, `quickshell`, `widget` | 2026 |
 
 </details>
 
@@ -271,7 +271,7 @@ Resume: **[abdxdev.vercel.app/resume](https://abdxdev.vercel.app/resume)**
 
 ![View count](<https://komarev.com/ghpvc/?username=abdxdev&abbreviated=true&style=for-the-badge&color=000000>)
 
-[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--10--25_17%3A43%3A51_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
+[![Click to Update](<https://img.shields.io/badge/Click_to_Update-Last_Updated%3A_2026--10--26_03%3A40%3A49_UTC-080808?style=for-the-badge>)](https://abdxdev.vercel.app/update-readme)
 
 _This GitHub profile is auto-generated. If you want to update it, click the button above._
 
